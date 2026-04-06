@@ -1,0 +1,199 @@
+﻿key,value
+loc_talent_adamant_clip_size_alt_desc,{clip_size:%s} до розмір магазину
+loc_talent_melee_damage_boost_medium,Посилення шкоди ближнього бою
+loc_talent_melee_damage_boost_medium_desc,{melee_damage:%s} до шкоди у ближньому бою.
+loc_talent_movement_speed_low,Посилення швидкості руху
+loc_talent_movement_speed_low_desc,{movement_speed:%s} до швидкість руху.
+loc_talent_ranged_damage_medium,Посилення шкоди дальнього бою
+loc_talent_ranged_damage_medium_desc,{ranged_damage:%s} до шкоди дальнього бою.
+loc_talent_ranger_ads_drains_stamina_boost,Смертестріл
+loc_talent_ranger_grenade_on_elite_kills_coop,Команда підривників
+loc_talent_ranger_reload_speed_empty_mag,Тактична перезарядка
+loc_talent_ranger_replenish_grenade,Склад боєприпасів
+loc_talent_ranger_volley_fire_big_game_hunter,Чим більша шафа...
+loc_talent_reload_speed_medium,Покращена перезарядка
+loc_talent_reload_speed_medium_desc,{reload_speed:%s} до швидкості перезарядки.
+loc_talent_stamina_low,Посилення витривалості
+loc_talent_stamina_low_desc,{stamina:%s} витривалості.
+loc_talent_stamina_regen_delay,Посилення відновлення витривалості
+loc_talent_stamina_regen_delay_desc,Зменшення затримки відновлення витривалості на {duration:%s}с
+loc_talent_toughness_boost_low,Посилення щитів
+loc_talent_toughness_boost_low_desc,{toughness:%s} щитів.
+loc_talent_toughness_boost_medium,Посилення щитів
+loc_talent_toughness_boost_medium_desc,{toughness:%s} щитів.
+loc_talent_toughness_damage_reduction_medium,Зменшення шкоди по щитах
+loc_talent_toughness_damage_reduction_medium_desc,{toughness:%s} зменшення шкоди по щитах.
+loc_talent_veteran_2_tier_1_name_3,Таємний агент
+loc_talent_veteran_2_tier_2_name_2,Заряджай і стріляй
+loc_talent_veteran_ability_marksman,Міткий стрілець
+loc_talent_veteran_ability_marksman_desc,"Після використання здібності, протягом {duration%s}с будь-які влучання у слабке місце дають {power%s} сили.
+Під час використання {talent_name:%s}, ефект спрацьовує після виходу зі невидимості."
+loc_talent_veteran_ads_drains_stamina_boost_desc,"{crit_chance:%s} шансу критичного удару і {sway_reduction:%s} зменшення хитання під час використання альтернативного вогню дальньої зброї, але втрачається {stamina:%s} витривалість щосекунди та додатково {stamina_per_shot:%s} за кожен постріл."
+loc_talent_veteran_all_kills_replenish_toughness,Кров до крові
+loc_talent_veteran_all_kills_replenish_toughness_description,Вбивства відновлюють додатково {toughness%s} щитів.
+loc_talent_veteran_allies_share_toughness,Природжений лідер
+loc_talent_veteran_allies_share_toughness_coherency_increase_description,"Союзники в єдності відновлюють {toughness:%s} щитів стільки ж, скільки і Ветеран. Радіус єдності: {radius:%s}."
+loc_talent_veteran_ally_kills_increase_damage,Жага змагання
+loc_talent_veteran_ally_kills_increase_damage_description,"{proc_chance:%s} шансу отримати {damage:%s} до базового шкоди, {melee_impact:%s} до шкоди в ближньому бою та {suppression:%s} пригнічення на {duration:%s}с, коли союзник убиває ворога."
+loc_talent_veteran_ammo_increase,Набитий підзав'язку
+loc_talent_veteran_ammo_increase_desc,{ammo:%s} набоїв.
+loc_talent_veteran_better_deployables,Польова імпровізація
+loc_talent_veteran_better_deployables_description,"Ящики з набоями також відновлюють гранати.
+Медпаки лікують на {damage_heal:%s} швидше, очищують погань і відновлюють {toughness:%s} щитів за секунду."
+loc_talent_veteran_big_game_hunter,Вали його!
+loc_talent_veteran_big_game_hunter_description,{damage%s} до шкоди (по оґринах і потворах).
+loc_talent_veteran_block_break_gives_tdr,Залізна воля
+loc_talent_veteran_bonus_crit_chance_on_ammo,Перший залп
+loc_talent_veteran_bonus_crit_chance_on_ammo_desc,Перший {ammo:%s} патрон після перезарядки має {crit_chance:%s} шанс критичного влучання на дальній відстані.
+loc_talent_veteran_combat_ability_coherency_outlines,Покращений пріоритет цілей
+loc_talent_veteran_combat_ability_coherency_outlines_description,{talent_name:%s} тепер підсвічує еліту і спеціальних ворогів для союзників у єдності протягом {duration:%s}с.
+loc_talent_veteran_combat_ability_elite_and_special_outlines,Постава винищувача
+loc_talent_veteran_combat_ability_extra_charge,Бойовий нагляд
+loc_talent_veteran_combat_ability_extra_charge_description,"Бойова здібність отримує {charges:%s} заряд, але і {ability_cooldown:%s} перезарядки."
+loc_talent_veteran_combat_ability_increase_and_restore_toughness_to_coherency,Честь і обов’язок
+loc_talent_veteran_combat_ability_increase_and_restore_toughness_to_coherency_description,{talent_name:%s} тепер також надає Ветерану та союзникам у єдності {toughness:%s} щитів на {duration:%s}с. Цей бонус може перевищувати максимальну кількість щитів.
+loc_talent_veteran_combat_ability_ogryn_outlines_damage_description,"{talent_name:%s} тепер підсвічує всіх ворогів-оґринів, капітанів і потвор, а його тривалість збільшено до {duration:%s}с."
+loc_talent_veteran_combat_ability_ranged_enemies_outlines,Вогонь у відповідь
+loc_talent_veteran_combat_ability_ranged_enemies_outlines_description,{talent_name:%s} тепер підсвічує всіх  ворогів розміру людини із дальньої зброї.
+loc_talent_veteran_combat_ability_revives,Лише смерть звільнить від обов’язку
+loc_talent_veteran_combat_ability_revives_description,"{talent_name:%s} підіймає союзників, які були повалені, у межах радіуса, але зменшує цей радіус на {range%s} і збільшує перезарядку здібності на {ability_cooldown:%s}."
+loc_talent_veteran_combat_ability_stagger_nearby_enemies,Голос наказу
+loc_talent_veteran_combat_ability_stagger_nearby_enemies_description,"Відновлення  щитів і збиття з рівноваги всіх ворогів у радіусі {range:%s}м
+Базова перезарядка: {cooldown:%s}с."
+loc_talent_veteran_damage_coherency,Бойовий розрахунок
+loc_talent_veteran_damage_coherency_desc,{damage:%s} до шкоди для Ветерана та союзників у єдності.
+loc_talent_veteran_elite_kills_grant_ammo_coop_improved,Виживальник
+loc_talent_veteran_elite_kills_grant_ammo_coop_improved_cd_desc,"Відновлення {ammo_2:%s} набоїв для Ветерана та союзників у єдності щоразу, коли хтось із вас убиває еліту чи спеціаліста. Може спрацьовувати лише раз на {cooldown:%s}с.
+Це посилена версія таланту Стерв’ятник."
+loc_talent_veteran_elite_kills_reduce_cooldown,Тактична обізнаність
+loc_talent_veteran_elite_kills_reduce_cooldown_alt_desc,{regen:%s} відновлення перезарядки протягом {time:%s}с після вбивства спеціального ворога.
+loc_talent_veteran_extra_grenade,Підривник
+loc_talent_veteran_extra_grenade_and_throw_chance_description,Можеш нести {ammo:%s} додаткових гранат(и). {chance:%s} шанс кинути ще одну гранату (споживається лише одна).
+loc_talent_veteran_grenade_on_elite_kills_coop_desc,"{chance:%s} шансу відновити гранату, коли Ветеран або союзник у єдності вбиває елітного чи спеціального ворога."
+loc_talent_veteran_hits_cause_bleed,Зазубрений клинок
+loc_talent_veteran_hits_cause_bleed_desc,Накладення {stacks:%s} рівнів кровотечі на ціль при ударі в ближньому бою.
+loc_talent_veteran_improved_grenades,Гранатник
+loc_talent_veteran_improved_grenades_desc,"Покращення обраної гранату.
+{krak_grenade:%s}: {krak:%s} до шкоди.
+{frag_grenade:%s}: {frag_damage:%s} до шкоди і радіусу.
+{smoke_grenade:%s}: {smoke:%s} до тривалості."
+loc_talent_veteran_improved_tag,Фокус на цілі!
+loc_talent_veteran_improved_tag_dead_coherency_bonus,Перенаправити вогонь!
+loc_talent_veteran_improved_tag_description,"Отримання заряду фокусу на цілі кожні {time:%s}с (накопичується до {max_stacks:%s} разів).
+Позначення ворога накладає всі накопичені заряди на нього, змушуючи отримувати {damage:%s} додаткового шкоди за кожен заряд, це скидає  заряди фокусу до 1."
+loc_talent_veteran_increase_damage_vs_elites,Манія величності
+loc_talent_veteran_increase_damage_vs_elites_desc,{damage:%s} до базової шкоди (по елітних ворогах).
+loc_talent_veteran_increase_suppression,Пригнічення вогнем!
+loc_talent_veteran_increase_suppression_desc,{suppression:%s} до пригнічення від дальніх атак.
+loc_talent_veteran_increased_damage_based_on_range,Далекострільник
+loc_talent_veteran_increased_damage_based_on_range_new_desc,"Гравець завдає на {ranged_damage:%s} більше шкоди з дальньої зброї, цілям на відстані до {ranged_close:%s}м і до {max_ranged_damage:%s} шкоди по віддалених цілях. максимальний бонус на {ranged_far:%s}м."
+loc_talent_veteran_increased_weakspot_damage,Точні удари
+loc_talent_veteran_increased_weakspot_damage_desc,{damage:%s} шкоди по слабких місцях.
+loc_talent_veteran_invisibility_on_combat_ability,Інфільтрація
+loc_talent_veteran_invisibility_on_combat_ability_damage_desc,"Відновлення всіх щитів та введення у невидимість на {duration:%s}с, отримуючи {movement_speed:%s} швидкості руху. Вихід із невидимості пригнічує навколишніх ворогів. Під час невидимості та протягом {damage_duration:%s}с після неї Ветеран має {damage:%s} до шкоди. Будь яка атака виводить із невидимості.
+
+Базова перезарядка: {cooldown:%s}с."
+loc_talent_veteran_movement_bonus_on_toughness_broken_desc,"Імунітет до оглушення та сповільнення на {duration:%s}с і відновлення {stamina_percent:%s} витривалості, коли щити зламані.
+
+Перезарядка: {cooldown:%s}с."
+loc_talent_veteran_movement_speed_coherency,Зблизитись і вбити
+loc_talent_veteran_movement_speed_coherency_desc,{movement_speed:%s} до швидкості руху для гравця та союзників у єдності.
+loc_talent_veteran_movement_speed_on_toughness_broken,Назад до бою!
+loc_talent_veteran_movement_speed_towards_downed,Своїх не кидаєм
+loc_talent_veteran_movement_speed_towards_downed_description,"{revive_speed:%s} швидкості допомоги та підняття. {movement_speed%s} швидкості руху та імунітет до оглушення під час руху до союзника, який повержений або знерухомлений. Коли Ветеран підіймає поверженого союзника, він отримує {damage_reduction%s} зменшення шкоди на {duration%s}с."
+loc_talent_veteran_no_ammo_consumption_on_lasweapon_crit,Штурмовик
+loc_talent_veteran_no_ammo_consumption_on_lasweapon_crit_desc,Критичні удари з лазерної зброї не витрачають набоїв.
+loc_talent_veteran_ranged_power_out_of_melee,Зона ураження
+loc_talent_veteran_ranged_power_out_of_melee_new_desc,"{ranged_damage:%s} до базового шкоди з дальньої зброї, якщо Ветеран уникав атак у ближньому бою протягом {cooldown:%s}с."
+loc_talent_veteran_ranged_stance_toughness_description,"Вводить в стан стрілянини на {duration:%s}с. У цьому стані гравець миттєво дістає зброю дальнього бою, завдає на {damage:%s} більше шкоди зі зброї дальнього бою, на {weakspot_damage:%s} більше шкоди по слабких місцях, відновлює {toughness:%s} щитів щосекунди, а також значно зменшуються розкид і віддача.
+
+Елітні вороги та спеціалісти розміру людини підсвічуються на {duration:%s}с.
+
+Убивство підсвіченого ворога оновлює тривалість бонусів на {refresh_duration:%s}с.
+
+Базова перезарядка: {cooldown:%s}с.
+
+Це посилена версія {old_talent_name:%s}."
+loc_talent_veteran_reduce_swap_time,Єдиний рух
+loc_talent_veteran_reduce_swap_time_desc,{swap_speed} до швидкості зміни зброї.
+loc_talent_veteran_reduced_threat_after_combat_ability,Тишком нишком
+loc_talent_veteran_reduced_threat_after_stealth_desc,{threat_multiplier:%s} загрози протягом {duration:%s}с після виходу з невидимості.
+loc_talent_veteran_reload_speed_non_empty_mag_desc,"{reload_speed:%s} до швидкості перезарядки, якщо в зброї залишились набої."
+loc_talent_veteran_reload_speed_on_elite_kill,Знавіснілий стрілець
+loc_talent_veteran_reload_speed_on_elite_kill_desc,{reload_speed:%s} до швидкості перезарядки після вбивства елітного чи спеціального ворога.
+loc_talent_veteran_rending_bonus,Пробивні удари
+loc_talent_veteran_rending_bonus_desc,Надає {rending_multiplier:%s} до пробиття всій зброї.
+loc_talent_veteran_replenish_grenade_desc,Відновлення {amount:%s} гранат кожні {time:%s}с.
+loc_talent_veteran_replenish_toughness_and_boost_allies,Прикривальний вогонь
+loc_talent_veteran_replenish_toughness_and_boost_allies_desc,"Коли Ветеран вбиває ворога зі зброї дальнього бою, союзники в радіусі {radius:%s} метрів від цілі відновлюють {toughness:%s} щитів і отримують   {base_damage:%s} до всієї базової шкоди на {duration:%s}с."
+loc_talent_veteran_replenish_toughness_outside_melee,Перевести дух
+loc_talent_veteran_replenish_toughness_outside_melee_hit_desc,"Якщо Ветерана не атакували в ближньому бою протягом {duration:%s}с, він починає відновлювати {toughness:%s} щитів за секунду."
+loc_talent_veteran_snipers_focus,Стрілецький фокус
+loc_talent_veteran_snipers_focus_duration_desc,"Убивства в слабкі місця з дальньої зброї дають {stacks:%s} зарядів фокусу. До {max_stacks:%s} максимальних зарядів. Тривалість {duration:%s}с. заряди оновлюються при кожному влучанні в слабке місце та зникають по одному.
+
+Кожен заряд фокусу надає {power:%s} сили вправності пострілам та {reload_speed:%s} швидкості перезарядки."
+loc_talent_veteran_snipers_focus_increased_stacks,Далекобійний убивця
+loc_talent_veteran_snipers_focus_increased_stacks_description,Збільшення максимальної кількості зарядів фокусу з {stacks:%s} до {new_stacks:%s}.
+loc_talent_veteran_snipers_focus_rending_bonus,Прогалина в броні
+loc_talent_veteran_snipers_focus_rending_bonus_description,"{rending:%s} до пробиття, коли є {stacks:%s} або більше зарядів фокусу."
+loc_talent_veteran_snipers_focus_stamina_bonus_desc,"{toughness_replenish_multiplier:%s} відновлення щитів за кожен заряд фокусу. Додатково, убивства у слабке місце відновлюють {stamina:%s} витривалості."
+loc_talent_veteran_snipers_focus_toughness_bonus,Тунельне бачення
+loc_talent_veteran_tdr_on_high_toughness_desc,"{toughness_damage_reduction:%s} зменшення шкоди по щитах, якщо рівень щитів перевищує {toughness_percent:%s}."
+loc_talent_veteran_toughness_bonus_leaving_invisibility,Рішучість мисливця
+loc_talent_veteran_toughness_bonus_leaving_invisibility_desc,{talent_name:%s} надає {tdr%s} зменшення шкоди по щитах протягом {duration%s}с після виходу з невидимості.
+loc_talent_veteran_toughness_damage_reduction_per_ally,Злагоджене тренування
+loc_talent_veteran_toughness_damage_reduction_per_ally_description,До {toughness:%s} зменшення шкоди по щитах залежно від кількості союзників у єдності.
+loc_talent_veteran_toughness_on_elite_kill,Підтверджене вбивство
+loc_talent_veteran_toughness_on_elite_kill_desc,Відновлення {toughness:%s} щитів після вбивства елітного чи спеціального ворога та ще {toughness_over_time:%s} щитів протягом {duration:%s}с.
+loc_talent_veteran_toughness_on_weakspot_kill,Захопливе усунення
+loc_talent_veteran_toughness_on_weakspot_kill_alt_desc,Відновлення {toughness:%s} щитів і отримання {toughness_damage_reduction:%s} зменшення шкоди по щитах на {duration:%s}с після вбивства у слабке місце з дальньої зброї. Накопичується до {stacks:%s} разів. Заряди зникають по черзі.
+loc_talent_zealot_increased_flanking_damage_description,{damage:%s} до шкоди під час дальньої атаки в спину.
+loc_talent_ranger_stamina_on_ranged_dodge,Пригнись і ковзай
+loc_talent_toughness_boost_medium,Посилення щитів
+loc_talent_toughness_boost_medium_desc,{toughness:%s} щитів.
+loc_talent_veteran_ability_assault,Бій на ножах
+loc_talent_veteran_ability_assault_desc,"{power%s} до шкоди в ближньому бою на {duration%s}с після використання бойової здібності.
+
+Під час використання {talent_name:%s}, ефект починається після виходу з невидимості."
+loc_talent_veteran_continous_hits_apply_rending,Натиск
+loc_talent_veteran_continous_hits_apply_rending_description,Безперервні удари по одній цілі накладають {rending_multiplier:%s} крихкості на {duration:%s}с. Накопичується до {max_stacks:%s} разів.
+loc_talent_veteran_crits_rend,Експлуатація слабкості
+loc_talent_veteran_crits_rend_alt_description,Критичні удари в ближньому бою збільшують шкоду на {damage:%s} протягом {duration:%s}с.
+loc_talent_veteran_damage_damage_after_sprinting,Сутичник
+loc_talent_veteran_damage_damage_after_sprinting_or_sliding_desc,{base_damage:%s} до всієї базової шкоди протягом {duration:%s}с після бігу або ковзання. Накопичується до {stacks:%s} разів.
+loc_talent_veteran_dodging_grants_crit,Взаємність
+loc_talent_veteran_dodging_grants_crit_description,{crit_chance:%s} до шансу критичного удару протягом {duration:%s}с після успішного ухилення. Накопичується до {stacks:%s} разів.
+loc_talent_veteran_improved_tag_dead_bonus,Ціль знищено!
+loc_talent_veteran_improved_tag_dead_bonus_description,"Якщо позначений  ворог гине, Ветеран та союзники в єдності відновлюють {toughness:%s} щитів і {stamina:%s} витривалості за кожен заряд фокусування на цілі."
+loc_talent_veteran_improved_tag_dead_coherency_bonus,Перенаправлення вогню!
+loc_talent_veteran_improved_tag_dead_coherency_bonus_description,"Якщо позначений  ворог гине, Ветеран та союзники в єдності отримують {damage:%s} до шкоди за кожен заряд фокусування на цілі. Тривалість {duration:%s}с."
+loc_talent_veteran_improved_tag_more_damage,Прицільний вогонь
+loc_talent_veteran_improved_tag_more_damage_description,Максимальна кількість зарядів фокусування цілі збільшена до {max_stacks:%s}.
+loc_talent_veteran_increased_melee_crit_chance_and_melee_finesse,Відчайдух
+loc_talent_veteran_increased_melee_crit_chance_and_melee_finesse_desc,{crit_chance%s} до шансу критичного удару в ближньому бою і {finesse%s} бонусу вправності ближнього бою.
+loc_talent_veteran_kill_grants_damage_to_other_slot,Гнучке зіткнення
+loc_talent_veteran_kill_grants_damage_to_other_slot_desc,"Убивство ворога в ближньому бою дає {damage%s} до шкоди  дальньої зброї, а вбивство з дальньої зброї дає {damage%s} до шкоди в ближньому бою. Тривалість {duration%s}с."
+loc_talent_veteran_stamina_on_ranged_dodge_desc,"{stamina:%s} витривалості при уникненні дальніх атак через ухилення, бігу або ковзання."
+loc_talent_veteran_weapon_switch,Спеціаліст по зброї
+loc_talent_veteran_weapon_switch_new_description,"Надається ефект дальньобійного спеціаліста за вбивства в ближньому бою (накопичується до {ranged_stacks:%s} разів). Отримується ефект ближнього спеціаліста за вбивства зі зброї дальнього бою(накопичується до {melee_stacks:%s} разів).
+
+Коли Ветеран використовує дальню зброю, активується ефект дальньобійного спеціаліста, що надає {ranged_attack_speed:%s} до швидкості атаки з дальньобійної зброї, {reload_speed:%s} до швидкості перезарядки, а також {ranged_crit_chance:%s} до шансу критичного пострілу на наступний постріл за кожен стак. Тривалість {ranged_duration:%s}с.
+
+Коли Ветеран використовує зброю ближнього бою, активується ефект ближнього спеціаліста, що надає {melee_attack_speed:%s} до швидкості атаки в ближньому бою та {dodge_modifier:%s} до швидкості і дальності ухилення. Тривалість {melee_duration:%s}с."
+loc_talent_veteran_weapon_switch_replenish_ammo,Завжди напоготові
+loc_talent_veteran_weapon_switch_replenish_ammo_description,Активація дальнього спеціаліста відновлює до {ammo:%s} від нестачі набоїв у магазині з резерву  за кожен рівень.
+loc_talent_veteran_weapon_switch_replenish_stamina,Бадьорість
+loc_talent_veteran_weapon_switch_replenish_stamina_new_description,Активація ближнього спеціаліста відновлює {stamina:%s} витривалості та зменшує витрати витривалості на {stamina_reduction:%s} протягом {duration:%s}с.
+loc_talent_veteran_weapon_switch_replenish_toughness,На взводі
+loc_talent_veteran_weapon_switch_replenish_toughness_description,Активація ближнього та дальнього спеціаліста відновлює {toughness:%s} щитів. Перезарядка {cooldown:%s}с для кожного.
+loc_talent_veteran_grenade_apply_bleed,Розривна осколкова граната
+loc_talent_veteran_grenade_apply_bleed_desc,"Кинути осколкову гранату, що вибухає після короткої затримки. Накладається {stacks:%s} стаків кровотечі на всіх уражених ворогів, завдаючи шкоди з часом.
+Це посилена версія {talent_name:%s}."
+loc_talent_veteran_attack_speed,Вишкіл окопного бійця
+loc_talent_veteran_attack_speed_description,{melee_attack_speed:%s} до швидкості атаки в ближньому бою.
+loc_talent_veteran_improved_tag_dead_coherency_bonus,Перенаправити вогонь!
+loc_talent_toughness_boost_medium,Посилення щитів
+loc_talent_toughness_boost_medium_desc,{toughness:%s} до щитів.
+loc_talent_veteran_combat_ability_revives_new_description,{talent_name:%s} підіймає збитих із ніг союзників у радіусі дії.
+loc_talent_veteran_increased_ranged_cleave,Виснажливий вогонь
+loc_talent_veteran_increased_ranged_cleave_desc,{cleave:%s} пробиття цілей дистанційною зброєю.

@@ -1,0 +1,219 @@
+﻿key,value
+loc_talent_ogryn_damage_per_enemy_hit_previous_new_desc,"За кожного ворога, якого граець вразив під час однієї ближньої атаки, отримується {damage:%s} до шкоди наступної ближньої атаки."
+loc_talent_ogryn_toughness_on_single_heavy_new_desc,"Відновити {toughness:%s} щитів після влучання по одному ворогу ближнім боєм. Відновлення збільшується до {heavy_toughness:%s}, якщо це важка атака."
+loc_talent_ogryn_replenish_rock_on_miss_name,Це не рахується.
+loc_talent_ogryn_replenish_rock_on_miss_desc,"Відновлюється заряд {talent_name:%s}, якщо попадання у слабке місце або не попадання в жодного ворога. Перезарядка {cooldown_duration:%s}с."
+loc_talent_ogryn_big_box_of_hurt_more_bombs,Ще більша коробка болю
+loc_talent_ogryn_big_box_of_hurt_more_bombs_desc,+3 додаткові гранати.
+loc_talent_ogryn_targets_recieve_damage_increase_debuff_new_desc,"Вороги, ушкоджені ближніми атаками, отримують на {damage:%s} більше шкоди протягом {duration:%s}с."
+loc_talent_ogryn_revenge_damage_new_desc,{damage:%s} до шкоди на {duration:%s}с після успішного ухилення або отримання влучання від атаки.
+loc_talent_ogryn_damage_reduction_on_high_stamina_name,Накачаний
+loc_talent_ogryn_damage_reduction_on_high_stamina_desc,"{damage_taken:%s} до опору шкоді, коли витривалість перевищує {stamina:%s}."
+loc_talent_ogryn_melee_attacks_give_mtdr_name,Зосереджений борець
+loc_talent_ogryn_melee_attacks_give_mtdr_desc,{reduction:%s} до опору шкоді від ближніх атак за кожну вдалу ближню атаку. Ефект накопичує до {stacks:%s} стаків і зникає при отриманні шкоди від ближньої атаки.
+loc_talent_ogryn_damage_reduction_after_elite_kill_name,Силач
+loc_talent_ogryn_damage_reduction_after_elite_kill_desc,{damage_reduction:%s} до опору шкоді після вбивства елітного або спеціаліста. Тривалість {duration:%s}с.
+loc_talent_ogryn_ranged_damage_immunity,А от і не попадеш
+loc_talent_ogryn_ranged_damage_immunity_desc,{resistance:%s} до опору шкоді в дальньому бою на {duration:%s}с після влучання по гравцю дальньою атакою. Перезарядка {cooldown:%s}с.
+loc_talent_ogryn_reload_speed_on_empty_name,Продовжуй стріляти!
+loc_talent_ogryn_reload_speed_on_empty_desc,{reload_speed:%s} до швидкості перезарядки при перезарядці порожнього магазину.
+loc_ability_ogryn_taunt_shout_new_desc,"Дразнити ворогів у межах {radius:%s}м, змушуючи їх атакувати лише гравця протягом {duration:%s}с. Ефект повторюється через {first_pulse:%s}с і ще раз через  {second_pulse:%s}с. Базова перезарядка: {cooldown:%s}с."
+loc_talent_ogryn_special_ammo_armor_pen_new_desc,"{rending_multiplier:%s} до пробиття та {damage:%s} до шкоди при дальніх атаках, доки активний {ability:%s}."
+loc_talent_ogryn_special_ammo_fire_shots_new_desc,"Дальні атаки накладають {stacks:%s} стаки горіння, доки активна {ability:%s}. Максимум {max_stacks:%s} стаків."
+loc_talent_ogryn_taunt_restore_toughness,Без болю!
+loc_talent_ogryn_taunt_restore_toughness_new_desc,"{talent_name:%s} і його повторення відновлюють {tougness:%s} щитів та додатково {toughness_per_hit:%s} щосекунди за кожного ураженого ворога, до {max:%s}, протягом {duration:%s}с."
+loc_talent_ogryn_melee_stagger_new_desc,{stagger:%s} до імпульсу ближніх атак. Збивання ворога з рівноваги ближньою атакою відновлює {stamina:%s} витривалості. Перезарядка {cooldown:%s}}с.
+loc_talent_ogryn_weakspot_damage,Точний удар
+loc_talent_ogryn_weakspot_damage_desc,{damage:%s} до сили удару по слабких місцях у ближньому бою
+loc_talent_ogryn_melee_damage_after_heavy_name,Відгамселити у відповівдь
+loc_talent_ogryn_melee_damage_after_heavy_desc,{melee_damage:%s} до шкоди в ближньому бою після вдалої важкої атаки. Тривалість {duration:%s}с.
+loc_talent_ogryn_fully_charged_attacks_gain_damage_and_stagger_new_desc,До {damage:%s} до шкоди та {stagger:%s} до сили удару для твоєї зарядженої ближньої атаки залежно від часу заряджання.
+loc_talent_damage_aura_improved_new,{damage:%s} до шкоди ближніх атак для тебе та союзників у єдності. це посилена версія {talent_name:%s}.
+loc_talent_ogryn_heavy_bleeds_new_desc,Накладає {stack:%s} стак кровотечі при влучанні ближньою атакою. збільшується до {heavy_stacks:%s} при важкому ударі.
+loc_talent_ogryn_pushing_applies_brittlenes,Звіряча сила
+loc_talent_ogryn_pushing_applies_brittlenes_desc,{stacks:%s} стаків крихкості при відштовхуванні.
+loc_talent_ogryn_corruption_resistance_name,Недалекий
+loc_talent_ogryn_corruption_resistance_desc,{resistance:%s} опору до погані.
+loc_talent_ogryn_protect_allies_name,За мелкотню
+loc_talent_ogryn_protect_allies_desc,"Коли в союзника ламаються щити, отримується {power:%s} сили та {toughness_damage_reduction:%s} зменшення шкоди щитам на {duration:%s}с. Перезарядка {cooldown:%s}с. Коли союзник повалений, отримуєтсья імунітет до оглушення та {revive_speed:%s} до швидкості відродження на {duration:%s}с."
+loc_talent_ogryn_block_all_attacks,Незламний
+loc_talent_ogryn_block_all_attacks_variant_desc,Ідеальні блоки можуть відбивати всі ближні атаки. Після ідеального блоку отримай {damage:%s} до шкоди наступної атаки.
+loc_talent_ogryn_drain_stamina_for_handling,Зосередження
+loc_talent_ogryn_drain_stamina_for_handling_desc,"{sway_reduction:%s} зменшення хитання, {spread_reduction:%s} зменшення розкиду та {recoil_reduction:%s} зменшення віддачі під час утримання дальньої зброї, але втрачається {stamina:%s} витривалість за секунду."
+loc_talent_ogryn_damage_vs_suppresed_new_desc,{damage:%s} до шкоди проти пригнічених ворогів для гравця та союзників у єдності. {suppress:%s} до пригнічення.
+loc_talent_ogryn_explosions_burn_name,Пали без перерви
+loc_talent_ogryn_explosions_burn_close_desc,"Вибухи накладають {stacks:%s} стаки горіння. {more_stacks:%s} стаків, якщо на близькій відстані. Максимум {max_stacks:%s} стаків."
+loc_talent_ranged_damage_medium,Посилення шкоди дальнього бою
+loc_talent_ranged_damage_medium_desc,{ranged_damage:%s} до шкоди дальньої атаки.
+loc_talent_ogryn_stacking_attack_speed_name,Шалені удари
+loc_talent_ogryn_stacking_attack_speed_desc,{attack_speed:%s} до швидкості ближніх атак за послідовне влучання протягом {duration:%s}с. Накопичується до {stacks:%s} разів.
+loc_talent_ranged_enemies_taunt,Шукач уваги
+loc_talent_ranged_enemies_taunt_description,Блокування або відштовхування ворогів дражнить їх на {duration:%s}с.
+loc_talent_ogryn_wield_speed_increase,Сумлінне тренування
+loc_talent_ogryn_wield_speed_increase_desc,{wield_speed:%s} до швидкості зміни зброї.
+loc_talent_ogryn_cooldown_on_elite_kills_new_desc,"{cooldown_regen} відновлення перезарядки здібності протягом {duration:%s}с після того, як гравець або союзник у єдності вбиває елітного ворога."
+loc_talent_ogryn_crit_damage_increase,Вдалий день
+loc_talent_ogryn_crit_damage_increase_desc,{crit_damage:%s} до шкоди критичних ударів.
+loc_talent_ogryn_ranged_improves_melee,Коси та клади
+loc_talent_ogryn_ranged_improves_melee_desc,{damage:%s} до шкоди ближніх атак і {attack_speed:%s} до швидкості ближніх атак протягом {duration:%s}с після спорожнення магазину.
+loc_talent_ogryn_damage_taken_by_all_increases_strength_tdr,Не чіпай друзяк!
+loc_talent_ogryn_damage_taken_by_all_increases_strength_tdr_desc,{strength:%s} до сили за кожне отримання шкоди гравцем або союзниками в єдності. Максимум {stacks:%s} стаків. Тривалість {duration:%s}с. {tdr:%s} зменшення шкоди щитам при максимумі стаків.
+loc_talent_ogryn_melee_improves_ranged,Бий і пали
+loc_talent_ogryn_melee_improves_ranged_desc,{damage:%s} до шкоди дальнього бою після вбивства в ближньому бою. Тривалість {duration:%s}с. Максимум {max_stacks:%s} стаків.
+loc_talent_ogryn_blo_melee,Ану відвали!
+loc_talent_ogryn_blo_melee_desc,Після вбивства в ближньому бою отримується {chance:%s} шансу активувати щасливу кулю при наступному пострілі. Накопичується до {stacks:%s} разів.
+loc_talent_ogryn_blo_wield_speed,Жар битви
+loc_talent_ogryn_blo_fire_rate_desc,Перевантаження обмежувача також дає {fire_rate:%s} до швидкості стрільби за кожен стак.
+loc_talent_ogryn_blo_ally_ranged_buffs,Злива куль
+loc_talent_ogryn_blo_ally_ranged_buffs_desc,{ranged_damage:%s} до шкоди дальнього бою для гравця та союзників у єдності під час дії щасливої кулі. Тривалість {duration:%s}с.
+loc_talent_ogryn_passive_heavy_hitter_tdr,Нічого не відчуваю
+loc_talent_ogryn_passive_heavy_hitter_tdr_desc,{talent_name:%s} також дає {toughness_damage_reduction:%s} до зменшення шкоди щитам за кожен стак.
+loc_talent_ogryn_passive_heavy_hitter_cleave,Великий розрубувач
+loc_talent_ogryn_passive_heavy_hitter_cleave_desc,{talent_name:%s} також дає {cleave:%s} до розсічення за кожен стак.
+loc_talent_ogryn_passive_heavy_hitter_stagger,Потужний
+loc_talent_ogryn_passive_heavy_hitter_stagger_desc,{talent_name:%s} також дає {impact:%s} до імпульсу за кожен стак.
+loc_talent_ogryn_2_base_3,Товста шкіра
+loc_talent_ogryn_2_base_3_description,{toughness_reduction:%d} зменшення шкоди щитам та {damage_reduction:%d} зменшення шкоди здоров’ю.
+loc_talent_ogryn_2_base_3_description_new,{toughness_reduction%s} зменшення шкоди щитам та {damage_reduction%s} зменшення шкоди здоров’ю.
+loc_talent_ogryn_2_base_4,Гнітюча присутність
+loc_talent_ogryn_2_base_4_description,{damage:%d} шкоди важких ударів у ближньому бою (союзники в єдності).
+loc_talent_ogryn_2_base_4_description_new,{damage:%s} шкоди важких ударів у ближньому бою для гравця та союзників у єдності.
+loc_talent_ogryn_2_combat,Громовий ривок
+loc_talent_ogryn_2_combat_description,"Ривок уперед, який збиває ворогів. Після цього надається {move_speed:%d} швидкість руху та {attack_speed:%d} швидкість атаки на {duration:%d}с."
+loc_talent_ogryn_ability_charge_trample,Розчавлення
+loc_talent_ogryn_ability_charge_trample_desc,"За кожного ворога, ураженого {talent_name:%s}, отримується заряд розчавлення. Розчавлення підвищує базову шкоду на {damage:%s} протягом {duration:%s}с. Максимум зарядів — {stack:%s}."
+loc_talent_ogryn_ability_movement_speed_desc,Під час активації бойової здібності гравець та союзники в єдності отримують {movement_speed:%s} швидкості руху та стають невразливими до оглушення і пригнічення на {time:%s}с.
+loc_talent_ogryn_big_bully_heavy_hits,Жорсткі удари
+loc_talent_ogryn_big_bully_heavy_hits_new_desc,"Вороги, збиті з рівноваги ближніми атаками, отримують на {damage:%s} більше шкоди від ближнього бою протягом {duration:%s}с."
+loc_talent_ogryn_bigger_coherency_radius,Домінуюча присутність
+loc_talent_ogryn_bigger_coherency_radius_desc,{radius:%s} радіус єдності.
+loc_talent_ogryn_bleed_on_bull_rush,Розтрощення
+loc_talent_ogryn_bleed_on_bull_rush_desc,"Накладається {stacks:%s} зарядів кровотечі на ворогів, уражених {ability:%s}."
+loc_talent_ogryn_bleed_on_multiple_hit,Лупцювання
+loc_talent_ogryn_bleed_on_multiple_hit_desc,Накладається {stacks:%s} зарядів кровотечі при важкому ударі в ближньому бою.
+loc_talent_ogryn_block_cost_reduction,Без напрягу
+loc_talent_ogryn_block_cost_reduction_desc,Зменшує витрати блокування на x%.
+loc_talent_ogryn_blocking_reduces_push_cost,Не розмазня
+loc_talent_ogryn_empowered_pushes_desc,Відштовхування мають {push_impact_modifier:%s} до збивання з ніг. Може спрацьовувати лише раз на {cooldown:%s}с.
+loc_talent_ogryn_bracing_reduces_damage_taken,Рухома позиція
+loc_talent_ogryn_bracing_reduces_damage_taken_desc,Отримується на {damage_taken_multiplier:%s} менше шкоди під час використання стрілецької зброї.
+loc_talent_ogryn_bull_rush_distance,Нездоланний
+loc_talent_ogryn_bull_rush_distance_desc,"Ривок уперед із потужною силою, відкидаючи та збиваючи ворогів із рівноваги. Надається {attack_speed:%s} швидкості атаки та {move_speed:%s} швидкості руху на {duration:%s}с. Ривок зупиняється при зіткненні з потворою.\n\nБазова перезарядка: {cooldown:%s}с\n\nЦе посилена версія {talent_name:%s} зі збільшеною дистанцією ривку на {distance:%s}."
+loc_talent_ogryn_bull_rush_movement_speed,Увалити в заміс!
+loc_talent_ogryn_carapace_armor,Стійкий до болю
+loc_talent_ogryn_carapace_armor_add_stack_on_push,Найсильніший!
+loc_talent_ogryn_carapace_armor_add_stack_on_push_desc,Відштовхування ворогів відновлює один заряд {talent_name:%s}.
+loc_talent_ogryn_carapace_armor_any_damage_desc,Гравця благословляють {stacks:%s} зарядами «стійкий до болю». Кожен заряд надає {toughness_regen:%s} відновлення щитів та {damage_reduction:%s} зменшення шкоди.\n\nОтримання шкоди знімає один заряд. Заряди відновлюються кожні {duration:%s}с.
+loc_talent_ogryn_carapace_armor_desc,Гравця благословляють {stacks:%s} зарядами «стійкий до болю». Кожен заряд надає {toughness_regen:%s} відновлення щитів та {damage_reduction:%s} зменшення шкоди.\n\nОтримання шкоди знімає один заряд. Заряди відновлюються кожні {duration:%s}с.
+loc_talent_ogryn_carapace_armor_more_toughness,Найміцніший!
+loc_talent_ogryn_carapace_armor_more_toughness_desc,{talent_name:%s} надає {toughness_regen:%s} відновлення щитів за кожен заряд.
+loc_talent_ogryn_carapace_armor_trigger_on_zero_stacks,Болючий сплеск
+loc_talent_ogryn_carapace_armor_trigger_on_zero_stacks_new_desc,"Коли {talent_name:%s} знижується до {stacks:%s} стаків або менше, гравець відштовхує ворогів і відновлює {toughness_replenish:%s} щитів. Цей еффект може активуатись раз на {cooldown:%s}с"
+loc_talent_ogryn_chance_to_not_consume_ammo,Перевантаження обмежувача
+loc_talent_ogryn_blo_new_alt_desc,"{proc_chance:%s} шансу спрацювання щасливої кулі та не витрачати боєприпасів під час дальних атак. Крім того, отримується {ranged_damage:%s} до шкоди дальних атак за вбивства на дистанції. Максимум {stacks:%s} стаків. Тривалість {duration:%s}с."
+loc_talent_ogryn_coherency_toughness_increase,Опора
+loc_talent_ogryn_coherency_toughness_increase_desc,{toughness_multiplier:%s} відновлення щитів в єдності.
+loc_talent_ogryn_combat_ability_special_ammo,Постріл впритул
+loc_talent_ogryn_combat_ability_special_ammo_new_desc,"Перемикання на стрілецьку зброю та повне перезаряджання її. Отримання {ranged_attack_speed:%s} швидкості стрільби, {reload_speed:%s} швидкості перезаряджання, {reduced_move_penalty:%s} зменшення штрафу до швидкості руху при русі з упором та {damage:%s} шкоди на близькій дистанції протягом {duration:%s}с.
+Базова перезарядка: {cooldown:%s}с."
+loc_talent_ogryn_cooldown_on_elite_kills,Бійцюга
+loc_talent_ogryn_cooldown_on_elite_kills_desc,"{cooldown:%s} скорочення перезарядки бойової здібності, коли гравець або союзник у єдності вбиває елітного ворога."
+loc_talent_ogryn_crit_chance_on_kill,Різанина
+loc_talent_ogryn_crit_chance_on_kill_desc,Убивство ворога надає {crit_chance:%s} шансу критичного удару на {duration:%s}с. Ефект накопичується до {max_stacks:%s} разів.
+loc_talent_ogryn_critical_leadbelcher,Гарна стрілянина
+loc_talent_ogryn_critical_leadbelcher_desc,"Постріл, що активує «щасливу кулю», гарантовано є критичним (якщо влучає)."
+loc_talent_ogryn_damage_per_enemy_hit_previous,Несамовитий
+loc_talent_ogryn_damage_per_enemy_hit_previous_desc,"За кожного ворога, ураженого під час одного важкого удару, отримується {damage:%s} шкоди до наступної атаки в ближньому бою."
+loc_talent_ogryn_damage_reduction_per_bleed,Насолода руйнуванням
+loc_talent_ogryn_damage_reduction_per_bleed_desc,{damage_reduction:%s} стійкості до шкоди за кожного кровоточивого ворога в радіусі ближнього бою. Ефект накопичується до {max_stacks:%s} разів.
+loc_talent_ogryn_damage_vs_suppressed,Винищення боягузів
+loc_talent_ogryn_damage_vs_suppressed_new_desc,{damage:%s} до шкоди проти пригнічених ворогів для гравця та союзників у єдності. {suppression:%s} пригнічення.
+loc_talent_ogryn_decrease_suppressed_decay,Ховай башку!
+loc_talent_ogryn_decrease_suppressed_decay_desc,"Пригнічені вороги, залишаються під пригніченням на {suppressor_decay_multiplier:%s} довше."
+loc_talent_ogryn_fully_charged_attacks_gain_damage_and_stagger,Хрусь!
+loc_talent_ogryn_fully_charged_attacks_gain_damage_and_stagger_new_desc,До {damage:%s} до шкоди та {stagger:%s} до сили удару для  зарядженої ближньої атаки залежно від часу заряджання.
+loc_talent_ogryn_heavy_hitter_light_attacks_refresh,Брутальний імпульс
+loc_talent_ogryn_heavy_hitter_light_attacks_refresh_description,Тривалість {talent_name:%s} оновлюється при легких атаках.
+loc_talent_ogryn_heavy_hitter_max_stacks_improves_attack_speed,Я лише почав!
+loc_talent_ogryn_heavy_hitter_max_stacks_improves_attack_speed_description,"Поки {talent_name:%s} має {stacks:%s} зарядів, отримується {attack_speed:%s} швидкості атаки."
+loc_talent_ogryn_heavy_hitter_max_stacks_improves_toughness,Невгамовний
+loc_talent_ogryn_heavy_hitter_max_stacks_improves_toughness_new_description,{talent_name:%s} також дає {melee_toughness:%s} до відновлення щитів від убивств у ближньому бою за кожен стак.
+loc_talent_ogryn_increase_explosion_radius,Кабум
+loc_talent_ogryn_increase_explosion_radius_desc,Збільшує радіус вибуху на {explosion_radius:%s}.
+loc_talent_ogryn_increased_ammo,Схованка набоїв
+loc_talent_ogryn_increased_ammo_desc,Збільшується запас набоїв на {max_ammo:%s}.
+loc_talent_ogryn_increased_clip_size,Уся амуніція
+loc_talent_ogryn_increased_clip_size_desc,Зброя вміщує на {clip_size:%s} більше набоїв.
+loc_talent_ogryn_increased_leadbelcher_chance,Ще більше перевантаження обмежувача!
+loc_talent_ogryn_increased_leadbelcher_chance_desc,Шанс активувати «щасливу кулю» збільшено до {proc_chance:%s}.
+loc_talent_ogryn_increased_suppression,Великі пушки ніколи не сплять
+loc_talent_ogryn_increased_suppression_desc,{suppression:%s} пригнічення.
+loc_talent_ogryn_leadbelcher_grant_cooldown_reduction,Максимальна потуга
+loc_talent_ogryn_leadbelcher_grant_cooldown_reduction_desc,"{cooldown_reduction:%s} скорочення перезарядки здібності на {duration:%s}с, коли активовується «щаслива куля»."
+loc_talent_ogryn_melee_stagger,Гепни!
+loc_talent_ogryn_melee_stagger_desc,{melee_impact:%s} до імпульсу ближніх атак. Збивання ворога з рівноваги ближньою атакою відновлює {stamina:%s} витривалості. Перезарядка {cooldown:%s}с.
+loc_talent_ogryn_ogryn_fighter,Важковаговик
+loc_talent_ogryn_ogryn_fighter_desc,"{damage:%s} шкоди проти щитоносців, крушителів, чумних оґринів і женців. Також надається {damage_reduction:%s} зменшення шкоди від них же."
+loc_talent_ogryn_passive_heavy_hitter,Міцний лупака
+loc_talent_ogryn_passive_heavy_hitter_new_desc,{damage:%s} до шкоди ближнього бою на {duration:%s}с після влучання ближньою атакою. Накопичується до {stacks:%s} разів. Отримуються {heavy_stacks:%s} стаки при влучанні важкою атакою.
+loc_talent_ogryn_ranged_damage_on_reload,Перезаряджено і готово
+loc_talent_ogryn_ranged_damage_on_reload_desc,{damage:%s} шкоди на відстані на {duration:%s}с після перезаряджання.
+loc_talent_ogryn_ranged_kill_grant_movement_speed,Нестримний імпульс
+loc_talent_ogryn_ranged_kill_grant_movement_speed_desc,{movement_speed:%s} швидкості руху на {duration:%s}с після вбивства на відстані.
+loc_talent_ogryn_reload_speed_on_multiple_hits,Заводило
+loc_talent_ogryn_reload_speed_on_multiple_hits_new_desc,Влучання по {multi_hit:%s} чи більше ворогах однією атакою надає {reload_speed:%s} швидкості перезаряджання.
+loc_talent_ogryn_rending_on_elite_kills,Домінування
+loc_talent_ogryn_rending_on_elite_kills_desc,{rending_multiplier:%s} пробиття на {duration:%s}с після вбивства елітного ворога.
+loc_talent_ogryn_revenge_damage,Час відплати
+loc_talent_ogryn_revenge_damage_desc,{damage:%s} до шкоди на {duration:%s}с після отримання удару в ближньому бою.
+loc_talent_ogryn_special_ammo_armor_pen,Злива вогню
+loc_talent_ogryn_special_ammo_armor_pen_desc,"{rending_multiplier:%s} пробиття для стрілецьких атак, допоки активна {ability:%s}."
+loc_talent_ogryn_special_ammo_fire_shots,Підпали їх!
+loc_talent_ogryn_special_ammo_fire_shots_desc,"Стрілецькі атаки накладають {stacks:%s} зарядів горіння, поки активна {ability:%s}."
+loc_talent_ogryn_special_ammo_movement,У гущі бою
+loc_talent_ogryn_special_ammo_movement_desc,"Прибрати {reduced_move_penalty:%s} штрафи до швидкості руху при прицілюванні з упору та надати {damage:%s} шкоди на близькій дистанції, поки активна {ability:%s}."
+loc_talent_ogryn_special_ammo_toughness,Кульова зухвалість
+loc_talent_ogryn_special_ammo_toughness_on_shot_and_reload_desc,"Поки активна {ability:%s}, відновлюй {toughness:%s} щитів за кожен зроблений постріл і {toughness_reload:%s} щитів під час кожного перезаряджання."
+loc_talent_ogryn_tanky_with_downed_allies,Не здамся
+loc_talent_ogryn_tanky_with_downed_allies_desc,{damage_taken:%s} зменшення шкоди за кожного поваленого чи знерухомленого союзника в радіусі {range:%s} метрів.
+loc_talent_ogryn_targets_recieve_damage_increase_debuff,Розігріти їх
+loc_talent_ogryn_targets_recieve_damage_increase_debuff_desc,"Ушкоджені вороги, отримують на {damage:%s} більше шкоди протягом {duration:%s}с."
+loc_talent_ogryn_taunt_damage_taken_increase,Гарна відволікашка
+loc_talent_ogryn_taunt_damage_taken_increase_description,"Вороги, на яких діє {talent_name:%s}, отримують {base_damage:%s} базової шкоди з усіх джерел."
+loc_talent_ogryn_taunt_radius_increase,Великі легені
+loc_talent_ogryn_taunt_radius_increase_desc,{talent_name:%s} має радіус {radius:%s}.
+loc_talent_ogryn_taunt_stagger_cd,Ще раз!
+loc_talent_ogryn_taunt_stagger_cd_description,Збивання ворога з рівноваги відновлює {cooldown_reduction:%s} перезарядки {talent_name:%s}.
+loc_talent_ogryn_toughness_gain_increase_on_low_health,"Надто впертий, щоб померти"
+loc_talent_ogryn_toughness_gain_increase_on_low_health_desc,"{toughness_multiplier:%s} відновлення щитів, коли рівень здоров’я нижчий за {health:%s}."
+loc_talent_ogryn_toughness_on_bull_rush,Громові чоботи
+loc_talent_ogryn_toughness_on_bull_rush_desc,"Відновлення {toughness:%s} щитів за кожного ворога, ураженого {ability:%s}."
+loc_talent_ogryn_toughness_on_multiple,Найкращий захист
+loc_talent_ogryn_toughness_on_multiple_new_desc,Відновлює {toughness:%s} щитів після влучання атакою в ближньому бою по кількох ворогах. Показник зростає до {heavy_toughness:%s} при важкому ударі.
+loc_talent_ogryn_toughness_on_single_heavy,Розмаж їх!
+loc_talent_ogryn_toughness_on_single_heavy_desc,Відновлення {toughness:%s} щитів після влучання важким ударом по одному ворогу.
+loc_talent_ogryn_toughness_regen_aura,Тримайся ближче!
+loc_talent_ogryn_toughness_regen_aura_desc,{toughness_regen_rate_modifier:%s} відновлення щитів для тебе та союзників у єдності.
+loc_talent_ogryn_toughness_regen_while_bracing,Стійке зчеплення
+loc_talent_ogryn_toughness_regen_while_bracing_desc,{toughness_regen:%s} відновлення щитів під час утримання упору зі стрілецькою зброєю.
+loc_talent_ogryn_windup_is_uninterruptible,Мене не зупинити!
+loc_talent_ogryn_windup_is_uninterruptible_unslowed_desc,Стати непереривним під час заряджання важких ближніх атак. усуває {reduced_move_penalty:%s} штрафу до швидкості руху під час зарядки удару.
+loc_talent_ogryn_windup_reduces_damage_taken,Невблаганний
+loc_talent_ogryn_windup_reduces_damage_taken_desc,{damage_taken_multiplier:%s} зменшення шкоди під час заряджання атак у ближньому бою.
+loc_talent_bonebreaker_grenade_super_armor_explosion,Бомби пішли!
+loc_talent_bonebreaker_grenade_super_armor_explosion_desc,"Кинути ящик гранат із великою силою та запалом, завдаючи значної шкоди одній цілі.
+
+Влучання у ворога спричиняє розкриття ящика, випускаючи {num_grenades:%s} гранат навколо цілі.
+
+Це покращена версія {talent_name%s}."
+loc_talent_damage_aura,Аура кістколама
+loc_talent_ogryn_bleed_on_multiple_hit,Трощення
+loc_talent_ogryn_fully_charged_attacks_gain_damage_and_stagger_new_desc,"{damage:%s} бонусу до шкоди та {stagger:%s} бонусу до сили імпульсу для зарядженої атаки у ближньому бою, залежно від часу заряду."
+loc_talent_ogryn_heavy_bleeds_new_desc,Накладаються {stacks:%s} рів(н)ів кровотечі при ударі в ближньому бою. Збільшується до {heavy_stacks:%s} при важкому ударі у ближньому бою.
+loc_ability_ogryn_grenade_demolition_instakill_desc,"Кинути осколкову гранату оґринського розміру (єдиного правильного!), з радіусом вибуху {radius:%s}м, що завдає підвищеної шкоди в центрі. Вороги людського розміру, які не є Капітанами, гинуть в любому випадку."
+loc_talent_ogryn_bracing_or_shooting_reduces_damage_taken_desc,Ви отримуєте на {damage_taken_multiplier:%s} менше шкоди під час носіння або стрільби з дистанційної зброї.
+loc_talent_ogryn_combat_ability_special_ammo_replenish_desc,"Перемикання на дистанційну зброю та її перезарядка. Ви отримуєте {ranged_attack_speed:%s} швидкості стрільби, {reload_speed:%s} швидкості перезаряджання, {reduced_move_penalty:%s} зменшення штрафів до швидкості руху під час упору, а також {damage:%s} шкоди на близькій відстані протягом {duration:%s}с. {ammo_return_percent:%s} витрачених набоїв під час дії повертаються в резерв після завершення.
+
+Базова перезарядка: {cooldown:%s}с"
+loc_talent_ogryn_toughness_regen_while_bracing_or_shooting_desc,{toughness_regen:%s} відновлення щитів під час носіння або стрільби з дистанційної зброї.
+loc_talent_psyker_cooldown_on_allied_elite_kills_fixed_desc,"{cooldown:%s} відновлення перезарядки протягом {time:%s}с, коли ви або союзник у Єдності вбиває Еліту або Спеціаліста."

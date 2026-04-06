@@ -1,0 +1,224 @@
+﻿key,value
+loc_ability_psyker_blitz_throwing_knives,Психічний штурм
+loc_ability_psyker_blitz_throwing_knives_description,"Швидкий кидок, самонавідних снарядів, створених з психічної енергії. Менш ефективно проти панцирної броні."
+loc_ability_psyker_chain_lightning,Враження блискавкою
+loc_ability_psyker_chain_lightning_description,"Вивільнення потоку біо-блискавки — швидку, спрямовану атаку, що захоплює ціль, приголомшує її та завдає шкоди. Ураження поширюється на навколишніх ворогів. Заряджання підвищує швидкість поширення та шкоду."
+loc_ability_psyker_gunslinger_aura,Провидіння
+loc_ability_psyker_gunslinger_aura_description,Гравець та союзники в єдності отримують {critical_strike_chance:%s} до ймовірності критичного удару.
+loc_ability_psyker_overcharge_movement_speed,Швидкість варпу
+loc_ability_psyker_overcharge_movement_speed_description,"{talent_name:%s} тепер також підвищує швидкість руху на {movement_speed:%s}, доки активний."
+loc_ability_psyker_overcharge_reduced_warp_charge,Якір реальності
+loc_ability_psyker_overcharge_reduced_warp_charge_vent_speed_description,"{talent_name:%s} тепер також зменшує перегрів на {warp_charge:%s} і підвищує згасання на {venting:%s}, доки активний."
+loc_ability_psyker_overcharge_weakspot,Передбачення
+loc_ability_psyker_overcharge_weakspot_description,"Вбивства у слабке місце рахуються як {second:%s}с, проведені у {talent_name:%s}.
+
+За кожну секунду, проведену у {talent_name:%s}, також отримується {finesse_damage_per_stack:%s} до шкоди від вправності (макс. {max_finesse_damage%s}), що зберігається {duration:%s}с і після виходу з {talent_name:%s}."
+loc_talent_crit_chance_low,Підсилення критичного шансу
+loc_talent_crit_chance_low_desc,{crit_chance:%s} до шансу критичного удару.
+loc_talent_melee_damage_boost_medium,Підсилення ближнього бою
+loc_talent_melee_damage_boost_medium_desc,{melee_damage:%s} до шкоди у ближньому бою.
+loc_talent_movement_speed_low,Підсилення швидкості руху
+loc_talent_movement_speed_low_desc,{movement_speed:%s} швидкості руху.
+loc_talent_psyker_ability_increase_brain_burst_speed,Кінетичний резонанс
+loc_talent_psyker_ability_increase_brain_burst_speed_desc,Використання бойової здібності змушує {talent_name:%s} заряджатися на {smite_attack_speed:%s} швидше і генерує на {warp_charge_cost:%s} менше перегріву протягом {duration:%s}с.
+loc_talent_psyker_alternative_peril_explosion,Кришталева воля
+loc_talent_psyker_alternative_peril_explosion_new_desc,"{overload_damage:%s} до шкоди вибуху перевантаження і {overload_radius:%s} радіусу вибуху перевантаження.
+
+Перевантаження через перегрів більше не вирубає, але все одно отримується відповідна шкода погані. Якщо вибух убиває елітного ворога, жодної шкоди погані не наноситься."
+loc_talent_psyker_base_2,Бойова медитація
+loc_talent_psyker_base_3,Кінетична присутність
+loc_talent_psyker_base_3_description,{damage:%s}  до шкоди проти елітних ворогів для гравця і союзників у єдності.
+loc_talent_psyker_block_costs_warp_charge,Кінетичне відбиття
+loc_talent_psyker_block_costs_warp_charge_desc,"Поки рівень перегріву нижчий за критичний, блокування атак змушує отримувати перегрів замість втрати витривалості.
+
+Отриманий перегрів становить {warp_charge_block_cost:%s} від вартості витривалості заблокованої атаки."
+loc_talent_psyker_brain_burst_improved,Підрив макітри
+loc_talent_psyker_brain_burst_improved_description,"Зарядити психічну силу і вивільнити її, щоб завдати величезної шкоди одному ворогу. Ефективно проти ворогів у флак і панцерній броні.
+
+Це посилена версія {talent_old:%s}, що завдає {damage:%s} шкоди."
+loc_talent_psyker_chain_lightning_damage_heavy_attacks_desc,"Важкі атаки у ближньому бою електризують уражених ворогів, завдаючи їм шкоди."
+loc_talent_psyker_chain_lightning_heavy_attacks,Заряджений удар
+loc_talent_psyker_chain_lightning_improved_target_buff,Ослаблення
+loc_talent_psyker_chain_lightning_improved_target_buff_alt_description,Електризовані вороги отримують на {damage:%s} більше базової шкоди від усіх джерел.
+loc_talent_psyker_cleave_from_peril,Розщеплення варпу
+loc_talent_psyker_cleave_from_peril_desc,"До {max_cleave:%s} розсічення, залежно від перегріву."
+loc_talent_psyker_coherency_size_increase,Ляльковод
+loc_talent_psyker_coherency_size_increase_description,{radius_modifier:%s} до радіусу аури єдності.
+loc_talent_psyker_combat_ability_overcharge_stance,Око провидця
+loc_talent_psyker_combat_ability_overcharge_stance_improved_description,"Активується око провидця. При вході в око провидця гаситься {vent:%s} перегрів, а також отримується {base_damage:%s} до шкоди, {crit_chance:%s} до критичного шансу, {weakspot_damage:%s} до шкоди по слабких місцях, {tdr:%s} до зменшення шкоди по щитам та невразливість до пригнічення. Також відновлюється {toughness:%s} щитів щосекунди.
+
+За кожну секунду у Оці Провидця, отримується {damage_per_stack:%s} до шкоди, аж до максимуму {max_damage:%s}. Цей ефект зберігається протягом {duration:%s}с після виходу з Ока Провидця.
+
+Під час ока провидця накопичується перегрів. Накопичення тимчасово сповільнюється при вбивствах ворогів. При досягненні {max_peril:%s} перегріву Око Провидця завершується.
+
+Базова перезарядка: {cooldown:%s}с"
+loc_talent_psyker_combat_ability_shield,Телекінетичний щит
+loc_talent_psyker_combat_ability_shield_description,"Створює психічний щит на {duration:%s}с. Щит блокує дальні атаки ворогів, тоді як гравець і союзники все ще можуть стріляти крізь нього.
+
+Базова перезарядка: {cooldown:%s}с."
+loc_talent_psyker_cooldown_aura_improved,Присутність провидця
+loc_talent_psyker_cooldown_aura_improved_description,"{cooldown_reduction:%s} зменшення перезарядки здібностей для гравця і союзників у єдності.
+
+Це посилена версія {talent_name:%s}."
+loc_talent_psyker_cooldown_on_allied_elite_kills_desc,"{cooldown:%s} відновлення перезарядки протягом {time:%s}с, коли гравець або союзник у єдності вбиває елітного ворога чи спеціаліста."
+loc_talent_psyker_crits_empower_next_attack,Ідеальний момент
+loc_talent_psyker_crits_regen_toughness_speed_description,"Критичні удари відновлюють {toughness:%s} щитів протягом {seconds:%s}с.
+
+Критичні удари також надають {movement_speed:%s} швидкості руху на {seconds:%s}с, накладаючись до {stacks:%s} разів."
+loc_talent_psyker_damage_based_on_warp_charge,Вершник варпу
+loc_talent_psyker_damage_based_on_warp_charge_desc,Завдає до {max_damage:%s} шкоди (зростає зі збільшенням перегріву).
+loc_talent_psyker_damage_on_crit_stacking_desc,{damage:%s} до шкоди протягом {duration:%s}с при критичній атаці. Накладається до {stacks:%s} разів.
+loc_talent_psyker_damage_resistance_stun_immunity,Нематеріальний фокус
+loc_talent_psyker_damage_resistance_stun_immunity_desc,"{dr:%s} спротиву шкоді, крім того, під час критичного перегріву і протягом {duration:%s}с після нього гравець має імунітет до оглушення."
+loc_talent_psyker_damage_to_peril_conversion,Лише сон
+loc_talent_psyker_damage_to_peril_conversion_desc,"Поки рівень перегріву нижчий за критичний, {percent:%s} отриманої шкоди перетворюється на перегрів."
+loc_talent_psyker_damage_vs_ogryns_and_monsters,Уразливі розуми
+loc_talent_psyker_damage_vs_ogryns_and_monsters_desc,{damage:%s} до шкоди проти оґринів і потвор.
+loc_talent_psyker_discharge_damage_debuff_description,"{talent_name:%s} зменшення шкоди, завданої ворогами, ураженими на {damage_reduction:%s}, і збільшення їх отриманої шкоди на {damage_taken:%s} протягом {duration:%s}с."
+loc_talent_psyker_dodge_after_crits,Емпатичне ухилення
+loc_talent_psyker_dodge_after_crits_description,"Критичний удар змушує гравця вважатися таким, що ухиляється від дальніх атак протягом {duration:%s}с."
+loc_talent_psyker_elite_and_special_kills_add_warpfire_desc,"Вбивство елітного ворога або спеціаліста накладає {stacks:%s} стак(ів) випалення душі на навколишніх ворогів, завдаючи шкоди з часом."
+loc_talent_psyker_elite_kills_add_warpfire,Небезпечне займання
+loc_talent_psyker_elite_kills_give_combat_ability_cd_coherency,Аура псайкінетика
+loc_talent_psyker_empowered_ability,Посилена псіоніка
+loc_talent_psyker_empowered_ability_description,"Вбивства мають {chance:%s} ймовірності посилити наступний бліц.
+
+Посилений {blitz_one:%s}:
+{smite_cost:%s} зменшення витрат перегріву
+{smite_attack_speed:%s} скорочення часу активування
+{smite_damage:%s} шкоди
+
+Посилений {blitz_two:%s}:
+{chain_lightning_damage:%s} шкоди
+{chain_lightning_jump_time_multiplier:%s} швидше поширення між ворогами
+
+Посилений {blitz_three:%s}:
+{throwing_knives_cost:%s} зменшення витрат перегріву.
+Базова шкода збільшується з {throwing_knives_old_damage:%s} до {throwing_knives_new_damage:%s}.
+Не витрачає зарядів."
+loc_talent_psyker_empowered_ability_on_elite_kills,Підкорення душ
+loc_talent_psyker_empowered_ability_on_elite_kills_description,Гарантований шанс отримати {talent_name:%s} при вбивстві елітних ворогів.
+loc_talent_psyker_empowered_chain_lightnings_replenish_toughness_to_allies,Психічне висмоктування
+loc_talent_psyker_empowered_chain_lightnings_replenish_toughness_to_allies_description,"Використання блискавки, коли {talent_name:%s} активне, відновлює {toughness:%s} щитів гравцю та союзникам у єдності."
+loc_talent_psyker_force_field_charges,Посилений щит
+loc_talent_psyker_force_field_charges_cooldown_description,"{talent_name:%s} тепер може накопичувати до {max_charges:%s} зарядів, а його перезарядка зменшена до {cooldown:%s} с."
+loc_talent_psyker_force_field_dome,Телекінетичний купол
+loc_talent_psyker_force_field_dome_new_desc,"{talent_name:%s} тепер створює сферичний щит, який триває {duration:%s} с."
+loc_talent_psyker_force_field_grants_toughness,Святилище
+loc_talent_psyker_force_field_grants_toughness_desc,"Союзники всередині {talent_name:%s} відновлюють {toughness:%s} щитів щосекунди. Коли {talent_name:%s} розсіюється, усі союзники всередині отримують {toughness_damage_reduction:%s} зменшення шкоди по щитах на {duration:%s} с."
+loc_talent_psyker_force_field_stun_increased,Послаблюючий поріг
+loc_talent_psyker_force_field_stun_increased_new_description,"{ability:%s} має {proc_chance:%s} шансу уразити електричним розрядом ворогів, що проходять крізь нього. Елітні вороги мають {special_proc_chance:%s} шанс бути ураженими, але також завдають шкоди психічному щиту."
+loc_talent_psyker_force_staff_bonus,Спрямована сила
+loc_talent_psyker_force_staff_both_bonus_desc,"{damage:%s} до шкоди основних атак посоха сили, після повністю зарядженої вторинної атаки силового посоха. Тривалість {time:%s} с.
+
+{secondary_damage:%s} до шкоди вторинних атак силового посоха, після основної атаки посоха сили. Тривалість {secondary_time:%s} с."
+loc_talent_psyker_force_staff_quick_attack_bonus,Емпіричний шок
+loc_talent_psyker_force_staff_quick_attack_bonus_desc,"Жертви основної атаки посоха сили, отримують на {damage_taken:%s} більше варп-шкоди. Максимум {max_stacks:%s} стаків. Тривалість {duration:%s} с."
+loc_talent_psyker_improved_dodge,Передчуття
+loc_talent_psyker_improved_dodge_description,"Подовжується час ухилення на {dodge_linger_time:%s} та збільшує кількість ухилень, перш ніж вони стають неефективними, на {extra_consecutive_dodges:%s}."
+loc_talent_psyker_increase_empower_chain_lighting_chance,Біо-магніт
+loc_talent_psyker_increase_empower_chain_lighting_chance_description,Підвищує шанс отримати {talent_name:%s} при вбивстві з {proc_chance_before:%s} до {proc_chance_after:%s}.
+loc_talent_psyker_increased_empowered_chain_lightning_stacks,Повний заряд
+loc_talent_psyker_increased_empowered_chain_lightning_stacks_description,Гравець тепер може накопичувати до {max_stacks:%s} стаків {talent_name:%s}.
+loc_talent_psyker_increased_souls,Варп-батарея
+loc_talent_psyker_increased_souls_desc,Можна зберігати до {soul_amount:%s} зарядів варпу.
+loc_talent_psyker_increased_vent_speed,Міцність
+loc_talent_psyker_increased_vent_speed_description,Збільшується швидкість розсіювання перегріву на {vent_speed:%s}.
+loc_talent_psyker_killing_enemy_with_warpfire_boosts_duration_desc,Вбивство ворога за допомогою випалення душі відновлює {toughness:%s} щитів протягом {duration:%s} с і надає {crit_chance:%s} шансу критичного удару на цей же час.
+loc_talent_psyker_kills_stack_other_weapon_damage,Зловісний імпульс
+loc_talent_psyker_kills_stack_other_weapon_damage_both_description,"{warp_damage:%s} до шкоди варп-атак протягом {duration:%s}с після вбивства, не пов’язаного з варпом. Накопичується до {stacks:%s} разів.
+
+{non_warp_damage:%s} до шкоди неварпових атак протягом {duration:%s}с після варп-вбивства. Накопичується до {stacks:%s} разів."
+loc_talent_psyker_melee_attack_speed,Блискавична швидкість
+loc_talent_psyker_melee_attack_speed_desc,{melee_attack_speed:%s} до швидкості ближнього бою.
+loc_talent_psyker_melee_weaving,Під тріск кісток
+loc_talent_psyker_melee_weaving_desc,Убивства у слабке місце в ближньому бою розсіюють {vent:%s} перегріву та зменшують подальше його накопичення на {warp_generation:%s} протягом {duration:%s} с.
+loc_talent_psyker_nearby_soulblaze_reduced_damage,Пожирач душ
+loc_talent_psyker_no_movement_penalty_quell_reload_desc,Швидкість руху гравця не знижується під час розсіювання перегріву або перезарядки.
+loc_talent_psyker_overcharge_infinite_casting,Розкутий варп
+loc_talent_psyker_overcharge_infinite_casting_desc,{talent_name:%s} тепер також запобігає перевантаженню від прегріву варпу під час дії його залишкового ефекту.
+loc_talent_psyker_quell_on_kill_and_reduction_desc,{warp_charge_reduction:%s} до накопичення перегріву. {chance:%s} шансу розсіяти {warp_charge_percent:%s} перегрів при вбивстві.
+loc_talent_psyker_ranged_crits_vent,Спокій через різанину
+loc_talent_psyker_ranged_crits_vent_desc,Критичні удари неварповою дальньою зброєю розсіюють {percent:%s} перегріву.
+loc_talent_psyker_reduced_warp_charge_cost_venting_speed,Внутрішній спокій
+loc_talent_psyker_reduced_warp_charge_cost_venting_speed_desc,{warp_charge_amount:%s} до зменшення накопичення перегріву за кожен заряд варпу.
+loc_talent_psyker_shout_damage_per_warp_charge,Розрив варпу
+loc_talent_psyker_shout_reduces_warp_charge_generation,Заспокійливий вибух
+loc_talent_psyker_shout_reduces_warp_charge_generation_description,"{talent_name:%s} тепер зменшує накопичення перегріву на {warp_generation:%s} за кожного влученого ворога, накопичується до {max_stacks:%s} стаків. Тривалість {duration:%s} с."
+loc_talent_psyker_shout_vent_warp_charge,Видих варпу
+loc_talent_psyker_shout_vent_warp_charge_description,"Вивільняє хвилю варп-енергії, що збиває ворогів перед гравцем з рівноваги. Розсіює {warpcharge_vent:%s} перегріву.
+
+Базова перезарядка: {cooldown:%s} с
+
+Це посилена версія {talent_name:%s}."
+loc_talent_psyker_smite_on_hit,Кінетичний здирач
+loc_talent_psyker_smite_on_hit_special_elite_desc,"Усі атаки проти спеціалістів, елітних  ворогів і потвор мають {smite_chance:%s} ймовірності застосувати {talent_name:%s} до цілі. Це не може спрацювати під час критичного перегріву і має перезарядку {time:%s}с."
+loc_talent_psyker_souls,Варп-сифон
+loc_talent_psyker_souls_new_desc,"Вбивство еліти або спеціаліста надає гравцеві заряд варпу на {duration:%s}с, накопичуючись до {stack:%s} стак(ів). кожен стак підвищує базову шкоду на {damage:%s}.
+
+Наступна бойова здібність витрачає всі наявні заряди варпу, зменшуючи перезарядку цієї здібності на {cooldown_reduction:%s} за кожен заряд варпу."
+loc_talent_psyker_souls_on_kill_coop,Психічний вампір
+loc_talent_psyker_souls_on_kill_coop_desc,"Кожного разу, коли гравець або союзник у єдності вбиває ворога, є {soul_chance:%s} ймовірності отримати заряд варпу."
+loc_talent_psyker_stat_mix,Привид варпу
+loc_talent_psyker_stat_mix_desc,"{peril_reduction:%s} пасивного розсіювання, {stamina:%s} витривалості та {toughness_replenish:%s} відновлення щитів."
+loc_talent_psyker_throwing_knives_cast_speed_description,{talent_name:%s} заряджається на {recharge%s} швидше.
+loc_talent_psyker_throwing_knives_pierce,Уламки етеру
+loc_talent_psyker_throwing_knives_pierce_description,Снаряди з {talent_name:%s} тепер пробивають додаткові цілі.
+loc_talent_psyker_throwing_knives_reduced_cooldown,Швидкі уламки
+loc_talent_psyker_toughness_damage_reduction_from_warp_charge,Єдиний із варпом
+loc_talent_psyker_toughness_damage_reduction_from_warp_charge_desc,Отримання зменшеної шкоди по щитам від {min_damage:%s} до {max_damage:%s} залежно від поточного перегріву.
+loc_talent_psyker_toughness_from_vent,Безмовність
+loc_talent_psyker_toughness_from_vent_and_gen_desc,"Відновлення {toughness:%s} щитів за кожен {warp_charge:%s} перегріву, що був згашений або ж згенероаний."
+loc_talent_psyker_toughness_on_warp_kill,Крадій душ
+loc_talent_psyker_toughness_on_warp_kill_desc,Відновлення {toughness:%s} щитів при вбивстві варп-атакою.
+loc_talent_psyker_toughness_regen_on_soul,Жнива сутності
+loc_talent_psyker_toughness_regen_on_soul_desc,Відновлення {toughness:%s} щитів протягом {time:%s}с після отримання заряду варпу. Отримання нового заряду варпу під час цього ефекту скидає таймер.
+loc_talent_psyker_venting_doesnt_slow,Розум у русі
+loc_talent_psyker_warp_attacks_rending,Пронзання душі
+loc_talent_psyker_warp_attacks_rending_alt_desc,"До {rending:%s} пробиття у варп-атаках, залежно від перегріву."
+loc_talent_psyker_warp_glass_cannon,Емпірична рішучість
+loc_talent_psyker_warp_glass_cannon_desc,{peril_reduction:%s} генерації перегріву. {toughness_reduction:%s} відновлення щитів.
+loc_talent_psyker_warpfire_generates_souls,Відроджений у вогні
+loc_talent_psyker_warpfire_generates_souls_desc,Вбивство ворога за допомогою випалення душі має {chance:%s} ймовірності надати гравцеві заряд варпу.
+loc_talent_psyker_warpfire_on_shout,Повзучі полум’я
+loc_talent_psyker_warpfire_on_shout_desc,"{talent_name:%s} накладає {min_stacks:%s}{warpfire_stacks:%s} стаки випалення душі на уражені цілі, залежно від поточного перегріву."
+loc_talent_psyker_warpfire_spread,Пожежа
+loc_talent_psyker_warpfire_spread_desc,"Коли ворог гине під дією випалення душі, навколишні вороги отримують до {stacks:%s} стаків випалення душі. Вони не можуть отримати більше стаків, ніж мав померлий ворог."
+loc_talent_psyker_weakspot_grants_crit,Точно в ціль
+loc_talent_psyker_weakspot_grants_crit_once_description,Потрапляння у слабке місце {weakspot_hits:%s} разів надає наступній дальній атаці гарантований критичний удар. Може спрацювати лише раз на атаку.
+loc_talent_ranged_damage_medium,Підсилення дальної шкоди
+loc_talent_ranged_damage_medium_desc,{ranged_damage:%s} до шкоди дальнього бою.
+loc_talent_stamina_low,Підсилення витривалості
+loc_talent_stamina_low_desc,{stamina:%s} витривалості.
+loc_talent_toughness_boost_medium,Підсилення щитів
+loc_talent_toughness_boost_medium_desc,{toughness:%s} щитів.
+loc_talent_toughness_damage_reduction_low,Зменшення шкоди по щитах
+loc_talent_toughness_damage_reduction_low_desc,{toughness:%s} зменшення шкоди по щитах.
+loc_talent_toughness_damage_reduction_medium,Зменшення шкоди по щитах
+loc_talent_toughness_damage_reduction_medium_desc,{toughness:%s} зменшення шкоди по щитах.
+loc_talent_warp_charge_low,Опір перегріву
+loc_talent_warp_charge_low_desc,{warp_charge:%s} накопичення перегріву.
+loc_talent_psyker_mark_increased_duration,Затяжний вплив
+loc_talent_psyker_mark_increased_duration_description,Збільшує тривалість {talent_name:%s} з {duration_previous:%s}с до {duration_after:%s}с.
+loc_talent_psyker_mark_increased_max_stacks,Перфекціонізм
+loc_talent_psyker_mark_increased_max_stacks_description,Максимальна кількість стаків бонусу точності збільшується з {stacks_previous:%s} до {stacks_after:%s}.
+loc_talent_psyker_mark_kills_can_vent,Викрадення провидіння
+loc_talent_psyker_mark_kills_can_vent_description,"Вбивство ворогів, позначених {talent_name:%s}, має {chance:%s} ймовірності миттєво розсіяти {warp_charge_percentage:%s} перегріву."
+loc_talent_psyker_mark_weakspot_stacks,Жорстока вдача
+loc_talent_psyker_mark_weakspot_stacks_description,Вбивства у слабке місце надають {stacks:%s} додаткових стаків {talent_name:%s}.
+loc_talent_psyker_marked_enemies_passive,Порушена доля
+loc_talent_psyker_marked_enemies_passive_updated_desc,"Щосекунди вороги в радіусі {radius:%s}м мають шанс бути позначеними. Вбивство позначеного ворога відновлює {toughness:%s} щитів протягом {move_speed_duration:%s}с, надає {move_speed:%s} швидкості руху на {move_speed_duration:%s}с і додає бонус точності на {bonus_duration}с.
+
+Кожен бонус точності надає {base_damage:%s} до шкоди, {crit_damage:%s} до критичної шкоди та {weakspot_damage:%s} до шкоди по слабких місцях. Бонус точності накопичується до {bonus_stacks:%s} разів, і коли дія закінчується, один стак знімається, а тривалість оновлюється."
+loc_talent_psyker_reload_speed_warp,Впевненість у зброї
+loc_talent_psyker_reload_speed_warp_desc,"{reload_speed:%s} до швидкості перезарядки, якщо рівень перегріву нижчий за {threshold:%s}. Під час перезарядки генерує до {warp_charge:%s} перегріву залежно від відсотка відновленого магазину."
+loc_talent_psyker_toughness_on_melee_description,Вбивства у ближньому бою по слабких місцях відновлюють {toughness:%s} щитів протягом {duration:%s}с. Успішні атаки у ближньому бою миттєво відновлюють {instant_toughness:%s} щитів.
+loc_talent_psyker_warp_charge_generation_generates_toughness,Витрати варпу
+loc_talent_psyker_2_combat,Гнів псайкінетика
+loc_talent_psyker_aura_reduced_ability_cooldown,Прискорення
+loc_talent_psyker_aura_reduced_ability_cooldown_description,{cooldown_reduction:%s} скорочення перезарядки здібності для гравця та союзників у єдності.
+loc_talent_psyker_shout_ability_description,"Вивільнення хвилі енергії варпу, що збиває з рівноваги ворогів перед. Знижує перегрів на {warpcharge_vent:%s}.
+
+Базова перезарядка: {cooldown:%s}с."
+loc_talent_psyker_force_field_charges_description,{talent_name:%s} тепер має до {max_charges:%s} зарядів.
+loc_talent_psyker_force_field_dome_increased_cd_desc,"{talent_name:%s} тепер створює сферичний щит, що триває {duration:%s}с, але перезарядку збільшено до {cooldown:%s}с."

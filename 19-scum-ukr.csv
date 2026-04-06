@@ -1,0 +1,568 @@
+﻿key,value
+loc_abhuman_event_name,Пробуджені велетні
+loc_ability_flash_grenade_description,"Кинути осліплювальну гранату, що збиває з рівноваги всіх ворогів у радіусі вибуху."
+loc_achievement_broker_anarchist_aura_alt_description,"Завдати {target} критичних ударів під дією аури «Анархіста». Критичні удари, завдані союзниками в єдності, також зараховуються."
+loc_achievement_broker_anarchist_aura_name,Стрілець
+loc_achievement_broker_anarchist_keystone_b_description,Утримувати повні стаки «Хімозної залежності» протягом {target} с.
+loc_achievement_broker_anarchist_keystone_b_name,Алхімік
+loc_achievement_broker_attacks_dodged_in_focus_mode_description,"Ухилитися від {target} атак, доки активний «Шибайголова»."
+loc_achievement_broker_attacks_dodged_in_focus_mode_name,Верткий
+loc_achievement_broker_buff_allies_chem_field_description,Посилити союзників на {target} секунд ефектом «Постачанням Стимів».
+loc_achievement_broker_buff_allies_chem_field_name,Спільні вигоди
+loc_achievement_broker_enemies_affected_by_chem_bomb_2_name,"На-ка, тримай!"
+loc_achievement_broker_enemies_affected_by_chem_bomb_description,Уразити {target} унікальних ворогів «Хімгранатою».
+loc_achievement_broker_enemies_hit_by_flash_grenade_2_name,Зіграти в хлопушку
+loc_achievement_broker_enemies_hit_by_flash_grenade_description,Збити з рівноваги {enemy_count} ворогів {target} разів за допомогою «Хлопушки».
+loc_achievement_broker_enemies_killed_by_missile_launcher_2_name,Принесений бабах
+loc_achievement_broker_enemies_killed_by_missile_launcher_description,Убити {target} еліт/спеціалістів/потвор за допомогою «Бабахоносця».
+loc_achievement_broker_gunslinger_aura_description,"Поділитися {target} кількістю набоїв за допомогою аури «Швидкостріла». Набої, якими діляться союзники в єдності, також зараховуються."
+loc_achievement_broker_gunslinger_aura_name,Щедрий
+loc_achievement_broker_gunslinger_keystone_b_description,Отримати {target} стаків «Мітки стерв’ятника».
+loc_achievement_broker_gunslinger_keystone_b_name,Удар чижака
+loc_achievement_broker_ruffian_aura_description,"Убити {target} ворогів у ближньому бою під дією аури «Гультяя». Убивства, здійснені союзниками в єдності, також зараховуються."
+loc_achievement_broker_ruffian_aura_name,Бійцюга
+loc_achievement_broker_ruffian_keystone_b_description,Активувати «Адреналіновий шал» {target} разів.
+loc_achievement_broker_ruffian_keystone_b_name,Бойове зосередження
+loc_achievement_broker_stay_in_punk_rage_description,Провести {target} секунд з активною «Лютівнею!».
+loc_achievement_broker_stay_in_punk_rage_name,Лютівник
+loc_achievement_broker_stimm_apply_toxin_description,"Накласти стаки хімтоксину, доки активний «Фірмовомий від Картелю», {target} разів."
+loc_achievement_broker_stimm_apply_toxin_name,Токсичний шок
+loc_achievement_broker_stimm_celerity_potency_description,"Отримати {target}% загальної швидкості атаки за наявності щонайменше {viscosity_target}% В'язкості, розподілених у «Фірмовому від Картелю»."
+loc_achievement_broker_stimm_celerity_potency_name,Жвавик
+loc_achievement_broker_stimm_combat_potency_description,"Отримати {target}% загальної сили за наявності щонайменше {viscosity_target}% В'язкості, розподілених у «Фірмовий від Картелю» (Стимм)."
+loc_achievement_broker_stimm_combat_potency_name,Борець
+loc_achievement_broker_stimm_durability_potency_description,"Відновити {target}% загальних щитів за наявності щонайменше {viscosity_target}% В'язкості, розподілених у «Фірмовомовому від Картелю»."
+loc_achievement_broker_stimm_durability_potency_name,Посилений
+loc_achievement_broker_stimm_heavy_attack_kills_description,"Убити ворогів важкими атаками, доки активний «Фірмовомий від Картелю», {target} разів."
+loc_achievement_broker_stimm_heavy_attack_kills_name,Жорстокі дробила
+loc_achievement_broker_stimm_hit_weakspots_description,"Ударити слабкі місця, доки активний «Фірмовий від Картелю» (Стимм), {target} разів."
+loc_achievement_broker_stimm_hit_weakspots_name,Клінічний убивця
+loc_achievement_group_class_broker_2_1_name,Покидьок Вулику
+loc_achievement_group_class_broker_2_2_name,Вуликокровний
+loc_achievement_group_class_broker_2_3_name,Захисник вулика
+loc_achievement_missions_broker_2_objective_1_description,"Граючи за Покидька Вулику, завершити щонайменше одне Завдання кожного типу."
+loc_achievement_missions_broker_2_objective_1_name,Тямущий оператор
+loc_achievement_missions_broker_2_objective_3_description,"Граючи за Покидька Вулику, завершити Завдання кожного типу на Загрозі «Єресь» або вище."
+loc_achievement_missions_broker_2_objective_3_name,Тямущий оператор (3)
+loc_achievement_missions_broker_2_x_description,"Завершити {target} Завдань граючи за Покидька Вулику,"
+loc_achievement_missions_broker_2_x_name,Воля Конклаву ({tier})
+loc_achievement_rank_broker_2_x_description,"Досягти Рівня довіри {target} граючи за Покидька Вулику,"
+loc_achievement_rank_broker_2_x_name,Довірений член Картелю ({tier})
+loc_broker_headgear_01_var_01,Сталевий череп
+loc_broker_headgear_02_var_01,Респіратор з низів вулику (Червоний)
+loc_broker_headgear_02_var_02,Респіратор з низів вулику (Синій)
+loc_broker_headgear_02_var_03,Респіратор з низів вулику (Чорний)
+loc_broker_headgear_03_var_01,Респіратор «Череп смерті»
+loc_broker_headgear_04_var_01,Аугметична Щелепа («Тіньокроки»)
+loc_broker_headgear_04_var_02,Аугметична Щелепа («Шоумени»)
+loc_broker_headgear_04_var_03,Аугметична Щелепа («Залізні Вершники»)
+loc_broker_headgear_04_var_04,Аугметична Щелепа («Водний Картель»)
+loc_broker_headgear_05_var_01,Маска Привида
+loc_broker_headgear_06_var_01,Вуличні окуляри й каптур
+loc_broker_headgear_06_var_02,Вуличні окуляри й каптур (Чорний)
+loc_broker_headgear_06_var_03,Вуличні окуляри й каптур (Заплямований)
+loc_broker_headgear_07_var_01,Респіратор ямного бійця
+loc_broker_headgear_09_var_01,Іскрова Маска («Тіньокроки»)
+loc_broker_headgear_09_var_02,Іскрова Маска («Шоумени»)
+loc_broker_headgear_09_var_03,Іскрова Маска («Залізні Вершники»)
+loc_broker_headgear_09_var_04,Іскрова Маска («Водний Картель»)
+loc_broker_headgear_10_var_01,Шолом-казанець із шипами («Тіньокроки»)
+loc_broker_headgear_10_var_02,Шолом-казанець із шипами («Шоумени»)
+loc_broker_headgear_10_var_03,Шолом-казанець із шипами («Залізні Вершники»)
+loc_broker_headgear_10_var_04,Шолом-казанець із шипами («Водний Картель»)
+loc_broker_headgear_11_var_01,Шолом із гребенем (Чорний)
+loc_broker_headgear_11_var_02,Шолом із гребенем (Червоний)
+loc_broker_headgear_11_var_03,Шолом із гребенем (Синій)
+loc_broker_headgear_11_var_04,Шолом із гребенем (Зелений)
+loc_broker_headgear_15_var_01,Тріснуті окуляри й бандана («Тіньокроки»)
+loc_broker_headgear_15_var_02,Тріснуті окуляри й бандана («Шоумени»)
+loc_broker_headgear_15_var_03,Тріснуті окуляри й бандана («Залізні Вершники»)
+loc_broker_headgear_15_var_04,Тріснуті окуляри й бандана («Водний Картель»)
+loc_broker_headgear_16_var_01,Маска Жнеця (повязка)
+loc_broker_headgear_16_var_02,Маска Жнеця (Чорна)
+loc_broker_headgear_16_var_03,Маска Жнеця (Сталева)
+loc_broker_lowerbody_a_var_01,Броньовані наголінники
+loc_broker_lowerbody_c_var_01,Робітничі штани
+loc_broker_lowerbody_e_var_01,Вимуштаний Польовий Комплект Мілітаруму
+loc_broker_lowerbody_progression_a_var_01,Вуличні штани («Тіньокроки»)
+loc_broker_lowerbody_progression_a_var_02,Вуличні штани («Шоумени»)
+loc_broker_lowerbody_progression_a_var_03,Вуличні штани («Залізні Вершники»)
+loc_broker_lowerbody_progression_a_var_04,Вуличні штани («Водний Картель»)
+loc_broker_lowerbody_progression_b_var_01,Бойові штани («Тіньокроки»)
+loc_broker_lowerbody_progression_b_var_02,Бойові штани («Шоумени»)
+loc_broker_lowerbody_progression_b_var_03,Бойові штани («Залізні Вершники»)
+loc_broker_lowerbody_progression_b_var_04,Бойові штани («Водний Картель»)
+loc_broker_lowerbody_progression_c_var_01,Клепані бойові штани («Тіньокроки»)
+loc_broker_lowerbody_progression_c_var_02,Клепані бойові штани («Шоумени»)
+loc_broker_lowerbody_progression_c_var_03,Клепані бойові штани («Залізні Вершники»)
+loc_broker_lowerbody_progression_c_var_04,Клепані бойові штани («Водний Картель»)
+loc_broker_lowerbody_progression_d_var_01,Посилені бойові штани («Тіньокроки»)
+loc_broker_lowerbody_progression_d_var_02,Посилені бойові штани («Шоумени»)
+loc_broker_lowerbody_progression_d_var_03,Посилені бойові штани («Залізні Вершники»)
+loc_broker_lowerbody_progression_d_var_04,Посилені бойові штани («Водний Картель»)
+loc_broker_stimm_builder_view_display_name,Лабораторія
+loc_broker_upperbody_c_var_01,Плащ мисливця за головами
+loc_character_backstory_snippet_broker,Конклав ухвалив рішення. Картелі йдуть на війну! Ти залишаєш свій дім і вирушаєш на «Скорботну Зорю».
+loc_character_childhood_19_description,"Увесь мотлох і відходи, що їх породжує кипляча маса людства у вулику, мають десь подітися. На жаль для тебе, ти виріс саме там, де все це опиняється."
+loc_character_childhood_19_name,Канальний щур
+loc_character_childhood_20_description,"Школи Імперіуму призначені приймати безпритульних і загублених дітей та, шляхом суворої дисципліни й доктринування, випускати наступне покоління імперських офіцерів і спецпідрозділів. Втім, схоже, ти мав інші плани."
+loc_character_childhood_20_name,Утікач-сирота
+loc_character_childhood_21_description,"До вторгнення Карнавал був жвавим, гамірним районом. Безперечно, не найбезпечнішим… але й не таким мертвим і спустошеним, як сьогодні."
+loc_character_childhood_21_name,Карнавальний шмаркач банди
+loc_character_childhood_22_description,"Безкраї, лабіринтні задвірки й провулки, що пронизують житлові райони Тертіуму, є домівкою для незліченних, позбавлених усього громадян. У цих немилосердних холодних входах тулиться чимало сімей, яким вдалося вислизнути з поля зору Імперіуму — чи то через осуд, чи через банальну бюрократичну хибу."
+loc_character_childhood_22_description_snippet,"Зростаючи на вулицях, ти бачив увесь Вулик як свій дім."
+loc_character_childhood_22_name,Підвуликовий злидар
+loc_character_childhood_23_description,"Шлакові ями та стічні жолоби, неминучі навколо великих мануфактур, кишать усілякими невимовними, мутованими створіннями, яких кмітливий хлопчак може обернути на кілька монет. Так і розпочалася твоя жалюгідна історія."
+loc_character_childhood_23_name,Мануфакторіальний болотяник
+loc_character_childhood_24_description,"Великі вулиці Тронсайду дарують чималі можливості юному дрібному злодюжці. Розсіяні вельможі з незатягнутими гаманцями — легка здобич. Треба лише стежити за Магами, які ніколи не бувають далеко."
+loc_character_childhood_24_name,Тронсайдський пройдисвіт
+loc_character_childhood_25_description,"Цілі покоління сімей народжуються й помирають у величезних мануфакторіях і горнах, що становлять індустріальне серце Тертіуму. Маленькі руки й тендітні тіла — корисний інструмент, коли треба прочистити засмічення або дістати впалі деталі, що тікають під нескінченні конвеєри та поршні."
+loc_character_childhood_25_name,Дитя горнів
+loc_character_create_title_gang,Приналежність до Картелю
+loc_character_create_unique_reason,Унікально для {reason:%s}.
+loc_character_creator_gang_introduction,"Картелі пронизують усе місто Тертіум. Їхні підступні схеми тісно вплетені в основну міську інфраструктуру, і для пересічних мешканців їхня влада майже не відрізняється від влади офіційних інституцій Імперіуму."
+loc_character_gang_01_description,"Правлений Обідраний Король, Водний Картель оселився у вогких, краплистих надрах Потоку. Звідси вони можуть впливати як на постачання чистої води, так і на керування стічними потоками по всьому вулику. Саме до цього картелю належала Зола, перш ніж приєднатися до Ґрендила та його справи."
+loc_character_gang_01_name,Водний Картель
+loc_character_gang_02_description,"Правлені збожеволівшим Лордом Маґлевіатаном, ці рейкорейдери постійно перебувають у русі, використовуючи нашвидкуруч зібрані вагонні модулі як свої штаб-квартири. Вони мають глибокий вплив на всю артерійоподібну транспортну мережу Тертіуму, контролюючи потоки товарів — як звичайних, так і заборонених."
+loc_character_gang_02_name,Залізні Вершники
+loc_character_gang_03_description,"Зі «Сцени», їхньої таємної бази, захованої глибоко в задвірках Карнавалу, «Ведучий» керує найбільш барвистим із картелів Тертіуму. З огляду на беззаконний характер Карнавалу, ця організація може дозволити собі бути значно відкритішою у своїх справах. Вони захищають інтереси численних бізнесів району Карнавалу, включно — але не обмежуючись — постачанням і розподілом стимів, азартними норами та іншим."
+loc_character_gang_03_name,Шоумени
+loc_character_gang_04_description,"Виробництво Моебіанської сталі є серцем індустрії Тертіуму, забезпечуючи танкові ливарні та мануфакторіуми необхідною сировиною. Тіньокроки та їхня лідерка, Леді Сталь, мають руку в усьому, що стосується цієї промисловості. Від транспортування сировини до доставки готового продукту — усе це перебуває під впливом цього впливового картелю."
+loc_character_gang_04_description_snippet,"Розплавлена сталь тече в твоїх жилах. Тіньокроки та їхні промислові зв’язки — це завжди було тим місцем, де ти мав опинитися."
+loc_character_gang_04_name,Тіньокроки
+loc_character_gang_unlocks,Приналежність до картелю впливає на деякі параметри кастомізації.
+loc_character_growing_up_23_description,"Дільниці Правоохоронців Тертіуму повні ув’язнених нероб, що опинилися по той бік Імперського Закону. Багатьох таких в’язнів відправляють працювати на Заводи — величезні ланцюгові банди, які забезпечують силу та робочу міць для гігантських імперських машин."
+loc_character_growing_up_23_name,Ув’язнений
+loc_character_growing_up_24_description,"Тертіум такий величезний, що статки окремих людей можуть злетіти чи впасти в одну мить — і це не матиме жодного помітного впливу на навколишні райони. Торгівці підіймаються до впливу, лише щоб бути позбавленими всього надмірно старанним чиновником чи просто втратити все через шахрая або невдалу авантюру."
+loc_character_growing_up_24_name,Від багатства до злиднів
+loc_character_growing_up_25_description,"У кожного Картелю в Тертіумі є ціла маса Молодиків, які змагаються за увагу з боку старших членів. Досягти цього можна через крайні акти насильства, особливо хитрі плани або просто втершись у довіру до конкретного представника Картелю."
+loc_character_growing_up_25_name,Зростаюча зірка
+loc_character_growing_up_26_description,"Чимало мешканців Тертіуму пошепки балакають про дикунів, що живуть за стінами міста, поза Забороненою Зоною. Дехто каже, що там існують цілі племена. Інші ж наполягають, що це неможливо. Увесь той район же опромінений, чи не так?"
+loc_character_growing_up_26_description_snippet,"Твої імперські записи містять кілька років, протягом яких твоя присутність ніде не зафіксована. Чутки наполягають, що тобі вдалося втекти з вулика й жити у пустках. І ти аж ніяк не намагаєшся ці чутки розвіяти."
+loc_character_growing_up_26_name,У Пустках
+loc_character_growing_up_27_description,"У багатьох занедбаних районах слід пильнувати, з ким розмовляєш. Шахраї, пройдисвіти й аферисти вільно ведуть свою справу, завжди готові позбавити якогось бідолаху всіх його пожитків."
+loc_character_growing_up_27_name,Шахрай
+loc_character_growing_up_28_description,"До вторгнення Карнавал гудів від підпільних барів, гадальних салонів і шинків. Зовні більшість із них були нічим не відмінні від житлових блоків, якщо тільки ти не знав, що саме шукаєш."
+loc_character_growing_up_28_name,Шинкар
+loc_character_growing_up_29_description,"Вулик Тертіум — небезпечне місце. Від сутичок Картелів до виробничих аварій, жахіття тут трапляються регулярно."
+loc_character_growing_up_29_name,Трагічна втрата
+loc_circumstance_story_nomansland_01_description,Єретики спрямували токсичний бомбопоїзд просто в серце вузла розгортання 53-го Моебіанського. Зупини його!
+loc_circumstance_story_nomansland_01_title,Кінець колії
+loc_circumstance_story_nomansland_02_description,"53-й прагне відплати. Підтримай їх, нейтралізувавши зразки Зарази у  сховищі Шпилю."
+loc_circumstance_story_nomansland_02_title,Ґвардія переможе
+loc_circumstance_story_nomansland_03_description,Штурмуй оплот Покарання в Пагубі Консори. Командувач Лицар Драґор забезпечить підтримку важкої техніки.
+loc_circumstance_story_nomansland_03_title,Молот Імператора
+loc_class_broker_additional_01,Покидьок Вулику
+loc_class_broker_additional_01_desc,З нікчемних початків ти буквально вирізьбив собі ім’я.
+loc_class_broker_additional_02,Баламут
+loc_class_broker_additional_02_desc,"Картель стежить за твоїми діями. Продовжуй у такому ж дусі — і слава з багатством неодмінно прийдуть. Ну, або ніж між ребер."
+loc_class_broker_additional_03,Картельний убивця
+loc_class_broker_additional_03_desc,Тепер про тебе знають. Тебе можуть залучати до будь-якої роботи Картелю. Переважно — кривавої.
+loc_class_broker_carnival_01,Шоумени
+loc_class_broker_carnival_01_desc,"Постачальники стимів і хімічних підсилень, орендодавці та охоронці безлічі закладів — Шоумени мешкають в Карнавалі й зовсім не раді тому, що зрадники з 6-ого Моебіанського намагаються влізти на їхню територію."
+loc_class_broker_carnival_02,Улюбленець «Ведучої»
+loc_class_broker_carnival_02_desc,Твоя велика лідерка бачить у тобі майбутню зірку її веселої ватаги.
+loc_class_broker_description,"Покидьки Вулику — це старші головорізи картелів. Клинки та пістолети напоготові, щоб будь-якої миті виконати брудну роботу Картелю. Хай їм і бракує офіційної військової підготовки — але не обманюйте себе, це небезпечні та надзвичайно вправні особи."
+loc_class_broker_name,Покидьок Вулику
+loc_class_broker_rail_01,Залізні Вершники
+loc_class_broker_rail_01_desc,"Гігантська залізнична мережа Тертіуму проходить крізь вулик немов жили й артерії, перевозивши припаси, важкі вантажі та робітників. Контроль над цією ключовою інфраструктурою є найвищою метою Лорда Маґлевіатана та його картелю."
+loc_class_broker_rail_02,Обранець Лорда Маґлевіатана
+loc_class_broker_rail_02_desc,"Твій володар вражений і пророкує, що ти мандруватимеш рейками ще багато років."
+loc_class_broker_steel_01,Тіньокроки
+loc_class_broker_steel_01_desc,"Те, що починалося як свого роду робітнича спілка серед докерів та транспортувальників руди, перетворилося на гігантську злочинну операцію. Адептус Механікус міцно тримає в узді горни та мануфакторіуми, але постійно перебуває у конфлікті з цим картелем."
+loc_class_broker_steel_02,Молот Леді Сталь
+loc_class_broker_steel_02_desc,"Леді поінформована про твої успіхи. Подбай, щоб ти виправдав її похвалу."
+loc_class_broker_title,Покидьок Вулику
+loc_class_broker_water_01,Водний Картель
+loc_class_broker_water_01_desc,"Маючи за домен вогкі, краплистi надра Потоку, Водний Картель фактично перебрав під свій контроль постачання чистої води в Тертіумі. Принаймні — на нижчих рівнях."
+loc_class_broker_water_02,Придворний Обідраного Короля
+loc_class_broker_water_02_desc,Обідраний Король помітив твою роботу. Він бачить у тобі великий потенціал.
+loc_combat_ability_broker,Ухилятися від дальніх атак за допомогою бойової здібності
+loc_combat_ability_tutorial_broker_desc,"Використати бойову здібність, щоб автоматично ухилятися від вогню ворога протягом певного часу."
+loc_dlc_adamant_name_deluxe,Клас Арбітів — Делюкс видання
+loc_dlc_broker_name,Покидьок Вулику
+loc_dlc_broker_name_cosmetic_upgrade,Покидьок Вулику — косметичне поліпшення
+loc_dlc_broker_name_deluxe,Покидьок Вулику — Делюкс видання
+loc_end_of_round_broker_019_weapon,"Хто, я?"
+loc_face_makeup,Розмальовка обличчя
+loc_full_body_tattoo,Татуювання на все тіло
+loc_glossary_completed,Завершено
+loc_grenade_objective_stagger,Збити з рівноваги ворогів за допомогою Гранат
+loc_mission_board_main_objective_no_mans_land_description,Провести Командувача Лицаря Драґора до схованки «Покарання».
+loc_mission_name_op_no_mans_land,Нічиї Землі
+loc_no_mans_land_completion_description,Завершити такі завдання кампанії «Шлях до Нічиїх Земель» на рівні Загрози {difficulty} або вище.
+loc_no_mans_land_completion_name,Шлях до Нічиїх Земель ({tier})
+loc_nomansland_display_name,Шлях до Нічиїх Земель
+loc_nurgle_explosion_event_name,Дарунки Дідуся
+loc_objective_op_no_mans_trenches_desc,Прориватися крізь окопи.
+loc_objective_op_no_mans_trenches_header,Прориватися крізь окопи
+loc_personality_name_male_broker_1,Бунтар
+loc_personality_name_male_broker_2,Мисливець за головами
+loc_personality_name_male_broker_3,Анархіст
+loc_personality_name_female_broker_1,Бунтар
+loc_personality_name_female_broker_2,Мисливець за головами
+loc_personality_name_female_broker_3,Анархіст
+loc_stimm_lab_cooldown,Перезарядка
+loc_stimm_lab_cost,Вартість: {cost}
+loc_stimm_lab_viscosity,В'язкість
+loc_stimm_lab_volume,Об’єм
+loc_talent_broker_ability_focus,Шибайголова
+loc_talent_broker_ability_focus_desc,"Перемикаєшся на дальню зброю та перезаряджаєш її, входячи в стан {talent_name:%s} на {duration:%s}с. На цей час вороги не можуть нанести шкоду по тобі дальніми атаками, біг не витрачає витривалість, а ти отримуєш {sprint_movement_speed:%s} швидкості спринту.
+
+Поки здібність активна, перезаряджання зброї не зменшує твій запас набоїв.
+
+Базова перезарядка: {cooldown:%s}с."
+loc_talent_broker_ability_focus_improved,Посилений Шибайголова
+loc_talent_broker_ability_focus_improved_desc,"Перемикаєшся на дальню зброю та перезаряджаєш її, входячи в стан {talent_name:%s} на {duration:%s}с. У цей час вороги не можуть влучити в тебе дальніми атаками, біг не витрачає витривалість, а ти отримуєш {sprint_movement_speed:%s} швидкості спринту.
+
+Поки здібність активна, перезаряджання зброї не зменшує твій запас набоїв.
+
+Додатково, вороги на близькій дистанції підсвічуються. Убивства підсвічених ворогів дальною зброєю подовжують дію здібності на {duration_extend:%s}с. Після {duration_max:%s}с ефективність подовження зменшується.
+
+Базовм перезарядка: {cooldown:%s}с.
+
+Це посилена версія {default_talent:%s}."
+loc_talent_broker_ability_focus_sub_2,Обирай мішені
+loc_talent_broker_ability_focus_sub_2_desc,"Отримання {rending:%s} до пробиття для дальних атак, доки активний {focus:%s}. Додатково, убивства підсвічених ворогів також надають {damage:%s} шкоди дальніми атаками, із накопиченням до {stacks:%s} разів."
+loc_talent_broker_ability_focus_sub_3,Зосереджена рішучість
+loc_talent_broker_ability_focus_sub_3_desc,Убивства підсвічених ворогів відновлюють {cooldown_base:%s}с Перезарядка Здібності. Убивства Еліт і Спеціалістів замість цього відновлюють {cooldown_elite:%s}с. Максимум {cooldown_max:%s}с Перезарядка може бути відновлено.
+loc_talent_broker_ability_punk_rage,Лютівня!
+loc_talent_broker_ability_punk_rage_desc_2,"Увійти в {talent_name:%s} на {duration:%s}с. На цей час отримати {power:%s} сили у ближньому бою, {attack_speed:%s} швидкості атаки та {damage_taken:%s} зменшення отриманої шкоди, а також стати невразливим до оглушення та пригнічення.
+
+Удари у ближньому бою подовжують тривалість на {rage_duration_extend:%s}с. Після {rage_duration_max:%s}с ефективність подовження зменшується.
+
+Після завершення {talent_name:%s} ти стаєш виснаженим на {exhaust_duration:%s} с, отримуючи {exhaust_damage_taken:%s} отриманої шкоди та {exhaust_stamina_regeneration:%s} швидкості відновлення витривалості на цей період.
+
+Базова перезарядка: {cooldown:%s}с."
+loc_talent_broker_ability_punk_rage_sub_1,Спрямована агресія
+loc_talent_broker_ability_punk_rage_sub_1_desc,"Важкі атаки отримують {rending:%s} пробиття, доки тривалість {punk_rage:%s} залишається вищою за {ability_progress:%s}."
+loc_talent_broker_ability_punk_rage_sub_2,Дробильні удари
+loc_talent_broker_ability_punk_rage_sub_2_desc,"Надається {cleave:%s} Розсічення, поки активний {punk_rage:%s}.
+
+Крім того, надається {melee_power:%s} сила у ближньому бою за кожну витрачену секунду з активною здібністю — аж до {max_stacks:%s} разів."
+loc_talent_broker_ability_punk_rage_sub_3,Рев наковальні
+loc_talent_broker_ability_punk_rage_sub_3_desc,"Коли активовано {punk_rage%s}, видати потужний крик, що збиває ворогів з рівноваги та збільшує інтервал між їхніми атаками на {attack_speed_reduction:%s} протягом {duration:%s}с.
+
+Під час виснаження — видати крик знову."
+loc_talent_broker_ability_punk_rage_sub_4,Кипляча кров
+loc_talent_broker_ability_punk_rage_sub_4_desc,"Удари у ближньому бою по Елітах і Потворах подовжують тривалість {punk_rage:%s} на {rage_duration_extend_elites:%s}с. Додатково, час, після якого ефективність подовження зменшується, тепер становить {rage_duration_max_upgrade:%s}с."
+loc_talent_broker_ability_stimm_field,Постачання Стимів
+loc_talent_broker_ability_stimm_field_sub_2,Пастка-Сюрприз
+loc_talent_broker_ability_stimm_field_sub_2_desc,"Щойно дія {stimm_field:%s} завершується, вона вибухає, заражаючи навколишніх ворогів {stacks:%s} стаками {toxin:%s}."
+loc_talent_broker_aura_anarchist,Анархіст
+loc_talent_broker_aura_anarchist_desc,{critical_chance:%s} шансу критичного удару для тебе та союзників у Єдності.
+loc_talent_broker_aura_gunslinger,Швидкостріл
+loc_talent_broker_aura_gunslinger_desc,"Коли ти або союзники в Єдності підбираєте набої, кожен із вас відновлює кількість набоїв, що дорівнює {ammo:%s} від цього підбору."
+loc_talent_broker_aura_gunslinger_improved,Покращений Швидкостріл
+loc_talent_broker_aura_gunslinger_improved_desc,"Коли ти або союзники в Єдності підбираєте набої, кожен із вас відновлює кількість набоїв, що дорівнює {ammo:%s} від цього підбору.
+
+Це посилена версія {talent:%s}."
+loc_talent_broker_aura_ruffian,Гультяй
+loc_talent_broker_aura_ruffian_desc,{melee_damage:%s} шкоди у ближньому бою для тебе та союзників у Єдності.
+loc_talent_broker_blitz_flash_grenade,Хлопушка
+loc_talent_broker_blitz_flash_grenade_desc,"Швидка у використанні граната, що збиває ворогів з рівноваги._x000D_
+_x000D_
+{max_charges:%s} Макс. Гранат."
+loc_talent_broker_blitz_flash_grenade_improved,Пітарда
+loc_talent_broker_blitz_flash_grenade_improved_desc,"Швидка у використанні граната, що збиває ворогів з рівноваги.
+
+Кожні {num_kills:%s} убивств на близькій дистанції створюють {num_charges:%s} гранат(у).
+
+{max_charges:%s} макс. гранат.
+
+Це посилена версія {talent_name:%s}."
+loc_talent_broker_blitz_missile_launcher,Бабахоносець
+loc_talent_broker_blitz_missile_launcher_desc,"Потужна ракетниця.
+
+{max_charges:%s} макс. ракет."
+loc_talent_broker_blitz_tox_grenade,Хімграната
+loc_talent_broker_blitz_tox_grenade_desc,"Кинута граната, що містить {toxin:%s}. Після вибуху каністра розкривається, і вміст розливається по площі.
+
+{max_charges:%s} макс. гранат."
+loc_talent_broker_damage_after_toxined_enemies,Токсиноманія
+loc_talent_broker_damage_after_toxined_enemies_desc,{damage:%s} базової шкоди за кожного {toxin:%s}-зараженого ворога поруч. До максимуму в {damage_max:%s}.
+loc_talent_broker_keystone_adrenaline_junkie,Адреналіновий шал
+loc_talent_broker_keystone_adrenaline_junkie_desc,"Удари у ближньому бою надають тобі стак {adrenaline:%s}. Критичні Удари у ближньому бою надають {on_crit:%s} додатковий стак. Якщо протягом {duration:%s}с не отримано жодного стака, один стак буде знято.
+
+За {max_stacks:%s} стаків усі стаки {adrenaline:%s} знімаються, і ти отримуєш {frenzy:%s}.
+
+{frenzy:%s} надає {attack_speed:%s} швидкості атаки та {melee_damage:%s} шкоди у ближньому бою, тривалістю {frenzy_duration:%s}с."
+loc_talent_broker_keystone_adrenaline_junkie_sub_1,Адреналіновий убивця
+loc_talent_broker_keystone_adrenaline_junkie_sub_1_desc,Удари по слабких місцях тепер надають {stacks:%s} додатковий стак {adrenaline:%s}. Звичайні удари у ближньому бою не надають стаків.
+loc_talent_broker_keystone_adrenaline_junkie_sub_2,Адреналіновий каратель
+loc_talent_broker_keystone_adrenaline_junkie_sub_2_desc,Фінальні удари тепер надають {stacks:%s} додаткові стаки {adrenaline:%s}. Фінальні удари по елітах надають {elite_stacks:%s} додаткові стаки. Невбиваючі удари не надають стаків.
+loc_talent_broker_keystone_adrenaline_junkie_sub_3,Розпалена лють
+loc_talent_broker_keystone_adrenaline_junkie_sub_3_desc,Подовжити тривалість {frenzy:%s} до {duration:%s}с.
+loc_talent_broker_keystone_adrenaline_junkie_sub_4,Неконтрольована агресія
+loc_talent_broker_keystone_adrenaline_junkie_sub_4_desc,Подовжити тривалість {adrenaline:%s} до {duration:%s}с.
+loc_talent_broker_keystone_adrenaline_junkie_sub_5,Незнаний адреналін
+loc_talent_broker_keystone_adrenaline_junkie_sub_5_desc,"Доки активна {frenzy:%s}, ти відновлюєш {toughness:%s} щитів щосекунди."
+loc_talent_broker_keystone_chemical_dependency,Хімозна залежність
+loc_talent_broker_keystone_chemical_dependency_desc,"Використання стиму надає стак {dependency:%s} на {duration:%s}с. 
+
+За кожен стак отримуєш
+{cooldown_reduction:%s} відновлення перезарядки здібності.
+
+Максимум {max_stacks:%s} стаки. стаки спадають по одному."
+loc_talent_broker_keystone_chemical_dependency_sub_1,Посилені хімікати
+loc_talent_broker_keystone_chemical_dependency_sub_1_desc,Кожен стак {dependency:%s} додатково надає {critical_chance:%s} шансу критичного удару.
+loc_talent_broker_keystone_chemical_dependency_sub_2,Хімпідсилення
+loc_talent_broker_keystone_chemical_dependency_sub_2_desc,"Використання стиму відновлює {toughness:%s} щитів. Додатково, кожен стак {dependency:%s} надає {toughness_damage_reduction:%s} зменшення шкоди по щитах."
+loc_talent_broker_keystone_chemical_dependency_sub_3,Максимізація химікатів
+loc_talent_broker_keystone_chemical_dependency_sub_3_desc,"Кожен стак {dependency:%s} тепер триває {duration:%s} с, але максимальна кількість стаків збільшується до {max_stacks:%s}."
+loc_talent_broker_keystone_vultures_mark_aoe_stagger,Поштовх стерв’ятника
+loc_talent_broker_keystone_vultures_mark_aoe_stagger_desc,Убивства еліт чи спеціалістів дальніми атаками відкидають усіх ворогів навколо тебе назад.
+loc_talent_broker_keystone_vultures_mark_dodge_on_ranged_crit,Ухиляння стерв’ятника
+loc_talent_broker_keystone_vultures_mark_dodge_on_ranged_crit_desc,Критичні удари дальніми атаками надають невразливість до всіх атак на {duration:%s}с.
+loc_talent_broker_keystone_vultures_mark_increased_duration,Терплячий мисливець
+loc_talent_broker_keystone_vultures_mark_increased_duration_desc,Тривалість мітки стерв’ятника подовжено до {duration:%s}с.
+loc_talent_broker_keystone_vultures_mark_on_kill,Мітка стерв’ятника
+loc_talent_broker_keystone_vultures_mark_on_kill_desc,"Убивство спеціаліста чи еліта дальньою зброєю надає стак мітки стерв’ятника на {duration:%s}с (накопичується до {max_stacks:%s} разів).
+
+Кожен стак надає {ranged_damage:%s} шкоди дальніми атаками, {crit_chance:%s} шансу критичного удару дальніми атаками та {movement_speed:%s} швидкості руху.
+
+За максимальної кількості стаків убивства спеціалістів і елітів дальньою зброєю відновлюють {toughness:%s} щитів тобі та союзникам у єдності."
+loc_talent_broker_passive_blitz_inflicts_toxin,Кишеньковий токсин
+loc_talent_broker_passive_blitz_inflicts_toxin_desc,Вибухи бліц-умінь заражають ворогів {stacks:%s} стаками {toxin:%s}.
+loc_talent_broker_passive_cleave_on_cleave,Бойовий розгін
+loc_talent_broker_passive_cleave_on_cleave_desc,Удар по {min_targets:%s} чи більше ворогах однією атакою надає {multiplier:%s} розсічення для наступної атаки.
+loc_talent_broker_passive_close_range_damage_on_dodge,Швидкий і смертельний
+loc_talent_broker_passive_close_range_damage_on_dodge_desc,{damage_near:%s} шкоди дальніми атаками на близькій дистанції протягом {duration:%s}с після успішного ухиляння.
+loc_talent_broker_passive_close_ranged_damage,На тобі
+loc_talent_broker_passive_close_ranged_damage_desc,"{damage_near:%s} шкоди дальніми атаками по цілях у межах {range_near:%s} м, зі зменшенням до мінімуму в {damage_far:%s} на {range_far:%s} м і далі."
+loc_talent_broker_passive_damage_on_reload,Розвантаження
+loc_talent_broker_passive_damage_on_reload_desc,Перезаряджання дальньої зброї надає {damage:%s} шкоди дальніми атаками на {duration:%s}с. Кожні {ammo_per_stack:%s} витрачених набоїв за час дії надають додатково {damage_per_stack:%s} шкоди дальніми атаками.
+loc_talent_broker_passive_damage_vs_elites_monsters,Удар понад можливостей
+loc_talent_broker_passive_damage_vs_elites_monsters_desc,{multiplier:%s} шкоди по елітах і потворах.
+loc_talent_broker_passive_damage_vs_heavy_staggered,Брудні удари
+loc_talent_broker_passive_damage_vs_heavy_staggered_desc,"{multiplier:%s} шкоди по ворогах, які повністю збиті з рівноваги."
+loc_talent_broker_passive_dodge_melee_on_slide,Верткий пройдисвіт
+loc_talent_broker_passive_dodge_melee_on_slide_desc,Під час ковзання ти отримуєш невразливість до атак у ближньому бою.
+loc_talent_broker_passive_dr_damage_tradeoff_on_stamina,Боєць Вулику
+loc_talent_broker_passive_dr_damage_tradeoff_on_stamina_desc,"Залежно від доступної витривалості — до {damage_reduction:%s} зменшення отриманої шкоди. Додатково, залежно від витраченої витривалості — до {damage_increase:%s} шкоди у ближньому бою."
+loc_talent_broker_passive_extended_mag,Боєзапасник
+loc_talent_broker_passive_extended_mag_desc,"{clip_size:%s} місткості магазину, заокруглено вгору."
+loc_talent_broker_passive_first_target_damage,Вітання з Тертіуму
+loc_talent_broker_passive_first_target_damage_desc,"{damage:%s} шкоди у ближньому бою по першому ворогу, ураженому кожною атакою."
+loc_talent_broker_passive_improved_dodges,Верткий
+loc_talent_broker_passive_improved_dodges_at_full_stamina,Нервовий
+loc_talent_broker_passive_improved_dodges_at_full_stamina_desc,"{dodge_cooldown_reset_modifier:%s} швидкості відновлення ухиляння, доки витривалість вища за {stamina:%s}."
+loc_talent_broker_passive_improved_dodges_desc,"Ухиляння подовжуються на {dodge_distance_modifier:%s}, а час, що вважається ухилянням, — на {dodge_linger_time:%s}."
+loc_talent_broker_passive_improved_sprint_dodge,Немов вітер
+loc_talent_broker_passive_improved_sprint_dodge_desc,"{angle:%s} кута ухиляння при спринті. Додатково, ухиляння при спринті доступне навіть за вичерпаною витривалістю."
+loc_talent_broker_passive_increased_aura_size,Вільний стрій
+loc_talent_broker_passive_increased_aura_size_desc,{multiplier:%s} радіусу єдності.
+loc_talent_broker_passive_increased_blitz_ammo,Додаткові сумки
+loc_talent_broker_passive_increased_blitz_ammo_desc,{ammo:%s} зарядів бліцу.
+loc_talent_broker_passive_increased_ranged_dodges,Рухома ціль
+loc_talent_broker_passive_increased_ranged_dodges_desc,Отримати {extra_consecutive_dodges:%s} ефективних ухилянь під час використання дальньої зброї.
+loc_talent_broker_passive_increased_weakspot_damage,Слабинка
+loc_talent_broker_passive_increased_weakspot_damage_desc,{weakspot_damage:%s} шкоди по слабких місцях.
+loc_talent_broker_passive_low_ammo_regen,Злодюжка
+loc_talent_broker_passive_low_ammo_regen_desc,"Убивство еліти чи спеціаліста у ближньому бою, коли запас набоїв нижче {ammo_threshold:%s}, поповнює його до {ammo_threshold:%s}."
+loc_talent_broker_passive_melee_attacks_apply_toxin,Покрите озброєння
+loc_talent_broker_passive_melee_attacks_apply_toxin_desc,Критичні удари у ближньому бою заражають ворогів {stacks:%s} стаком(ами) {toxin:%s}.
+loc_talent_broker_passive_melee_cleave_on_melee_kill,Дробильні удари
+loc_talent_broker_passive_melee_cleave_on_melee_kill_desc,Убивства у ближньому бою надають {multiplier:%s} розсічення у ближньому бою на {duration:%s}с. Накопичується до {max_stacks:%s} разів.
+loc_talent_broker_passive_melee_crit_instakill,Гіперкрит
+loc_talent_broker_passive_melee_crit_instakill_desc,"Критичні удари миттєво вбивають ворогів людського розміру, якщо їхнє поточне здоров’я менше ніж {threshold:%s} від шкоди критичного удару."
+loc_talent_broker_passive_melee_damage_carry_over,Гіпернасильство
+loc_talent_broker_passive_melee_damage_carry_over_desc,Убивства надають {percentage:%s} різниці між завданою твоєю атакою шкодою та здоров’ям убитого ворога як шкоду у ближньому бою на {duration:%s}с.
+loc_talent_broker_passive_ninja_grants_crit_chance,Легкий як метелик
+loc_talent_broker_passive_ninja_grants_crit_chance_desc,Досконалі блоки та успішні ухиляння надають {critical_strike_chance:%s} шансу критичного удару на {duration:%s}с.
+loc_talent_broker_passive_punk_grit,Бандитська міць
+loc_talent_broker_passive_punk_grit_desc,{ranged_damage:%s} шкоди дальніми атаками та {toughness_damage_taken_modifier:%s} зменшення шкоди по щитах.
+loc_talent_broker_passive_ramping_backstabs,Наростальні удари в спину
+loc_talent_broker_passive_ramping_backstabs_desc,"Повторні удари з-за спини по цілі збільшують силу на {power:%s} за кожну атаку, до максимуму в {stacks:%s} разів."
+loc_talent_broker_passive_reduce_swap_time,Липкі ручки
+loc_talent_broker_passive_reduce_swap_time_desc,"{wield_speed:%s} швидкості зміни зброї. Додатково, отримуєш {recoil:%s} віддачі та {spread:%s} розсіювання під час стрільби навскид або з упору."
+loc_talent_broker_passive_reduced_damage_by_toxined,Прицільний токсин
+loc_talent_broker_passive_reduced_damage_by_toxined_desc,"Вороги, яких ти заражаєш {toxin:%s}ом, завдають {default:%s} шкоди. Потвори натомість завдають {monster:%s}."
+loc_talent_broker_passive_reduced_toughness_damage_during_reload,Прохання на тайм аут
+loc_talent_broker_passive_reduced_toughness_damage_during_reload_desc,{toughness_damage_taken_modifier:%s} шкоди по щитах під час перезаряджання та протягом {duration:%s}с після нього.
+loc_talent_broker_passive_reload_speed_on_close_kill,Швидкозарядник
+loc_talent_broker_passive_reload_speed_on_close_kill_desc,{reload_speed:%s} швидкості перезаряджання на {duration:%s}с після вбивства на близькій дистанції.
+loc_talent_broker_passive_replenish_toughness_on_ranged_toughness_damage,Лише подряпина
+loc_talent_broker_passive_replenish_toughness_on_ranged_toughness_damage_desc,Відновити {toughness:%s} щитів протягом {duration:%s}с після отримання шкоди по щитах від дальніх атак. Втрата всіх щитів перериває ефект.
+loc_talent_broker_passive_restore_toughness_on_close_ranged_kill,Голос Тертіуму
+loc_talent_broker_passive_restore_toughness_on_close_ranged_kill_desc,Відновити {toughness:%s} щитів за вбивство дальньою зброєю. Убивства елітів і спеціалістів натомість відновлюють {toughness_elites:%s} щитів.
+loc_talent_broker_passive_restore_toughness_on_weakspot_kill,Точне насильство
+loc_talent_broker_passive_restore_toughness_on_weakspot_kill_desc,"Удари у ближньому бою відновлюють {default:%s} щитів.
+Критичні удари у ближньому бою та удари по слабких місцях натомість відновлюють {weakspot:%s}, а критичні удари по слабких місцях — {critical:%s}."
+loc_talent_broker_passive_sprinting_reduces_threat,Недоторканний
+loc_talent_broker_passive_sprinting_reduces_threat_desc,"Спринт протягом {threshold:%s}с надає {threat_weight_multiplier:%s} загрози на {duration:%s} с, з накопиченням до {max_stacks:%s} разів.
+
+Успішні ухиляння оновлюють тривалість."
+loc_talent_broker_passive_stamina_grants_atk_speed,Швидка витривалість
+loc_talent_broker_passive_stamina_grants_atk_speed_desc,{attack_speed_increase:%s} збільшення швидкості атаки у ближньому бою за кожну поточну одиницю витривалості.
+loc_talent_broker_passive_stamina_on_successful_dodge,Відновлена постава
+loc_talent_broker_passive_stamina_on_successful_dodge_desc,{stamina:%s} витривалості за успішне ухиляння.
+loc_talent_broker_passive_stimm_cd_on_kill,Збирач зразків
+loc_talent_broker_passive_stimm_cd_on_kill_desc,"Убивства відновлюють {restore:%s} перезарядки твого стимy. Убивства ворогів, заражених {toxin:%s}, натомість відновлюють {restore_toxined:%s}."
+loc_talent_broker_passive_stimm_cleanse_on_kill,Благословенні стимми
+loc_talent_broker_passive_stimm_cleanse_on_kill_desc,"Поки діє стим, убивства очищають {cleanse_amount:%s} Погані (до {cleanse_threshold:%s} за один стим)."
+loc_talent_broker_passive_stimm_increased_duration,Тривалодіючий
+loc_talent_broker_passive_stimm_increased_duration_desc,{duration_increase:%s}с тривалості стиму.
+loc_talent_broker_passive_stun_immunity_on_toughness_broken,Спалах енергії
+loc_talent_broker_passive_stun_immunity_on_toughness_broken_desc,"Отримати невразливість до оглушення на {duration:%s}с та відновити {toughness:%s} щитів, коли щити зламано. перезарядки {cooldown:%s}с."
+loc_talent_broker_stimm,Фірмовий від Картелю
+loc_talent_broker_stimm_celerity_a,Спюр {tier:%s}
+loc_talent_broker_stimm_celerity_b,Рефлекс {tier:%s}
+loc_talent_broker_stimm_celerity_c,Запал {tier:%s}
+loc_talent_broker_stimm_combat_a,Дике Полум’я {tier:%s}
+loc_talent_broker_stimm_combat_b,Лють {tier:%s}
+loc_talent_broker_stimm_combat_c,Валтопрін {tier:%s}
+loc_talent_broker_stimm_concentration_a,Калма {tier:%s}
+loc_talent_broker_stimm_concentration_b,Гайпекс {tier:%s}
+loc_talent_broker_stimm_concentration_c,Клай {tier:%s}
+loc_talent_broker_stimm_desc,"Використай {stimm_lab:%s}, щоб зварити свій {broker_stimm:%s} — персональний стим для використання в полі."
+loc_talent_broker_stimm_durability_a,Залп {tier:%s}
+loc_talent_broker_stimm_durability_b,Танк {tier:%s}
+loc_talent_broker_stimm_durability_c,Відновлення {tier:%s}
+loc_talent_broker_toughness_on_toxined_kill,Токсичне оновлення
+loc_talent_broker_toughness_on_toxined_kill_desc,"Відновити {toughness:%s} щитів, коли ворога, зараженого {toxin:%s}, убито атакою у ближньому бою."
+loc_talent_buff_cooldown_on_melee_kills,"Поки активний ефект, убивства у ближньому бою надають {cooldown:%s} відновлення перезарядки здібності на {duration:%s}с."
+loc_talent_buff_cooldown_on_ranged_kills,"Поки активний ефект, убивства дальньою зброєю надають {cooldown:%s} відновлення перезарядки здібності на {duration:%s}с."
+loc_talent_buff_toughness_on_stimm,Відновити {toughness_amount:%s} щитів.
+loc_talent_keyword_slowdown_immune,Надає невразливість до сповільнення.
+loc_talent_keyword_stun_immune,Надає невразливість до оглушення.
+loc_talent_stat_attack_speed,{attack_speed:%s} швидкості атаки.
+loc_talent_stat_combat_ability_cooldown_regen_modifier,{combat_ability_cooldown_regen_modifier:%s} відновлення перезарядки бойової здібності.
+loc_talent_stat_critical_strike_chance,{critical_strike_chance:%s} шансу критичного удару.
+loc_talent_stat_damage_taken_modifier,{damage_taken_modifier:%s} отриманої шкоди.
+loc_talent_stat_dodge_cooldown_reset_modifier,{dodge_cooldown_reset_modifier:%s} швидкості відновлення ухиляння.
+loc_talent_stat_dodge_distance_modifier,{dodge_distance_modifier:%s} дистанції ухиляння.
+loc_talent_stat_dodge_speed_multiplier,{dodge_speed_multiplier:%s} швидкості ухиляння.
+loc_talent_stat_finesse_modifier_bonus,{finesse_modifier_bonus:%s} вправності.
+loc_talent_stat_movement_speed,{movement_speed:%s} швидкості руху.
+loc_talent_stat_power_level,{power_level:%s} сили.
+loc_talent_stat_recoil_modifier,{recoil_modifier:%s} віддачі.
+loc_talent_stat_reload_speed,{reload_speed:%s} швидкості перезаряджання.
+loc_talent_stat_rending_multiplier,{rending_multiplier:%s} пробиття.
+loc_talent_stat_stamina_cost_multiplier,{stamina_cost_multiplier:%s} вартості витривалості.
+loc_talent_stat_toughness_regen_rate_modifier,{toughness_regen_rate_modifier:%s} відновлення щитів.
+loc_talent_stat_wield_speed,{wield_speed:%s} швидкості зміни зброї.
+loc_talent_toxin_damage_boost,Потужний токсин
+loc_talent_toxin_damage_boost_desc,{power:%s} сили токсину.
+loc_term_glossary_adrenaline,Адреналін
+loc_term_glossary_adrenaline_frenzy,Адреналіновий шал
+loc_term_glossary_broker_toxin,Хімтоксин
+loc_term_glossary_chemical_dependency,Залежність
+loc_term_glossary_dlc,DLC
+loc_tg_weapon_special_shivs,Кинути ніж!
+loc_weapon_keyword_heavy_windup,Заряджені Удари
+loc_weapon_keyword_heavy_windup_mouseover,Підвищена сила при заряджених важких атаках.
+loc_weapon_special_action_throw,Кидок
+loc_weapon_special_objective_broker,Убивати ворогів токсином
+loc_weapon_special_weapon_powerup_dual_stubpistols_p1,Хитрун
+loc_broker_male_b__intro_a_01,"Мені байдуже, кого вбивати, аби платили. Шляхтичі, Покидьки Вулику, правоохоронці… усі йшли до мене, бо я найкращий. Бо їм був потрібен мертвяк без зайвих питань. Так це й працює. Талант сяє найяскравіше в темряві."
+loc_broker_female_a__intro_a_01,"Тертіум розвалювався ще до вторгнення. «Добра» шляхта не зважає, що стається з податковим бидлом живущим нижче шпилю… а погана просто псує людям життя, бо може. Так, сер, Тертіум завжди був гнилизною. Але ми бʼємося не за Атому, якою вона була. Ми бʼємося за те, якою вона може стати."
+loc_broker_female_b__intro_a_01,"Мені байдуже, кого вбивати, аби платили. Шляхтичі, Покидьки Вулику, правоохоронці… усі йшли до мене, бо я найкращий. Бо їм був потрібен мертвяк без зайвих питань. Так це й працює. Талант сяє найяскравіше в темряві."
+loc_broker_male_a__intro_a_01,"Тертіум розвалювався ще до вторгнення. «Добра» шляхта не зважає, що стається з податковим бидлом живущим нижче шпилю… а погана просто псує людям життя, бо може. Так, сер, Тертіум завжди був гнилизною. Але ми бʼємося не за Атому, якою вона була. Ми бʼємося за те, якою вона може стати."
+loc_broker_female_c__intro_a_01,"Знаєте, яка тут справжня проблема? Не єретики. А те, що кожен із вас, високоносих дихальників ротом, так захмелів власним смородом, що геть забув, що важливо. Гадаю, час усе перетрусити. Справді розпочати веселощі. Оооо, буде ВЕСЕЛО!"
+loc_broker_male_c__intro_a_01,"Знаєте, яка тут справжня проблема? Не єретики. А те, що кожен із вас, високоносих дихальників ротом, так захмелів власним смородом, що геть забув, що важливо. Гадаю, час усе перетрусити. Справді розпочати веселощі. Оооо, буде ВЕСЕЛО!"
+loc_achievement_broker_anarchist_keystone_a_description,Утримуватися на повних стаках «Хімозної залежності» протягом {target} с.
+loc_achievement_broker_anarchist_keystone_a_name,Обколотий
+loc_achievement_broker_deal_damage_in_punk_rage_description,"Завдавати {target} шкоди, поки активна «Лютівня!»."
+loc_achievement_broker_deal_damage_in_punk_rage_name,Вулична Лють Вулика
+loc_achievement_broker_deploy_stimm_field_description,Використати «Постачання Стимів» {target} разів.
+loc_achievement_broker_deploy_stimm_field_name,Вуличний лікар
+loc_achievement_broker_enemies_affected_by_chem_bomb_name,Подавись
+loc_achievement_broker_enemies_hit_by_flash_grenade_name,Сліпучий!
+loc_achievement_broker_enemies_killed_by_missile_launcher_name,Бабахо-носець
+loc_achievement_broker_enemies_killed_with_focus_mode_description,"Вбити {target} ворогів, поки активний «Шибайголова»."
+loc_achievement_broker_enemies_killed_with_focus_mode_name,Найманець
+loc_achievement_broker_gunslinger_keystone_a_description,Отримати {target} стаків «Мітки стерв’ятника».
+loc_achievement_broker_gunslinger_keystone_a_name,Око хижака
+loc_achievement_broker_ruffian_keystone_a_description,Задіяти «Адреналіновий шал» {target} разів.
+loc_achievement_broker_ruffian_keystone_a_name,Який кайф!
+loc_achievement_group_broker_2_description,Завершити такі Покути як Покидьок Вулику.
+loc_achievement_missions_broker_2_objective_2_description,"Граючи за Покидька Вулику, завершити Місію кожного типу на рівні Загрози «Злоба» чи вище."
+loc_achievement_missions_broker_2_objective_2_name,Тямущий оператор (2)
+loc_character_title_unlocks,Ефект вибору
+loc_circumstance_saints_core_default_description,"Шукати спокою в Святилищах Святої Меселіни, та остерігатися заражених, що тягнуться до цих святих реліквій."
+loc_circumstance_saints_core_default_title,Спокута
+loc_inventory_mark_locked,Потребує рівня майстерності {mastery_level}
+loc_mastery_reward_mark_tooltip,"Альтернативна версія цієї зброї, яку можна застосувати до будь-якої зброї цього типу в Інвентарі."
+loc_no_mans_land_completion_easy_description,Завершити такі кампанійні місії «Шлях до Нічиїх Земель» на будь-якій Загрозі.
+loc_personality_effect_description,"Особистість твого Оперативника впливає на те, як персонаж реагує на інших та на події."
+loc_saints_condition,Молитися в Благословенних Святилищах і шукати святі реліквії.
+loc_saints_description,"Вкрадені пайки були отруєні, і тепер житлові блоки кишать зараженими. Спокутуй свої вчинки біля вівтарів Святої Меселіни Величі."
+loc_saints_name,День Спокути
+loc_stats_special_action_throw_poison_dual_shivs_p1_desc,"Швидко кидає заточку, вкриту Хім-Токсином, по дузі.
+
+Кількість киданих заточок обмежена, і вони відновлюються за вбивство ворогів-Еліт, Спеціалістів або Потвор у ближньому бою, або за будь-яке вбивство ворога ударом у спину в ближньому бою."
+loc_talent_broker_ability_stimm_field_desc,"Встановлює переобладнаний Медикрат на підлогу, підсилюючи гравця та союзників. Оперативники, що вдихають газ із ящика, із часом виліковують до {total_corruption_heal:%s} Погані та стають нечутливими до неї.
+
+Крім того, якщо споряджений Стимм, {stimm_field:%s} скопіює його вміст і розпорошить у повітрі, надаючи його ефекти всім союзникам поблизу.
+
+Базова Перезарядка: {cooldown:%s}с."
+loc_weapon_special_mode_switch_grip_crowbar_desc,"Змінює хватку на зброї між первинним і вторинним режимами, змінюючи набір рухів."
+loc_stimm_lab_onboarding_desc_points,"Об'єм зростає на {volume} кожні п’ять рівнів і може витрачатися на Рецепти Стиммів.
+
+Що більше Об'єму витрачено, то більшою стає Перезарядка Стимма під час місій.
+
+Інтервал становить від {min_duration}s до {max_duration}s залежно від загальної кількості використаного об'єму."
+loc_stimm_lab_onboarding_desc_tree,"Розблоковує різні ефекти для особисто звареного Стимма.
+Деякі рецепти коштують більше Об'єму, ніж інші"
+loc_stimm_lab_recipe,Компонент Стимма
+loc_talent_broker_ability_stimm_field_desc_3,"Розгортає переобладнаний Меді-Пак на землі, підсилюючи гравця та союзників протягом {duration:%s}с. Оперативники, що вдихають газ із Паку, з часом виліковують до {total_corruption_heal:%s} Погані та стають нечутливими до неї.
+
+Крім того, якщо споряджений Стимм, {stimm_field:%s} скопіює його вміст і розпорошить у повітрі, надаючи його ефекти всім союзникам поблизу.
+
+Базова Перезарядка: {cooldown:%s}с."
+loc_talent_broker_ability_stimm_field_sub_1,Швидкодіючі стимми
+loc_talent_broker_ability_stimm_field_sub_1_desc,"Тривалість {stimm_field:%s} скорочується до {duration:%s}с, але його ефекти зберігаються після виходу з зони дії протягом {linger_duration:%s}с."
+loc_stimm_lab_onboarding_desc_points_2,"За кожні {level} рівнів Довіри показник Об’єму Стимма зростає на {amount}. Об’єм визначає, які саме та скільки Компонентів може вмістити Стимм.
+
+Використання Об’єму також підвищує В’язкість і Перезарядку Стимма. Отже, потужніший Стимм матиме вищу ціну.
+
+Використовуй доступний Об’єм з розумом."
+loc_stimm_lab_onboarding_desc_tree_2,"Як хитрий Покидьок Вулику, ти отримуєш доступ до Лабораторії Стиммів. Використовуй її, щоб зварити Фірмовий від Картелю — персоналізований Стимм для застосування в польових умовах.
+
+Компоненти можна додавати до Стимма, обираючи їх у дереві, надаючи йому різні ефекти та бонуси під час використання."
+loc_stimm_lab_reset_desc,Скидання всіх компонентів стимму очистить усі вузли та знову заповнить Об’єм до максимальної місткості.
+loc_stimm_lab_reset_title,Скинути всі компоненти стимму
+loc_broker_stimms_condition,Виконати завдання Підтримки Картелю.
+loc_broker_stimms_description,"Картелі відчинили свої сховища, надавши доступ до покращених стимів, щоб допомогти стримати зростаючу загрозу."
+loc_broker_stimms_description_lore,"Стривожені станом міста та прагнучи показати себе, хіміки Картелів зварили особливу партію покращених стимів і розповсюдили їх по всьому Тертіуму. Вони особливо ефективні проти недавньої хвилі атак Чумного Газу, яку Культ «Покарання» випустив на населення. Вирушайте і випробуйте їх у ділі."
+loc_broker_stimms_event_context,"Усі доступні стими (включно зі Спеціальним Картельним) були покращені хіміками Картелів, підвищуючи їхню ефективність і водночас надаючи Стаки опору Чумному Газу."
+loc_broker_stimms_name,Підтримка Картелю
+loc_talent_broker_ability_punk_rage_desc_3,"Повністю відновити всі щити та увійти в стан {talent_name:%s} на {duration:%s} с. Протягом цього часу отримати {power:%s} сили у ближньому бою, {attack_speed:%s} швидкості атаки у ближньому бою та {damage_taken:%s} зменшення отриманої шкоди, а також імунітет до оглушення та Пригнічення.
+
+Удари у ближньому бою подовжують тривалість на {rage_duration_extend:%s} с. Після {rage_duration_max:%s} с подовження тривалості від кожного удару зменшується.
+
+Базова перезарядка: {cooldown:%s} с."
+loc_talent_broker_ability_punk_rage_sub_1_desc_02,"Важкі атаки, поки активний {punk_rage:%s}, мають {rending:%s} Розриву."
+loc_talent_broker_ability_punk_rage_sub_3_desc_02,"Коли {punk_rage:%s} активується, випустити потужний крик, що збиває ворогів з рівноваги та збільшує інтервал між їхніми атаками на {attack_speed_reduction:%s} протягом {duration:%s} с.
+
+Коли {punk_rage:%s} завершується, знову вигукнути."
+loc_talent_broker_blitz_tox_grenade_desc_02,"Кинута граната, що містить {toxin:%s}. Після вибуху контейнер розкривається, розливаючи вміст по зоні протягом {duration:%s} с.
+
+Вороги, що стоять у токсичній речовині, з часом отримують до {max_stacks:%s} стаків {toxin:%s} та вибухають після смерті.
+
+Максимум гранат: {max_charges:%s}."
+loc_talent_broker_passive_blitz_inflicts_toxin_desc_02,"Вибухи Бліцу заражають ворогів стаками {toxin:%s}у по-різному, залежно від обраного Бліцу.
+
+{blinder:%s}: {blinder_stacks:%s} стаків.
+{missile_launcher:%s}: {missile_launcher_stacks:%s} стаків.
+{chem_grenade:%s}: {chem_grenade_stacks:%s} стаків."
+loc_talent_broker_passive_damage_vs_heavy_staggered_desc_02,"{power_light:%s} сили проти ворогів, що перебувають у стані збивання з рівноваги. Вороги із середнім та важким збиванням з рівноваги натомість отримують {power_heavy:%s}."
+loc_talent_broker_passive_improved_dodges_desc_02,"Швидкість ухилення збільшується на {dodge_distance_modifier:%s}, а час, протягом якого ви вважаєтеся таким, що ухиляється, — на {dodge_linger_time:%s} с."
+loc_talent_buff_toughness_during_stimm,Відновлювати {toughness_amount:%s} щитів кожні {interval:%s} секунд.
+loc_talent_stat_damage_taken_multiplier,{damage_taken_multiplier:%s} зменшення отриманої Шкоди.
+loc_talent_stat_toughness_replenish_modifier,{toughness_replenish_modifier:%s} відновлення щитів.
+loc_talent_broker_passive_crit_grants_damage,Спрямоване Руйнування
+loc_talent_broker_passive_crit_grants_damage_desc,"Кожні {critical_chance:%s} вашої поточної ймовірності критичного удару надають {melee_damage:%s} шкоди у ближньому бою.
+
+Накопичується {max_stacks:%s} разів (аж {max_melee_damage:%s} до шкоди у ближньому бою)."
+loc_talent_broker_passive_knockback_on_taking_melee_damage,Вуличний Кріпиш
+loc_talent_broker_passive_knockback_on_taking_melee_damage_desc_02,"Під час отримання шкоди у ближньому бою, покидьок відштовхує всіх найближчих ворогів навколо та отримує {movement_speed:%s} до швидкості руху на {duration:%s}с. Активовується раз на {cooldown:%s}с."
+loc_talent_broker_passive_longer_dodges,Вуличний Щур
+loc_talent_broker_passive_longer_dodges_desc,{dodge_distance_modifier:%s} до дистанції ухилення.
+loc_talent_broker_passive_low_ammo_regen_desc_04,"Вбивство Елітного або Спеціалістського Ворога у ближньому бою, коли запас боєприпасів менший за {ammo_threshold:%s}, поповнює його до {ammo_threshold:%s}."
+loc_talent_broker_passive_replenish_toughness_while_toxined_enemies_in_proximity_desc,"Відновлення {toughness_amount:%s} щитів кожні {interval:%s}с за кожного ворога, зараженого {toxin:%s}, у радіусі {range:%s}м, максимум {max_enemies} ворогів."
+loc_talent_broker_passive_toxin_infected_enemies_take_increased_damage,Смертоносний штам
+loc_talent_broker_passive_toxin_infected_enemies_take_increased_damage_desc,"При зараженні ворога {toxin:%s}, збільшується шкода, яку він отримує з усіх джерел, на {damage_taken:%s} на {duration:%s}с."
+loc_talent_broker_passive_toxin_spread_on_kills,Сплешова Шкода
+loc_talent_broker_passive_toxin_spread_on_kills_desc_02,Вбивство Елітного ворога у ближньому бою заражає до {max_targets:%s} ворогів у радіусі {radius:%s}м від цілі {toxin_stacks:%s} Стаками {toxin:%s}.

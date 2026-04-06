@@ -1,0 +1,201 @@
+﻿key,value
+loc_talent_adamant_crit_chance_on_kill,Ревна відданість
+loc_talent_adamant_crit_chance_on_kill_desc,{crit_chance:%s} шанус критичного удару при вбивстві. {max_stacks:%s} накопичень. триває {duration:%s}с.
+loc_talent_adamant_crits_rend,Покарання ударом
+loc_talent_adamant_damage_vs_suppressed,"Тремтіть, виродки!"
+loc_talent_adamant_damage_vs_suppressed_desc,{damage_vs_suppressed:%s} шкоди проти пригнічених ворогів.
+loc_talent_adamant_shout_ability_description,"Збиває з рівноваги всіх ворогів у радіусі {range:%s}м, а також ворогів попереду в межах {far_range:%s}м. базова перезарядка: {cooldown:%s}с."
+loc_ability_adamant_charge_blocking_desc,"Зробити ривок уперед і завдати удару, спричиняючи сильне збивання з рівноваги ворогам попереду, та отримання {damage:%s} шкоди, {stagger:%s} сили імпульсу на {duration:%s}с. під час удару гравець вважається таким, що блокує.
+
+Базове перезарядження: {cooldown:%s}с."
+loc_achievement_adamant_kill_cluster_with_grenade_desc,"Вбити {cluster:%s} ворогів одним використанням «Гранати Арбітра», {amount:%s} разів."
+loc_achievement_adamant_time_enemies_electrocuted_by_shockmine_description,Оглушити ворогів за допомогою електрошокової міни на загальну тривалість {target} секунд.
+loc_talent_ability_area_buff_drone,Нунцій-аквіла
+loc_talent_ability_area_buff_drone_ct_description,"Розгорнути Нунціо-Аквілу у вказаному напрямку.
+
+Союзники в радіусі {range:%s}м відновлюють {toughness:%s} щитів щосекунди, отримують {suppression:%s} до пригнічення та {impact:%s} сили імпульсу, а також мають імунітет до сповільнення, імунітет до пригнічення, {recoil:%s} віддачу та імунітет до переривання під час альтернативного вогню.
+
+Вороги в радіусі {range:%s}м отримують на {damage_taken:%s} більше шкоди.
+
+Триває {duration:%s}с. перезарядження: {cooldown:%s}с.
+
+Це посилена версія {nuncio_name:%s}."
+loc_talent_adamant_bullet_rain,Ордер на знищення
+loc_talent_adamant_bullet_rain_ability,Указ правосуддя
+loc_talent_adamant_bullet_rain_fire_rate,Нести правосуддя
+loc_talent_adamant_bullet_rain_tdr,Упертий
+loc_talent_adamant_bullet_rain_toughness,Кінцевий вердикт
+loc_talent_adamant_charge_ability_name,Прорвати лінію
+loc_talent_adamant_charge_cooldown_alt_description,"Відновити {cooldown:%s}с перезарядження здібності за кожне влучення, збільшується до {cooldown_elite:%s} при влученні по елітному, спеціальному або монструозному ворогу. Максимум відновлення: {max_cooldown:%s}."
+loc_talent_adamant_charge_cooldown_name,Спрямована жорстокість
+loc_talent_adamant_charge_longer_distance,Зіткнення
+loc_talent_adamant_charge_longer_distance_desc,Дистанція {charge_ability_name:%s} збільшена до {distance:%s}м.
+loc_talent_adamant_charge_toughness_alt_description,"Відновити {toughness:%s} щитів і {stamina:%s} витривалості за кожного влученого елітного, спеціального або монструозного ворога — до {toughness_max:%s} щитів і {stamina_max:%s} витривалості."
+loc_talent_adamant_charge_toughness_name,Похвала через засудження
+loc_talent_adamant_cleave_after_push,Відкинути їх назад
+loc_talent_adamant_cleave_after_push_desc,Відштовхування надає {cleave:%s} розсічення на {duration:%s}с.
+loc_talent_adamant_clip_size,Пріоритетне наділення
+loc_talent_adamant_clip_size_alt_desc,{clip_size:%s} розмір магазину.
+loc_talent_adamant_companion_coherency,Частина загону
+loc_talent_adamant_companion_coherency_alt_desc,"Кібер-мастиф зараховується до єдності підрозділу. крім того, гравець і союзники в єдності отримують додаткове {tdr:%s} зменшення шкоди по щитах."
+loc_talent_adamant_crits_rend_alt_desc,{rending:%s} до проникності при критичному ударі на відстані.
+loc_talent_adamant_cyber_mastiff_elites,Вивільнена жорстокість
+loc_talent_adamant_cyber_mastiff_elites_desc,Кібер-мастиф пріоритезує елітних і спеціальних ворогів та завдає їм {damage:%s} шкоди.
+loc_talent_adamant_cyber_mastiff_ranged,Фас!
+loc_talent_adamant_cyber_mastiff_ranged_desc,Кібер-мастиф пріоритезує дистанційних ворогів і завдає їм {damage:%s} шкоди.
+loc_talent_adamant_damage_reduction_after_elite_kill,Вражаюча сила
+loc_talent_adamant_damage_reduction_after_elite_kill_desc,Отримати {damage_reduction:%s} опору шкоді на {duration:%s}с після вбивства елітного чи спеціального ворога.
+loc_talent_adamant_damage_vs_staggered_aura,Придушення непокори
+loc_talent_adamant_damage_vs_staggered_aura_alt_desc,Гравець і союзники в єдності завдають додаткову {damage_vs_stagger:%s} шкоду по збиваних з рівноваги ворогах.
+loc_talent_adamant_disable_companion,Самотній вовк
+loc_talent_adamant_disable_companion_replenish_desc,"Гравець більше не супроводжується кібер-мастифом. натомість отримує {tdr:%s} зменшення шкоди по щитах, {attack_speed:%s} швидкості атаки, {damage:%s} шкоди, {charges:%s} збільшення зарядів бліц здібностей, а також відновлює один заряд здібності бліц кожні {time:%s}с."
+loc_talent_adamant_dodge_grants_damage,Арбітес ревелатум
+loc_talent_adamant_dodge_grants_damage_desc,{damage:%s} шкоди протягом {duration:%s}с після успішного ухилення.
+loc_talent_adamant_dodge_improvement,Вулична кмітливість
+loc_talent_adamant_dodge_improvement_desc,Отримати {dodge:%s} додаткових ухилень і {dodge_duration:%s} тривалість ухилення.
+loc_talent_adamant_dog_applies_brittleness,Зазубрена пащека
+loc_talent_adamant_dog_applies_brittleness_desc,Кібер-мастиф накладає {stacks:%s} стаків крихкості при атаці.
+loc_talent_adamant_dog_damage_after_ability,Наказ на вбивство
+loc_talent_adamant_dog_damage_after_ability_desc,{companion_damage:%s} нанесення шкоди для кібер-мастифа протягом {duration:%s}с після використання бойової здібності.
+loc_talent_adamant_drone_buff_talent,Натхненне проголошення
+loc_talent_adamant_drone_buff_talent_alt_desc,"Союзники які потрапили під дію також отримують {tdr:%s} зменшення шкоди по щитах, {revive_speed:%s} швидкість відродження та {attack_speed:%s} швидкості атаки."
+loc_talent_adamant_drone_debuff_talent,Страх правосуддя
+loc_talent_adamant_drone_debuff_talent_desc,"Інтервал між атаками уражених ворогів у ближньому бою  збільшується на {attack_speed_reduction:%s}, а їхні атаки у ближньому бою завдають на {damage_reduction:%s} менше шкоди."
+loc_talent_adamant_elite_special_kills_reload_speed,Розсудлива ефективність
+loc_talent_adamant_elite_special_kills_reload_speed_desc,{reload_speed:%s} до швидкості перезарядження при наступній перезарядці після вбивства елітного або спеціального ворога.
+loc_talent_adamant_exterminator,Наказ на страту
+loc_talent_adamant_exterminator_ability_cooldown,Визначник цілі
+loc_talent_adamant_exterminator_stack_during_activation,Без поблажок
+loc_talent_adamant_exterminator_toughness,Ефективний убивця
+loc_talent_adamant_first_melee_hit_increased_damage,Кулак імператора
+loc_talent_adamant_first_melee_hit_increased_damage_desc,"{damage:%s} до шкоди у ближньому бою та {impact:%s} сили імпульсу проти першого ворога, ураженого кожною атакою."
+loc_talent_adamant_forceful_ability_damage,Під час активації бойової здібності надається {strength:%s} сила за кожен стак. триває {duration:%s}с. Усі стаки знімаються.
+loc_talent_adamant_forceful_melee,Судова міць
+loc_talent_adamant_forceful_melee_alt_desc,На максимальній кількості стаків і протягом {duration:%s}с після цього надаєтсья {attack_speed:%s} швидкості атаки та {cleave:%s} розсічення.
+loc_talent_adamant_forceful_ranged,Цілі отримано
+loc_talent_adamant_forceful_refresh_on_ability,Арбітес пильний
+loc_talent_adamant_forceful_stagger_on_low_high_desc,Збиває з рівноваги навколишніх ворогів при досягненні {low_stacks:%s} або {high_stacks:%s} стаків. Перезарядження: {cooldown:%s}с (окремо для кожного випадку).
+loc_talent_adamant_forceful_stamina_block_and_push_alt,Непохитна воля
+loc_talent_adamant_forceful_stun_immune_and_block_all_linger_desc,"На максимальній кількості стаків і протягом {duration:%s}с після цього гравець отримує імунітет до оглушення, а досконалі блоки здатні зупиняти будь-які атаки."
+loc_talent_adamant_forceful_toughness_regen,Воля закону
+loc_talent_adamant_forceful_toughness_regen_per_stack_desc,Відновити {toughness:%s} щитів щосекунди за кожен стак.
+loc_talent_adamant_heavy_attacks_increase_damage,Тягар закону
+loc_talent_adamant_heavy_attacks_increase_damage_desc,Отримати {damage:%s} до шкоди на {duration:%s}с після важкої атаки у ближньому бою.
+loc_talent_adamant_hitting_multiple_gives_tdr,Протоколи пригнічення
+loc_talent_adamant_hitting_multiple_gives_tdr_desc,Влучення по {hits:%s} або кількох ворогах однією атакою надає {tdr:%s} зменшення шкоди по щитах на {duration:%s}с.
+loc_talent_adamant_increased_damage_to_high_health,Пріоритет цілей
+loc_talent_adamant_increased_damage_to_high_health_desc,{damage:%s} до шкоди ворогам із рівнем здоров’я вище {health:%s}.
+loc_talent_adamant_melee_attacks_on_staggered_rend,Знищення
+loc_talent_adamant_melee_attacks_on_staggered_rend_alt_desc,{rending:%s} до пробиття у ближньому бою проти збитих з рівноваги ворогів.
+loc_talent_adamant_monster_hunter,Мисливець на монстрів
+loc_talent_adamant_monster_hunter_desc,{damage:%s} до шкоди по оґринах і потворам.
+loc_talent_adamant_movement_speed_on_block,Марш
+loc_talent_adamant_movement_speed_on_block_alt_desc,{movement_speed:%s} швидкості руху після влучання на відстані. триває {duration:%s}с.
+loc_talent_adamant_pinning_dog_bonus_moving_towards,Не відставай
+loc_talent_adamant_pinning_dog_bonus_moving_towards_description,Отримати {movement_speed:%s} швидкості руху та {damage:%s} до шкоди на {time:%s}с після стрибка.
+loc_talent_adamant_pinning_dog_elite_damage,Вибір цілі
+loc_talent_adamant_pinning_dog_elite_damage_description,"Вбивство елітного чи спеціального ворога, на якого мастіф виконав стрибок надає {damage:%s} до шкоди проти елітних і спеціальних ворогів. Тривалість {time:%s}с."
+loc_talent_adamant_pinning_dog_kills_buff_allies,Собача мораль
+loc_talent_adamant_pinning_dog_kills_buff_allies_description,"Вбивство цілей, на яких мастіф виконав стрибок, надає союзникам у єдності {tdr:%s} до зменшення шкоди по щитах та відновлює {toughness:%s} щитів протягом {duration:%s}с."
+loc_talent_adamant_plasteel_plates,Пласталеві пластини
+loc_talent_adamant_plasteel_plates_desc,{toughness:%s} щитів.
+loc_talent_adamant_ranged_damage_on_melee_stagger,Останнє попередження
+loc_talent_adamant_ranged_damage_on_melee_stagger_desc,{damage:%s} до шкоди на відстані після збивання ворогів у ближньому бою. Тривалість {duration:%s}с.
+loc_talent_adamant_rebreather,Респіратор
+loc_talent_adamant_rebreather_desc,{corruption:%s} до опору погані та {toxic_reduction:%s} зменшення отриманої шкоди від токсичного газу.
+loc_talent_adamant_reload_speed_aura_desc,Гравець і союзники в єдності отримують додатково {reload_speed:%s} швидкості перезарядки.
+loc_talent_adamant_sprinting_sliding,Швидкий рух
+loc_talent_adamant_sprinting_sliding_description,Ковзання збільшує швидкість бігу на {speed:%s} протягом {duration:%s}с. Вбивства відновлюють {stamina:%s} витривалості. Перезарядка: {cd:%s}с.
+loc_talent_adamant_stacking_damage,Виправдані дії
+loc_talent_adamant_stacking_damage_desc,{damage:%s} до шкоди після успішної атаки. Максимум {stacks:%s} стаків. Тривалість {duration:%s}с.
+loc_talent_adamant_stacking_weakspot_strength,Сканування вини в душах
+loc_talent_adamant_stacking_weakspot_strength_duration_desc,Влучання у слабке місце надає {strength:%s} сили проти слабких місць Максимум {max_stacks:%s} стаків. Тривалість {duration:%s}с.
+loc_talent_adamant_staggered_enemies_deal_less_damage,Сила пригнічення
+loc_talent_adamant_staggered_enemies_deal_less_damage_desc,Збивання ворога з рівноваги змушує його отримувати {damage:%s} шкоди. Триває {duration:%s}с.
+loc_talent_adamant_staggered_enemies_take_more_damage,Вразити слабких
+loc_talent_adamant_staggers_reduce_damage_taken,Тримай лінію
+loc_talent_adamant_staggers_reduce_damage_taken_alt_desc,Збивання ворога з рівноваги надає {normal_stacks:%s} стак(ів) {damage_taken_multiplier:%s} до опору шкоді при наступному отриманому ударі у ближньому бою. Накопичується до {max_stacks:%s} разів і триває {duration:%s}с. Збивання ворогів не людського розміру надає {ogryn_stacks:%s} стак(ів).
+loc_talent_adamant_stance_ability_alt_description,"Вхід у {talent_name:%s} на {duration:%s}с, під час якого гравець має {movement_speed:%s} швидкість руху, {damage_taken:%s} зменшення отримання шкоди, {movement_reduction:%s} зменшення штрафу до швидкості руху від дій, але не може бігти. Під час активації повністю відновлюються щити.
+
+Базове перезарядження: {cooldown:%s}с."
+loc_talent_adamant_stance_ability_name,Постава карателя
+loc_talent_adamant_stance_bloodlust,Кровожерність
+loc_talent_adamant_stance_bloodlust_desc,Під час {stance_name:%s} кібер-мастиф завдає {damage:%s} шкоди.
+loc_talent_adamant_stance_elite_kills_stack_damage,Грамота страти
+loc_talent_adamant_stance_elite_kills_stack_damage_desc,Під час {stance_name:%s} кожне вбивство елітного або спеціального ворога надає додаткові {damage:%s} до шкоди. Триває {duration:%s}с. Максимум {stacks:%s} стаків.
+loc_talent_adamant_stance_ranged_kills_transfer_ammo,Благословене озброєння
+loc_talent_adamant_stance_ranged_kills_transfer_ammo_desc,Під час {stance_name:%s} вбивства на відстані відновлюють до {ammo:%s} набоїв у магазині з резерву. Перезарядка: {cooldown:%s}с.
+loc_talent_adamant_terminus_warrant_improved_alt_desc,"Перемикання на зброю ближнього бою з {talent_max_stacks:%s} стаками правосуддя ближнього бою надає {melee_rending:%s} пробиття у ближньому бою, доки стаки не вичерпаються або не буде виконано перемикання на дистанційну зброю.
+Перемикання на дистанційну зброю з {talent_max_stacks:%s} стаками правосуддя дистанційного бою надає {crit_damage:%s} шкоду критичного удару та {weakspot_damage:%s} шкоду по слабких місцях, доки стаки не вичерпаються або не буде виконано перемикання на зброю ближнього бою."
+loc_talent_adamant_terminus_warrant_ranged_alt_desc,"Поки гравець має стаки правосуддя дистанційного бою, він отримує {reload_speed:%s} швидкості перезарядки."
+loc_talent_adamant_terminus_warrant_shortened_alt_desc,"Атаки на відстані надають стаки правосуддя ближнього бою за кожного влученого ворога (макс. {max_stacks:%s}). Удари в ближньому бою знімають {melee_remove:%s} стак(ів).
+Поки гравець має стаки Правосуддя ближнього бою, він наносить {melee_damage:%s} шкоди у ближньому бою та {melee_impact:%s} сили імпульсу у ближньому бою.
+Удари в ближньому бою надають стаки правосуддя дистанційного бою (макс. {max_stacks:%s}). Атаки на відстані знімають {ranged_remove:%s} стак(ів) за кожного влученого ворога.
+Поки гравець має стаки правосуддя дистанційного бою, він наносить {ranged_damage:%s} шкоди на відстані, {ranged_cleave:%s} розсічення на відстані та {suppression:%s} пригнічення."
+loc_talent_adamant_terminus_warrant_toughness_desc,"Поки гравець має стаки правосуддя ближнього бою, він додатково отримує {melee_toughness:%s} відновлення щитів у ближньому бою, а союзники в єдності відновлюють {toughness:%s} від будь-якої кількості щитів, яку гравець відновлює."
+loc_talent_adamant_terminus_warrant_upgrade_alt_desc,"Перемикання на зброю ближнього бою, маючи {swap_stacks:%s} або більше стаків правосуддя ближнього бою, надає {melee_attack_speed:%s} швидкості атаки у ближньому бою, доки стаки не вичерпаються або не буде виконано перемикання на дистанційну зброю.
+Перемикання на дистанційну зброю, маючи {swap_stacks:%s} або більше стаків правосуддя дистанційного бою, надає {fire_rate:%s} швидкості стрільби, доки стаки не вичерпаються або не буде виконано перемикання на зброю ближнього бою."
+loc_talent_adamant_wield_speed_aura,Нещадна ефективність
+loc_talent_ability_adamant_grenade_improved,Граната Арбітра
+loc_talent_ability_adamant_grenade_improved_description,"Кидає гранату арбітів, що вибухає після короткої затримки. {charges:%s} макс. гранат.
+Це покращена версія {talent_name:%s}."
+loc_talent_ability_detonate,Дистанційний підрив
+loc_talent_ability_detonate_description,Спричинити вибух у місці перебування кібер-мастифа. Збиває з рівноваги та вражає струмом навколишніх ворогів. {max_charges:%s} зарядів. {cooldown:%s}с перезарядка.
+loc_talent_ability_shock_mine,Вольтова шок-міна
+loc_talent_ability_shock_mine_description,"Кинути {talent_name:%s}, що активується при падінні.
+
+Протягом {duration:%s}с вражає струмом усіх ворогів у радіусі {range:%s}м."
+loc_talent_adamant_ammo_belt,Пояс з набоями
+loc_talent_adamant_ammo_belt_desc,{ammo:%s} ємність набоїв.
+loc_talent_adamant_armor,Броня арбітра
+loc_talent_adamant_armor_desc,{toughness:%s} щитів.
+loc_talent_adamant_close_kills_restore_toughness,Впритул
+loc_talent_adamant_close_kills_restore_toughness_desc,Відновити {toughness:%s} щитів за близьке вбивство.
+loc_talent_adamant_damage_after_reloading,Спустошливий вогонь
+loc_talent_adamant_damage_after_reloading_desc,{damage:%s} шкоди в дальньому бою протягом {duration:%s}с після перезарядки.
+loc_talent_adamant_dog_attacks_electrocute,Вольтове підсилення щелеп
+loc_talent_adamant_dog_attacks_electrocute_desc,"Кібер-мастиф вражає струмом ворогів, яких атакує, протягом {duration:%s}с."
+loc_talent_adamant_dog_pounces_bleed_nearby,Лезощелепне підсилення
+loc_talent_adamant_dog_pounces_bleed_nearby_desc,"Вороги, відкинуті стрибком кібер-мастифа, отримують {stacks:%s} рівн(ів) кровотечі."
+loc_talent_adamant_elite_special_kills_offensive_boost,Не втечеш
+loc_talent_adamant_elite_special_kills_offensive_boost_alt_desc,{damage:%s} до шкоди та {movement_speed:%s} до швидкості руху за вбивство еліти чи спеціаліста. Тривалість {duration:%s}с.
+loc_talent_adamant_elite_special_kills_replenish_toughness,Ціль знешкоджено
+loc_talent_adamant_elite_special_kills_replenish_toughness_desc,Миттєво відновити {instant_toughness:%s} щитів і ще {toughness:%s} щитів протягом {duration:%s}с за вбивство еліти чи спеціаліста.
+loc_talent_adamant_melee_weakspot_hits_count_as_stagger,Оглушливість
+loc_talent_adamant_melee_weakspot_hits_count_as_stagger_desc,Удари по слабкому місцю в ближньому бою збивають ворога з рівноваги на {duration:%s}с.
+loc_talent_adamant_multiple_hits_attack_speed,Молот суду
+loc_talent_adamant_multiple_hits_attack_speed_desc,{melee_attack_speed:%s} до швидкості атаки у ближньому бою протягом {duration:%s}с після влучання по {hits:%s} чи більше ворогах однією атакою.
+loc_talent_adamant_perfect_block_damage_boost,Сила відплати
+loc_talent_adamant_perfect_block_damage_boost_alt_desc,Надає {block_cost:%s} зменшення витрат блоку. За ідеальний блок надається {damage:%s} шкоди та {attack_speed:%s} швидкості атаки протягом {duration:%s}с.
+loc_talent_adamant_shield_plates,Щитові панелі
+loc_talent_adamant_shield_plates_alt_desc,Під час блоку відновлює {toughness:%s} щитів протягом {duration:%s}с. За ідеальний блок миттєво відновлює {perfect_toughness:%s} щитів. {cooldown:%s}с перезарядка.
+loc_talent_adamant_staggers_replenish_toughness,Сила волі
+loc_talent_adamant_staggers_replenish_toughness_melee_desc,Відновити {toughness:%s} щитів під час збивання з рівноваги атакою у ближньому бою.
+loc_talent_adamant_stamina_regens_toughness,Залишитись на ногах
+loc_talent_adamant_stamina_spent_replenish_toughness_desc,Витрачання {stamina:%s} витривалості відновлює {toughness:%s} щитів протягом {duration:%s}с.
+loc_talent_adamant_toughness_regen_near_companion,Людина і Пес
+loc_talent_adamant_toughness_regen_near_companion_desc,"Відновити {toughness:%s} щитів щосекунди, перебуваючи в межах {range:%s}м від кібер-мастифа."
+loc_talent_adamant_forceful,Непохитна сила
+loc_talent_adamant_forceful_base_alt_desc,"Збивання з рівноваги та заблоковані атаки надають рів(н)і {forceful_name:%s}. Тривалість {duration:%s}с, накладається до {stacks:%s} разів. Кожен рівень надає {impact:%s} сили імпульсу та {dr:%s} спротиву шкоді. Один рівень знімається при отриманні шкоди."
+loc_talent_adamant_limit_dmg_taken_from_hits,Залізна воля
+loc_talent_adamant_limit_dmg_taken_from_hits_desc,Обмежує максимальну шкоду по здоров’ю від однієї атаки до {limit:%s}.
+loc_talent_adamant_disable_companion_replenish_split_desc,"Гравець більше не супроводжуєшся кібермастифом. Отримується {tdr:%s} зменшення шкоди по щитах, {attack_speed:%s} швидкості атаки, {damage:%s} шкоди та {charges:%s} додаткових зарядів для бліц-умінь.
+Гравець також поповнює заряди свого бліц-уміння залежно від обраного. {grenade_blitz_name:%s} кожні {grenade_time:%s} с {shock_mine_name:%s} кожні {time_shock_mine:%s} с."
+loc_talent_ability_area_buff_drone_improved_description,"Розгорнути Нунціо-Аквілу в обраному напрямку.
+
+Союзники в радіусі {range:%s}м щосекунди відновлюють {toughness:%s} щитів, отримують {suppression:%s} до пригнічення, {impact:%s} до імпульсу, {recoil:%s} до віддачі, а також стають невразливими до оглушення, сповільнення та пригнічення.
+
+Вороги в радіусі {range:%s}м отримують {damage_taken:%s} додаткової шкоди.
+
+Тривалість {duration:%s}с. Перезарядка: {cooldown:%s}с.
+
+Це покращена версія {nuncio_name:%s}."
+loc_talent_adamant_stance_ability_power_description,"Увійти в стан {talent_name:%s} на {duration:%s}с, під час якого ви отримуєте {movement_speed:%s} швидкості руху, {damage_taken:%s} зменшення отримуваної шкоди, {strength:%s} сили, {movement_reduction:%s} зменшення штрафу до швидкості руху від дій, але не можете бігти спринтом. Під час активації ви повністю відновлюєте щити.
+
+Базова перезарядка: {cooldown:%s}с."
+loc_talent_adamant_stance_ranged_kills_transfer_ammo_no_cd_desc,"Під час {stance_name:%s} вбивства з дистанційної зброї відновлюють до {ammo:%s} загального запасу набоїв у магазині з резерву, з округленням у більшу сторону. Може спрацьовувати один раз за атаку."
+loc_talent_adamant_terminus_warrant_cdr_desc,Витрачання {stacks:%s} стаків надає {cdr:%s} відновлення перезарядки здібності протягом {duration:%s}с.
+loc_talent_adamant_terminus_warrant_new_desc,"Дистанційні атаки надають стаки ближньої справедливості за кожного влученого ворога (макс. {max_stacks:%s}); влучання у слабке місце надають {weakspot_stacks:%s} стаків. Використання основної зброї витрачає ці стаки ближньої справедливості, надаючи {melee_strength:%s} сили у ближньому бою та {tdr:%s} зменшення шкоди по шитах на {melee_duration:%s}с.
+
+Удари у ближньому бою надають стаки дистанційної справедливості (макс. {max_stacks:%s}). Використання вторинної зброї витрачає ці стаки дистанційної справедливості, надаючи {ranged_strength:%s} сили дистанційної зброї, {ranged_cleave:%s} до пробиття дистанційною зброєю та {suppression:%s} до пригнічення на {ranged_duration:%s}с."
+loc_talent_adamant_terminus_warrant_support_desc,За кожен витрачений стак відновлюється {toughness:%s} щитів вам і союзникам у Єдності.

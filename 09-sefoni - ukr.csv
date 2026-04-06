@@ -1,0 +1,1109 @@
+﻿key,value
+loc_horde_tactical_overlay_build_lesser,Малі індульгенції
+loc_horde_tactical_overlay_build_major,Великі індульгенції
+loc_horde_tactical_overlay_category_sefoni,Індульгенції Сефоні
+loc_hordes_buff_bonus_crit_chance_on_ammo_description,Перший {ammo:%s} набой після перезарядки має {crit_chance:%s} шансу критичного пострілу.
+loc_hordes_buff_bonus_crit_chance_on_ammo_title,Щасливий постріл
+loc_hordes_buff_combat_ability_cooldown_on_kills_description,Убивство ворогів у ближньому бою зменшує час відновлення  здібності на {cooldown:%s}.
+loc_hordes_buff_combat_ability_cooldown_on_kills_title,Кровожерність
+loc_hordes_buff_crit_chance_per_missing_stamina_bar_description,Отримання {crit_chance:%s} шансу критичного удару за кожний відсутній блок витривалості.
+loc_hordes_buff_crit_chance_per_missing_stamina_bar_title,Відчайдушний удар
+loc_hordes_buff_critical_melee_hit_infinite_cleave_description,Критичні атаки у ближньому бою мають безкінечне розсічення.
+loc_hordes_buff_critical_melee_hit_infinite_cleave_title,Рубай і січи
+loc_hordes_buff_damage_reduction_on_critical_hit_description,Отримання {damage_reduction:%s} зниження шкоди після критичної атаки на {time:%s} с.
+loc_hordes_buff_damage_reduction_on_critical_hit_title,Критична броня
+loc_hordes_buff_explode_enemies_on_critical_kill_description,"Вороги, убиті критичною атакою, вибухають кривавим місевом."
+loc_hordes_buff_explode_enemies_on_critical_kill_title,Шал
+loc_hordes_buff_explode_enemies_on_ranged_kill_description,"Вороги, убиті дальнім боєм, мають {chance:%s} шансу вибухнути."
+loc_hordes_buff_explode_enemies_on_ranged_kill_title,Вибуховий імпульс
+loc_hordes_buff_extra_ability_charge_description,Збільшує максимальну кількість стаків здібності на {stack}.
+loc_hordes_buff_extra_ability_charge_title,Посилення
+loc_hordes_buff_increase_melee_crit_chance_on_ranged_critical_kill_description,"Під час убивства ворога критичним пострілом, отримується {crit_chance:%s} шансу критичного удару у ближньому бою на {time:%s} с."
+loc_hordes_buff_increase_melee_crit_chance_on_ranged_critical_kill_title,Наступний удар
+loc_hordes_buff_melee_critical_damage_increase_description,Збільшує шкоду від критичних атак у ближньому бою на {crit_damage:%s}.
+loc_hordes_buff_melee_critical_damage_increase_title,Дикість
+loc_hordes_buff_rending_on_ranged_critical_hit_description,Збільшує пробивання броні на {rending:%s} після критичного пострілу на {time:%s} с.
+loc_hordes_buff_rending_on_ranged_critical_hit_title,Бронебійність
+loc_horde_mission_type,Тренування в Псайханіумі
+loc_horde_psykanium_horde_button,Смертельне випробування
+loc_horde_title,Смертельне випробування
+loc_horde_title_desc,Увійди до театрів жаху Сефоні та прийми її виклики.
+loc_hordes_buff_aoe_shock_closest_enemy_on_interval_description,Кожні {time} с завдавати розряд по площі випадковому ворогу в межах {range} м від гравця.
+loc_hordes_buff_aoe_shock_closest_enemy_on_interval_title,Витік Сили
+loc_hordes_buff_big_weakspot_damage_increase_description,Шкода по вразливих місцях збільшена на {damage:%s}.
+loc_hordes_buff_big_weakspot_damage_increase_title,Смертельний постріл
+loc_hordes_buff_bleeding_and_burning_on_melee_hit_description,Атаки у ближньому бою накладають на ворогів {bleed:%s} стаки кровотечі та {burn:%s} стаки горіння.
+loc_hordes_buff_bleeding_and_burning_on_melee_hit_title,Кров і вогонь
+loc_hordes_buff_critical_damage_from_consecutive_critical_hits_description,"Отримуй {crit_damage:%s} шкоди критичного удару після кожної критичної атаки. До {max_crit_damage:%s}. Усі стаки зникають, якщо мине {time:%s} с до наступного критичного удару.  "
+loc_hordes_buff_critical_damage_from_consecutive_critical_hits_title,Машина для вбивств  
+loc_hordes_buff_grenade_explosion_applies_elemental_weakness_description,"Вибух гранати послаблює ворожі цілі, роблячи їх на {damage:%s} більш уразливими до шоку, кровотечі та вогню протягом {time} с.  "
+loc_hordes_buff_grenade_explosion_applies_elemental_weakness_title,Ослаблюючий вибух  
+loc_hordes_buff_grenade_explosion_applies_rending_debuff_description,Вибух гранати накладає на цілі {brittle:%s} крихкість.  
+loc_hordes_buff_grenade_explosion_applies_rending_debuff_title,Розривний вибух  
+loc_hordes_buff_grenade_explosion_kill_replenish_grenades_description,Імовірність {chance:%s} відновити 3 гранати під час убивства ворога вибухом гранати.  
+loc_hordes_buff_grenade_explosion_kill_replenish_grenades_title,Збирач  
+loc_hordes_buff_grenade_heals_on_explosion_description,Вибух гранати також відновлює {health:%s} одиниць здоров’я тобі або союзникам у радіусі вибуху.  
+loc_hordes_buff_grenade_heals_on_explosion_title,Вибухове підбадьорення  
+loc_hordes_buff_grenade_replenishment_over_time_description,Відновлює 1 гранату кожні {time} секунд.  
+loc_hordes_buff_grenade_replenishment_over_time_title,"Дивись, що найшов  "
+loc_hordes_buff_improved_weapon_reload_on_melee_kill_description,{reload_speed:%s} до швидкості перезарядження після вбивства у ближньому бою. Накопичується до {time} разів.  
+loc_hordes_buff_improved_weapon_reload_on_melee_kill_title,Досвідчений оператор  
+loc_hordes_buff_increased_damage_after_reload_description,{range:%s} до шкоди на відстані протягом {time} с після перезарядження.  
+loc_hordes_buff_increased_damage_after_reload_title,Заряджай і розряджай  
+loc_hordes_buff_melee_damage_missing_ammo_in_clip_description,За кожен використаний набій у магазині отримуй {dammage:%s} шкоди у ближньому бою.  
+loc_hordes_buff_melee_damage_missing_ammo_in_clip_title,Немає часу на перезарядку 
+loc_hordes_buff_ogryn_increase_penetration_during_stance_description,Дальні атаки отримують {penetration:%s} пробиття під час критичних ударів у період дії Вогню Впритул.  
+loc_hordes_buff_ogryn_increase_penetration_during_stance_title,Стій і стріляй  
+loc_hordes_buff_other_slot_damage_increase_on_kill_description,{dammage:%s} шкоди у ближньому бою за вбивство на відстані або {range:%s} шкоди на відстані за вбивство у ближньому бою. Триває 5 с.  
+loc_hordes_buff_other_slot_damage_increase_on_kill_title,Універсальний убивця  
+loc_hordes_buff_ranged_attacks_hit_mass_penetration_increased_description,{increase_hitmass:%s} до максимальної маси пробиття для дальніх атак.  
+loc_hordes_buff_ranged_attacks_hit_mass_penetration_increased_title,Набої «Зупинач»  
+loc_hordes_buff_shock_on_blocking_melee_attack_description,Успішне блокування у ближньому бою завдає цілі шок на {time} секунд.  
+loc_hordes_buff_shock_on_blocking_melee_attack_title,Гальванічний бар'єр 
+loc_hordes_buff_shock_on_ranged_hit_description,{shock_chance:%s} імовірності вразити ворога шоком під час дальньої атаки.  
+loc_hordes_buff_shock_on_ranged_hit_title,Гальванічна передача  
+loc_hordes_buff_spawn_dome_shield_on_grenade_explosion_description,"Коли твоя граната вибухає, вона також створює варп-щит у зоні вибуху.  "
+loc_hordes_buff_spawn_dome_shield_on_grenade_explosion_title,Варпові гранати
+loc_hordes_buff_staggering_pulse_description,Кожні {time} секунд створюється імпульс збивання з рівноваги навколо тебе.  
+loc_hordes_buff_staggering_pulse_title,Тримайся подалі!  
+loc_hordes_buff_toughness_on_ranged_kill_description,Відновлює {thoughness_regen:%s} щитів після вбивства на відстані.  
+loc_hordes_buff_toughness_on_ranged_kill_title,Справжня витримка  
+loc_hordes_buff_toughness_regen_in_melee_range_description,"Відновлює {thoughness_regen:%s} щитів за секунду, якщо перебувати в межах {range} метрів від щонайменше {ennemies_count} ворогів.  "
+loc_hordes_buff_toughness_regen_in_melee_range_title,У самій гущі  
+loc_hordes_buff_weakspot_ranged_hit_gives_infinite_ammo_description,Послідовні {headshot} постріли в голову з дальньої зброї дарують {time} с нескінченних набоїв. Перезарядження здібності: {cooldown} с.  
+loc_hordes_buff_weakspot_ranged_hit_gives_infinite_ammo_title,Прицільний залп  
+loc_hordes_family_cowboy_description,Цей архетип індульгенції спеціалізується на боях на коротких дистанціях та рукопашній. Швидка зміна зброї та пришвидшене перезарядження.  
+loc_hordes_family_cowboy_title,Торговець смертю  
+loc_hordes_family_electric_description,Цей архетип індульгенції спеціалізується на завданні електричної шкоди або підвищенні бойової ефективності під час стрільби по електрифікованих цілях.  
+loc_hordes_family_electric_title,Шоковий  
+loc_hordes_family_elementalist_description,"Цей архетип індульгенції поєднує елементи пірокінетичної та вольтової дисциплін. Він накладає на ворогів ефекти електрики та вогню, а також підвищує бойову ефективність під час бою з ворогами, що горять або перебувають під шоком.  "
+loc_hordes_family_elementalist_title,Громовержець  
+loc_location_horde_island_rooftops_full,Театр Покарання  
+loc_location_horde_island_rooftops_short,Театр Покарання  
+loc_location_horde_island_void_full,Театр Смирення  
+loc_location_horde_island_void_short,Театр Смирення  
+loc_npc_short_name_past_commissar_a,Дарінда Дюкейн  
+loc_npc_short_name_past_comms_operator_c,Вокс-оператор  
+loc_npc_short_name_past_matriarch_a,Маґалі Брамс  
+loc_npc_short_name_past_mourningstar_officer_a,Діонас Кларрін  
+loc_npc_short_name_past_sergeant_a,Він Морроу  
+loc_objective_psykhanium_deploy_servo_skull_desc,Твоя бойова ефективність буде відстежуватись
+loc_objective_psykhanium_deploy_servo_skull_header,Запустити серво-череп  
+loc_objective_psykhanium_luggable_01_desc,Вставити батарею до ядра театру  
+loc_objective_psykhanium_luggable_01_header,Вставити батарею  
+loc_objective_psykhanium_pickup_servo_skull_01_desc,Закріпити серво-череп для повернення до ядра театру.  
+loc_objective_psykhanium_pickup_servo_skull_01_header,Забрати серво-череп  
+loc_objective_psykhanium_place_servo_skull_desc,Повернути серво-череп до ядра театру для проведення діагностичного розповсюдження.  
+loc_objective_psykhanium_place_servo_skull_header,Розмістити серво-череп  
+loc_objective_psykhanium_rooftops_zone_01_desc,Утримувати призначену зону (потрібні всі гравці)  
+loc_objective_psykhanium_rooftops_zone_01_header,Захопити й утримати  
+loc_objective_psykhanium_scanning_01_desc,Просканувати предмети  
+loc_objective_psykhanium_scanning_01_header,Відсканувати зону  
+loc_objective_psykhanium_void_zone_01_desc,Утримувати призначену зону (потрібні всі гравці)  
+loc_objective_psykhanium_void_zone_01_header,Захопити й утримати  
+loc_horde_mission_breifing_desc ,"Пережити 12 хвиль ворогів, виконуючи завдання. Сефоні даруватиме благословення під час симуляції."
+loc_horde_mission_breifing_zone,Марення Сефоні
+loc_hub_locked_by_progression,"Просунутись далі, щоб розблокувати"
+loc_horde_buff_big_pick,Оберати велику Індульгенцію
+loc_horde_buff_big_time,Хвиля {wave} починається за:
+loc_horde_buff_family_pick,Обрати Шлях
+loc_horde_buff_family_time,Час на вибір:
+loc_horde_buff_small_granted,Індульгенцію даровано
+loc_horde_wave_completed,Хвиля {wave} завершена
+loc_horde_wave_start,Хвиля {wave}
+loc_hordes_buff_boosted_melee_attack_on_cooldown_description,"Отримати посилений удар у ближньому бою, що підвищує шкоду та Імпульс на {enhanced:%s}. Перезарядження: {time:%s} с."
+loc_hordes_buff_boosted_melee_attack_on_cooldown_title,Дивись що можу!
+loc_hordes_buff_burning_on_melee_hit_taken_description,"Накладає {stacks} стаків горіння на ворогів, які б’ють персонажа у ближньому бою."
+loc_hordes_buff_burning_on_melee_hit_taken_title,Палаюча відплата
+loc_hordes_buff_burning_on_ranged_hit_description,Дальнобійні атаки накладають {stacks} стаків горіння.
+loc_hordes_buff_burning_on_ranged_hit_title,Злива вогню
+loc_hordes_buff_combat_ability_cooldown_on_damage_taken_description,{damage_to_cooldown:%s} отриманої шкоди перетворюється на скорочення перезарядки вміння.
+loc_hordes_buff_combat_ability_cooldown_on_damage_taken_title,Не звертай уваги
+loc_hordes_buff_damage_vs_electrocuted_description,Завдає {damage:%s} шкоди електрифікованим цілям.
+loc_hordes_buff_damage_vs_electrocuted_title,Шокоий провідник
+loc_hordes_buff_extra_toughness_near_burning_shocked_enemies_description,За кожного палаючого або ураженого струмом ворога поблизу надається {extra_thoughness} додаткових щитів.
+loc_hordes_buff_extra_toughness_near_burning_shocked_enemies_title,Підживлена спритність
+loc_hordes_buff_psyker_shock_on_touch_force_field_description,"Телекінетичний купол б’є струмом ворогів, що проходять крізь нього."
+loc_hordes_buff_psyker_shock_on_touch_force_field_title,Варпова буря
+loc_hordes_buff_reflect_melee_damage_description,Відбиває отриману в ближньому бою шкоду й приголомшує ціль.
+loc_hordes_buff_reflect_melee_damage_title,Відплата
+loc_hordes_buff_shock_pulse_on_toughness_broken_description,Під час розбиття щитів уражаються струмом усі вороги у радіусі {range} м.
+loc_hordes_buff_shock_pulse_on_toughness_broken_title,Запобіжник
+loc_hordes_family_critical_description,Цей архетип Індульгенції зосереджується на критичних ударах і підвищеній критичній шкоді.
+loc_hordes_family_critical_title,Обранець Імператора
+loc_npc_short_name_past_legion_captain_a,Капітан Беліс Вандерак
+loc_npc_short_name_past_legion_trooper_a,Солдат Варкан
+loc_npc_short_name_past_world_eater_a,Гаранак Червоний
+loc_npc_short_name_past_young_sergeant_a,Він Морроу
+loc_objective_psykhanium_decode_01_desc,Зламати систему
+loc_objective_psykhanium_decode_01_header,Розгорнути Збирача даних
+loc_objective_psykhanium_demo_01_desc,Винищити демонічне зараження
+loc_objective_psykhanium_demo_01_header,Знищити осквернителя
+loc_objective_psykhanium_pull_power_lever_01_desc,Включити живлення
+loc_objective_psykhanium_pull_power_lever_01_header,Потягнути важіль
+loc_objective_psykhanium_start_waves_desc,Розпочати випробування
+loc_objective_psykhanium_start_waves_header,Смертельні випробування
+loc_tactical_overlay_build_lesser,Мала індульгенція
+loc_tactical_overlay_build_major,Велика індульгенція
+loc_hordes_buff_no_ammo_consumption_on_crits_description,Набої не витрачаються при критичних влучаннях.
+loc_interactable_start_horde,Випробування
+loc_hordes_buff_no_ammo_consumption_on_crits_title,Цей задарма
+loc_training_ground_psyker_a__horde_safe_zone_a_19,"Не Сефоні бажає, щоб ви програли у цьому випробуванні. Вона робить лише те, що їй наказано."
+loc_training_ground_psyker_a__horde_safe_zone_b_03,Сефоні сьогодні щедра. Архетип індульгенції чекає на вас.
+loc_training_ground_psyker_a__horde_wave_start_01_a_01,Готуйтеся. Навіть тепер ворог наближається.
+loc_training_ground_psyker_a__hub_horde_briefing_a_05,"Якщо ви тут, це тому, що одного дня ви можете стати оперативниками смерті."
+loc_training_ground_psyker_a__hub_horde_briefing_b_05,Це навчання випробує вас. Загартує вас. Зробить вас сильними.
+loc_training_ground_psyker_a__hub_horde_briefing_c_05,Оперативники Смерті — рідкісні. Загадкові. Як і Сефоні. Але ви ще можете стати одним із них.
+loc_hordes_buff_burning_on_melee_hit_description,"Накладає {stacks} стаки вогню на ворогів, яких ти вражаєш у ближньому бою."
+loc_hordes_family_fire_description,Цей архетип індульгенції спеціалізується на завданні вогняної шкоди або на підвищенні бойової ефективності під час стрільби по палаючих цілях.
+loc_hordes_buff_burning_on_melee_hit_title,Пали єретика
+loc_hordes_buff_broker_tox_grenade_applies_self_propagating_toxin_description,"Вибух хімічної гранати накладає токсин, що триває {time:%s}с і поширюється на найближчих ворогів після смерті цілі."
+loc_hordes_buff_toughness_on_fire_damage_dealt_description,Отримання {thoughness_regen:%s} щитів за завдану шкоду вогнем.
+loc_hordes_buff_damage_taken_by_flamers_and_grenadier_reduced_title,Негорючий
+loc_hordes_family_fire_title,Пірокінетик
+loc_hordes_buff_broker_tox_grenade_applies_self_propagating_toxin_title,Вірусна хімія
+loc_npc_short_name_past_explicator_a,Орґустіна Зола
+loc_npc_short_name_past_interrogator_a,Івен Раннік
+loc_hordes_buff_damage_taken_by_flamers_and_grenadier_reduced_description,{damage_reduce:%s} зменшення шкоди від Паліїв і Бомберів.
+loc_hordes_buff_toughness_on_fire_damage_dealt_title,Палаюча рішучість
+loc_mourningstar_soldier_male_b__oval_hub_soldier_exchange_02_b_01,В деяких людей ніякої дисципліни. Завжди зрештою приносять клопіт.
+loc_past_explicator_a__story_echo_zola_09_c_01,Якщо я побачу тебе знову — я тебе вб’ю.
+loc_past_interrogator_a__story_echo_zola_09_a_01,"Ось. На випадок, якщо ти передумаєш працювати на нас."
+loc_past_interrogator_a__story_echo_zola_09_b_01,Вокс-частоти і позивні. Ми чекатимемо. Хтось завжди слухає.
+loc_past_interrogator_a__story_echo_zola_09_d_01,"Тобі справді варто стримувати той гострий язик. Він не робить тобі жодної послуги. Au revoir, Орґустіно."
+loc_training_ground_psyker_a__horde_defend_area_a_09,"Сефоні захоплюється тими, хто вміє захищатися. Покажи їй, на що ви здатні."
+loc_training_ground_psyker_a__horde_new_wave_start_post_upgrade_a_06,Сефоні виявила до тебе поблажливість. Не підведи її!
+loc_training_ground_psyker_a__horde_safe_zone_a_17,Смертельні випробування ось-ось розпочнуться. Ви готові?
+loc_training_ground_psyker_a__horde_safe_zone_b_02,"Ви, бідолахи, потребуватимете допомоги, щоб вижити. Оберіть архетип індульгенції."
+loc_training_ground_psyker_a__horde_wave_interstitial_voices_a_06,Усі ці голоси — у твоїй голові… і в моїй також.
+loc_training_ground_psyker_a__horde_wave_start_01_a_05,"Твій ворог збирається, породжений лихими снами і приглушеними психозами."
+loc_training_ground_psyker_a__hub_horde_briefing_a_02,"Ось ти де. Сефоні на мить втратила тебе з поля зору. Її розум такий великий, а ти такий малий."
+loc_training_ground_psyker_a__hub_horde_briefing_b_02,Сефоні тепер безпосередньо втручається у твоє навчання. Не розчаруй її.
+loc_training_ground_psyker_a__hub_horde_briefing_c_02,Бийся без страху! Без почуттів! Без жодної надії на виживання!
+loc_hordes_buff_auto_clip_fill_while_melee_description,"Під час використання зброї у ближньому бою, магазин зброї дальнього бою самостійно поповнюється на {ammo:%s} за секунду."
+loc_hordes_buff_auto_clip_fill_while_melee_title,"Поклявся б, що було порожньо"
+loc_hordes_buff_burning_damage_per_burning_enemy_description,"Шкода від вогню зростає залежно від кількості палаючих цілей, аж до {damage:%s}."
+loc_hordes_buff_burning_damage_per_burning_enemy_title,Гори! Гори! Гори!
+loc_hordes_buff_coherency_burning_duration_description,"Стаки вогню залишаються на цілі на {linger:%s} довше,поки ти перебуваєш у Єдності."
+loc_hordes_buff_coherency_burning_duration_title,Роздмухай полум’я
+loc_hordes_buff_coherency_damage_vs_burning_description,Союзники отримують {damage:%s} підвищення до шкоди проти палаючих цілей.
+loc_hordes_buff_coherency_damage_vs_burning_title,Поглинаюче полум’я
+loc_hordes_buff_damage_vs_burning_description,Завдає {damage:%s} шкоди по палаючих цілях.
+loc_hordes_buff_damage_vs_burning_title,Пірокласт
+loc_hordes_buff_dodge_incapacitating_attacks_description,Автоматично нейтралізує знерухомлювальну атаку Ловця і Чумного Пса. Перезарядка {cooldown:%s}с
+loc_hordes_buff_dodge_incapacitating_attacks_title,Нестримний
+loc_hordes_buff_dodge_staggers_description,Ухиляння збиває з рівноваги найближчих ворогів не-спеціалістів людського розміру.
+loc_hordes_buff_dodge_staggers_title,Лякаючий
+loc_hordes_buff_fire_pulse_description,"Імпульс виходить від гравця кожні 20 секунд. Він накладає {stacks} стаки вогню на всі цілі, яких торкається хвиля."
+loc_hordes_buff_fire_pulse_title,Віра випалює єресь
+loc_hordes_buff_no_movement_speed_reduction_on_aim_and_windup_description,Прибирає штраф до швидкості руху під час прицілювання і заряджання атак у ближньому бою.
+loc_hordes_buff_no_movement_speed_reduction_on_aim_and_windup_title,Швидкий і смертоносний
+loc_hordes_buff_random_damage_immunity_description,"Отримуєш {chance:%s} імовірності ухилення, ігноруючи будь-яку отриману шкоду у разі спрацювання."
+loc_hordes_buff_random_damage_immunity_title,Проворний
+loc_hordes_buff_replenish_stamina_from_ranged_or_melee_hit_description,Відновлює {stamina:%s} витривалості від завданої шкоди у ближньому бою і на дальній дистанції.
+loc_hordes_buff_replenish_stamina_from_ranged_or_melee_hit_title,Піднесений жорстокістю
+loc_hordes_buff_sprinting_staggers_description,Біг збиває з рівноваги найближчих ворогів не-спеціалістів людського розміру.
+loc_hordes_buff_sprinting_staggers_title,Каменетрощитель
+loc_hordes_family_unkillable_description,"Цей архетип індульгенції спеціалізується на виживанні, зосередженому на ближньому бою у тісному контакті."
+loc_hordes_family_unkillable_title,Колос
+loc_hordes_family_unstoppable_description,Цей архетип індульгенції зменшує обмеження руху.
+loc_hordes_family_unstoppable_title,Голіаф
+loc_location_horde_island_lobby_full,Марення Сефоні
+loc_location_horde_island_lobby_short,Марення Сефоні
+loc_location_horde_island_machine_full,Театр праведності
+loc_location_horde_island_machine_short,Театр праведності
+loc_mcguffin_pickup,Смертельна Реліквія
+loc_npc_short_name_past_armourer_a,Гаррі «Брант» Чернік
+loc_npc_short_name_past_auspex_operator_a,Меллікант Верріс
+loc_objective_psykhanium_enter_portal_desc,Поверніться до Сефоні зі смертельною реліквією
+loc_objective_psykhanium_enter_portal_header,Марення Сефоні
+loc_objective_psykhanium_luggable_machine_desc,Вставте батареї
+loc_objective_psykhanium_luggable_machine_header,Вставте батареї
+loc_objective_psykhanium_machine_activate_power_desc,Активуйте живлення
+loc_objective_psykhanium_machine_activate_power_header,Активуйте живлення
+loc_objective_psykhanium_machine_destroy_ice_desc,"Знищіть лід, що вкриває зубчасті колеса."
+loc_objective_psykhanium_machine_destroy_ice_header,Знищіть лід
+loc_objective_psykhanium_machine_open_gate_desc,Відкрийте браму
+loc_objective_psykhanium_machine_open_gate_header,Відкрийте браму
+loc_objective_psykhanium_pickup_memory_desc,Заберіть смертельну реліквію
+loc_objective_psykhanium_pickup_memory_header,Смертельна Реліквія
+loc_objective_psykhanium_place_macguffin_desc,"Сприймай це як данину або, можливо, як доказ ваших героїчних діянь."
+loc_objective_psykhanium_place_macguffin_header,Вставте смертельну реліквію
+loc_objective_psykhanium_pull_lever_desc,Активуйте ядро Театру
+loc_objective_psykhanium_pull_lever_header,Заберіть смертельну реліквію
+loc_training_ground_psyker_a__cmd_wandering_skull_02,Не дозволяй своєму сервочерепу віддалятися надто далеко.
+loc_training_ground_psyker_a__horde_break_ice_a_05,Лід має бути зламаний. ТИ мусиш його зламати.
+loc_training_ground_psyker_a__horde_claim_prize_a_08,Сефоні все одно не хотіла Смертельну реліквію.
+loc_training_ground_psyker_a__horde_mission_complete_a_02,"Сефоні думала, що з тобою покінчено. Сефоні рада була помилитись."
+loc_training_ground_psyker_a__horde_new_wave_start_post_upgrade_a_07,За цим буде цікаво спостерігати.
+loc_training_ground_psyker_a__horde_new_wave_start_post_upgrade_a_08,Сефоні дарувала тобі інструменти для перемоги. Возхвали прекрасну Сефоні.
+loc_training_ground_psyker_a__horde_objective_reminder_a_01,"У тебе є завдання, яке слід виконати. Не відволікайся."
+loc_training_ground_psyker_a__horde_objective_reminder_a_02,Вороги прибуватимуть і далі. Краще заверши своє завдання.
+loc_training_ground_psyker_a__horde_objective_reminder_a_03,Заверши своє завдання. Не зважай на ворогів.
+loc_training_ground_psyker_a__horde_objective_reminder_a_04,"Ти не зможеш убити всіх, не сьогодні! Заверши своє завдання!"
+loc_training_ground_psyker_a__horde_open_gate_a_02,Відкрий браму! Ти ЗАХОЧЕШ відкрити браму.
+loc_training_ground_psyker_a__horde_restore_power_a_01,Хочеш більше набоїв? Тоді віднови живлення.
+loc_training_ground_psyker_a__horde_restore_power_a_05,"Сефоні бажає, щоб ти відновив живлення, і винагородить тебе чудовими набоями!"
+loc_training_ground_psyker_a__horde_resupply_a_07,Сефоні приносить тобі набої. Сефоні тебе любить.
+loc_training_ground_psyker_a__horde_resupply_a_09,Ось! Набої! Використовуй їх. Витрачай без розбору! [сміх]
+loc_training_ground_psyker_a__horde_resupply_a_10,У Сефоні є для тебе дещо… але ти маєш це знайти…
+loc_training_ground_psyker_a__horde_safe_zone_a_03,Ти можеш почути якісь голоси. Не хвилюйся: вони належать виключно твоїй уяві.
+loc_training_ground_psyker_a__horde_safe_zone_a_05,"Ах. Ще один день, ще одна група сміливих добровольців для наставництва Сефоні."
+loc_training_ground_psyker_a__horde_safe_zone_b_01,Сефоні трохи приправить події. Час обрати архетип індульгенції.
+loc_training_ground_psyker_a__horde_safe_zone_b_10,Не бійся. Сефоні допоможе тобі в майбутньому випробуванні. Нікому більше не потрібно про це знати.
+loc_training_ground_psyker_a__horde_wave_interstitial_voices_a_01,Не слухай голосів. Вони не для тебе.
+loc_training_ground_psyker_a__horde_wave_interstitial_voices_a_10,"Ти нічого не чув. Сефоні чула, як ти нічого не чув."
+loc_training_ground_psyker_a__horde_wave_start_02_a_07,Це здається надто легким? Сефоні надішле ще ляльок.
+loc_training_ground_psyker_a__horde_wave_start_02_a_09,"Ви виглядаєте задоволеними собою. Ми ж не можемо цього допустити, правда?"
+loc_training_ground_psyker_a__horde_wave_upgrade_prompt_a_07,"У Сефоні є для тебе дещо, адже ти був таким цікавим."
+loc_training_ground_psyker_a__info_servo_skull_deployed_04,Сервочереп рухається. [сміх]
+loc_past_armourer_a__story_echo_morrow_23_b_01,Так.
+loc_past_armourer_a__story_echo_morrow_23_d_01,Ні.
+loc_past_armourer_a__story_echo_morrow_23_f_01,Брант.
+loc_past_armourer_a__story_echo_morrow_23_h_01,Можливо.
+loc_past_armourer_a__story_echo_morrow_23_j_01,Більше жодних розмов.
+loc_past_auspex_operator_a__story_echo_morrow_21_a_01,Стазисна капсула на борту. Техножреці її оглядають.
+loc_past_auspex_operator_a__story_echo_morrow_21_c_01,"Брант знайшов планшет: Він Морроу, зі Сталевих легіонів Армагеддону."
+loc_past_auspex_operator_a__story_echo_morrow_21_e_01,Нічого що можна ідентифікувати. І точно нічого живого.
+loc_past_auspex_operator_a__story_echo_morrow_22_b_01,"Досі у стазисі. Те, що вдарило Вейварда, пошкодило стазисну капсулу. Там... можуть бути ушкодження. Втрата пам’яті — для початку."
+loc_past_interrogator_a__story_echo_morrow_21_b_01,"Ми вже знаємо, хто він такий?"
+loc_past_interrogator_a__story_echo_morrow_21_d_01,Розумію. Одна з вербувальних поїздок Дознавачки Ксаллії. Є якісь сліди її присутності на борту?
+loc_past_interrogator_a__story_echo_morrow_22_a_01,Як почувається наш гість?
+loc_past_interrogator_a__story_echo_morrow_22_c_01,"Прикро. Та якщо Ксаллія вважала цього Морроу вартим вербування, можливо, Ґрендил думає так само. Вони ж були друзями."
+loc_past_interrogator_a__story_echo_morrow_24_a_01,"Ага. Сержанте-майоре Морроу, я так розумію?"
+loc_past_interrogator_a__story_echo_morrow_24_c_01,"Так. Схоже, твоя пам’ять трохи сплутана... але в мене є знайомий, який допоможе з цим. І, можливо, заодно трохи підріже зайве."
+loc_past_interrogator_a__story_echo_morrow_24_e_01,Ти цього не пам’ятатимеш.
+loc_past_interrogator_a__story_echo_zola_35_a_01,"Тут надто тихо. Я очікував більше метушні, криків... можливо, навіть трохи вереску."
+loc_past_interrogator_a__story_echo_zola_35_c_01,"З мого досвіду, це завжди стається... рано чи пізно."
+loc_past_interrogator_a__story_echo_zola_36_a_01,Слідча Зола не відповідає по воксу.
+loc_past_interrogator_a__story_echo_zola_36_d_01,"О, справді? Яка ж вона... наполеглива."
+loc_past_interrogator_a__story_echo_zola_36_f_01,"Хе. Авжеж. Продовжуйте, сержанте-майоре. У нас війна,  яку треба виграти. Імператор оберігає."
+loc_past_sergeant_a__story_echo_morrow_23_a_01,"Ти ж великий хлопчик, так?"
+loc_past_sergeant_a__story_echo_morrow_23_c_01,"Щоправда, не надто балакучий."
+loc_past_sergeant_a__story_echo_morrow_23_e_01,У тебе є ім’я?
+loc_past_sergeant_a__story_echo_morrow_23_g_01,"Я що, в’язень, Бранте?"
+loc_past_sergeant_a__story_echo_morrow_23_i_01,Ага. Дякую за це.
+loc_past_sergeant_a__story_echo_morrow_23_k_01,[зітхання] Ти тут головний.
+loc_past_sergeant_a__story_echo_morrow_24_b_01,Так мені і казали. Усе трохи туманно.
+loc_past_sergeant_a__story_echo_morrow_24_d_01,"Перепрошую, що ти сказав?"
+loc_past_sergeant_a__story_echo_zola_35_b_01,"Маємо невелику затишшя, Дознавачу, та і все. Якщо це хоч трохи втішить, я очікую, що будь-якої миті тут почнеться справжнє пекло."
+loc_past_sergeant_a__story_echo_zola_36_b_01,"Ага, ну... вона, ймовірно, на поверхні планети."
+loc_past_sergeant_a__story_echo_zola_36_c_01,"Вона часто таке робить відтоді, як Вольфер утік із бастіону Танкред. Клялася і божилася, що має вашу повну підтримку."
+loc_past_sergeant_a__story_echo_zola_36_e_01,"Не можу сказати, сер."
+loc_past_sergeant_a__story_echo_zola_36_g_01,"Будьмо на це сподіватися, сер."
+loc_hordes_buff_windup_is_uninterruptible_description,Стати невразливим під час заряджання сильної атаки.
+loc_hordes_buff_toughness_on_melee_kills_description,Отримати додаткову {toughness:%s} витривалість від вбивств у ближньому бою.
+loc_hordes_buff_uninterruptible_more_damage_taken_description,Ви більше не можете бути збиті з ніг жодним джерелом.
+loc_npc_short_name_past_shipmistress_a,Емора Брамс
+loc_hordes_buff_increase_impact_on_push_attacks_description,Подвоює силу збивання з ніг від штовхань
+loc_hordes_buff_toughness_on_melee_kills_title,Знесилююче вбивство
+loc_hordes_buff_increase_impact_on_push_attacks_title,З дороги!
+loc_hordes_buff_improved_dodge_speed_and_distance_description,Ухилення стає на {fast%s} швидшим і має на {range:%s} більшу дальність.
+loc_hordes_buff_improved_dodge_speed_and_distance_title,"Злови мене, якщо зможеш"
+loc_hordes_buff_windup_is_uninterruptible_title,Заведений
+loc_hordes_buff_uninterruptible_more_damage_taken_title,Незламний
+loc_hordes_buff_shock_on_melee_hit_description,{shock_chance:%s} шанс шокувати ворога при ближньому бою на {time}с.
+loc_npc_short_name_past_alpha_a,Таємничий голос
+loc_hordes_buff_shock_on_melee_hit_title,Вольтова жорстокість
+loc_npc_short_name_past_magos_biologis_a,Магос Біологіс Харіб
+loc_hordes_buff_extra_grenade_throw_chance_description,{chance:%s} шансу кинути одразу 2 гранати .
+loc_hordes_buff_extra_grenade_throw_chance_title,Я щасливчик
+loc_past_tech_priest_a__story_echo_marshal_05_a_01,"Я розумію, що повинна обслуговувати бойове спорядження ваших арбітрів."
+loc_training_ground_psyker_a__cmd_hacking_place_device_06,Поставте свою черепа-павука. Самі знаєте куди...
+loc_training_ground_psyker_a__horde_break_ice_a_04,Поганий лід. Неприємний лід. Карайте його з усією силою!
+loc_training_ground_psyker_a__horde_restore_power_a_02,Сефоні надасть вам більше боєприпасів... якщо ви відновите енергопостачання.
+loc_training_ground_psyker_a__horde_wave_start_02_a_10,Сефоні вражена. А тепер Сефоні вб'є вас усіх.
+loc_hordes_buff_adamant_auto_detonate_description,"Активовується {talent_name:%s}, коли кібер-мастиф нападає на елітного / спеціаліста / монстра без витрачання заряду. {time:%s}с внутрішнього часу відновлення."
+loc_hordes_buff_adamant_auto_detonate_title,Радісний до тригеру
+loc_hordes_buff_adamant_grenade_multi_description,"Поповнює запас гранат, якщо {talent_name:%s} вбиває {amount:%s} або більше ворогів."
+loc_hordes_buff_adamant_grenade_multi_title,Бомбардування
+loc_hordes_buff_adamant_mine_explosion_description,"{talent_name:%s} вибухає, коли закінчується дія."
+loc_hordes_buff_adamant_mine_explosion_title,Післяшок
+loc_hordes_buff_adamant_random_bash_description,"{talent_name:%s} накладає випалення душі, горіння або кровотечу при влучанні. Для кожного ворога застосовується випадковий ефект."
+loc_hordes_buff_adamant_random_bash_title,Непередбачувані реакції
+loc_hordes_buff_grenade_duplication_on_explosion_description,"{chance:%s} шансу, що дублікат гранати вибухне, коли вибухне одна з ваших гранат."
+loc_hordes_buff_grenade_duplication_on_explosion_title,Гранати-близнюки
+loc_hordes_buff_movement_bonuses_on_toughness_broken_description,"Імунітет до оглушення, імунітет до уповільнення на {time:%s}с і відновлення {stamina:%s} витривалості, коли щити розбиті."
+loc_hordes_buff_movement_bonuses_on_toughness_broken_title,Справжня мужність
+loc_hordes_buff_uninterruptible_while_aiming_and_shooting_description,Непереривність під час прицілювання або стрільби.
+loc_hordes_buff_uninterruptible_while_aiming_and_shooting_title,Неухильна стрілянина
+loc_hordes_buff_weakspot_ranged_hit_always_stagger_description,Кожен постріл застосовує незначне збивання з ніг.
+loc_hordes_buff_weakspot_ranged_hit_always_stagger_title,Відкидач
+loc_npc_short_name_past_cartel_tough_a,Макко
+loc_npc_short_name_past_explicator_b,Гадріан Кейн
+loc_npc_short_name_past_interrogator_b,Меліс Залія
+loc_talent_adamant_crit_chance_on_kill,Ревна відданість
+loc_past_adamant_officer_a__story_echo_marshal_08_b_01,Переважно. Слідча Зола мене уникає.
+loc_past_adamant_officer_a__story_echo_marshal_08_d_01,"Побачимо, чи цього буде достатньо… наразі я задоволений."
+loc_past_adamant_officer_a__story_echo_marshal_08_f_01,"Так, безперечно."
+loc_past_armourer_a__story_echo_zola_16_b_01,Брант.
+loc_past_armourer_a__story_echo_zola_16_d_01,Що скажуть — те і роблю.
+loc_past_armourer_a__story_echo_zola_16_f_01,Залежить від...
+loc_past_armourer_a__story_echo_zola_16_h_01,"Від того, чи йдеться про добрячу прочуханку."
+loc_past_cartel_tough_a__story_echo_zola_13_c_01,"ОЦЕ вже було б марнотратством, хіба ні?"
+loc_past_cartel_tough_a__story_echo_zola_13_e_01,"Треба було впевнитися, правда ж? … От як я і зроблю."
+loc_past_cartel_tough_a__story_echo_zola_14_b_01,"Нерозсудливо? Ти знаєш, скільки часу пішло, щоб мене зібрали докупи? Скільки це коштувало? Що я бачив?"
+loc_past_cartel_tough_a__story_echo_zola_14_c_01,Тепер мною володіє Обідраний Король. Він і його покровителі з Пісочного Годинника.
+loc_past_cartel_tough_a__story_echo_zola_14_d_01,Але це? Це робить усе вартим зусиль.
+loc_past_cartel_tough_a__story_echo_zola_14_e_01,Я отримаю задоволення від цього…
+loc_past_explicator_a__story_echo_zola_13_a_01,"Час це прийняти, Золо. Минуло три дні. Вони не прийдуть."
+loc_past_explicator_a__story_echo_zola_13_b_01,"Або постати перед Мостом Дурнів, або здатися добровільно."
+loc_past_explicator_a__story_echo_zola_13_d_01,Макко? Я Ж УБИЛА тебе.
+loc_past_explicator_a__story_echo_zola_14_a_01,Макко… не роби нічого необачного…
+loc_past_explicator_a__story_echo_zola_15_b_01,"Не зовсім. Тут надто багато, що треба осмислити."
+loc_past_explicator_a__story_echo_zola_15_d_01,Коли я зустрінуся з Інквізитором Ґрендилом?
+loc_past_explicator_a__story_echo_zola_16_a_01,"Як тебе там звати, ще раз?"
+loc_past_explicator_a__story_echo_zola_16_c_01,І чим саме ти тут займаєшся?
+loc_past_explicator_a__story_echo_zola_16_e_01,А якщо розповідатиму я?
+loc_past_explicator_a__story_echo_zola_16_g_01,Про що саме?
+loc_past_explicator_a__story_echo_zola_16_i_01,"Знаєш, гадаю, ми порозуміємося."
+loc_past_explicator_b__story_echo_morrow_16_a_01,"Впертий чоловік, цей Морроу."
+loc_past_explicator_b__story_echo_morrow_16_c_01,Ти впевнений?
+loc_past_interrogator_a__story_echo_marshal_08_a_01,"Наскільки я розумію, ти вже говорив із моїм старшим персоналом?"
+loc_past_interrogator_a__story_echo_marshal_08_c_01,"Не можу сказати, що здивований. Я ручаюся за її відданість."
+loc_past_interrogator_a__story_echo_marshal_08_e_01,Тоді до справи. Атому чекає.
+loc_past_interrogator_a__story_echo_zola_15_a_01,"А, посвячена Золо. Освоюєшся?"
+loc_past_interrogator_a__story_echo_zola_15_c_01,Чудово. Це допоможе тримати тебе в тонусі.
+loc_past_interrogator_a__story_echo_zola_15_e_01,"З часом, Орґустіне. З часом. Трохи терпіння."
+loc_past_interrogator_b__story_echo_morrow_13_a_01,"Ти знаєш, хто я такий, сержанте-майоре?"
+loc_past_interrogator_b__story_echo_morrow_13_c_01,Чудово. Але ти впізнаєш цю печатку?
+loc_past_interrogator_b__story_echo_morrow_13_e_01,У мене є запитання. У нас ЗАВЖДИ є запитання.
+loc_past_interrogator_b__story_echo_morrow_13a_a_01,Скажи мені… що насправді сталося з комісаром Намарком?
+loc_past_interrogator_b__story_echo_morrow_13a_c_01,"Поранення спереду. Так, я читав твій рапорт. Думаю, ти вчинив дуже погано."
+loc_past_interrogator_b__story_echo_morrow_14_c_01,"Комісар Намарк піддався скверні, що живить наших ворогів. Хоч це і не врятує тебе, коли правда вийде назовні. Хіба що…"
+loc_past_interrogator_b__story_echo_morrow_14_e_01,Моя пані вважала б тебе цінним активом.
+loc_past_interrogator_b__story_echo_morrow_15_a_01,"То що обереш, сержанте-майоре?"
+loc_past_interrogator_b__story_echo_morrow_15_c_01,Тебе стратять за те що ти зробив.
+loc_past_interrogator_b__story_echo_morrow_15_e_01,Стратять. Я про це подбаю.
+loc_past_interrogator_b__story_echo_morrow_16_b_01,"Авжеж. Але я зневажаю марнотратство. Доставте його на мій корабель і покладіть у стазис, доки я не зможу влаштувати належне… перепрограмування."
+loc_past_interrogator_b__story_echo_morrow_16_d_01,Тепер у справі Сірі Лицарі. Вони не зупиняться на Анґроні. Вони вичистять цю планету дощенту. Ніхто не сумуватиме за Морроу. Нікому не буде діла.
+loc_past_sergeant_a__story_echo_morrow_13_b_01,"Ні, мем."
+loc_past_sergeant_a__story_echo_morrow_13_d_01,"Так, мем. Чим я можу служити Інквізиції?"
+loc_past_sergeant_a__story_echo_morrow_13a_b_01,"Загинув як герой, мем, поранення—"
+loc_past_sergeant_a__story_echo_morrow_13a_d_01,"Не можу сказати, мем."
+loc_past_sergeant_a__story_echo_morrow_14_d_01,Мем?
+loc_past_sergeant_a__story_echo_morrow_15_b_01,"Армаґеддон у облозі, мем. Моє місце тут. З моїм полком."
+loc_past_sergeant_a__story_echo_morrow_15_d_01,"Можливо, вони й не дізнаються."
+loc_past_sergeant_a__story_echo_morrow_15_f_01,"Робіть як вважаєте, мем. Моє рішення незмінне."
+loc_training_ground_psyker_a__cmd_hacking_place_device_05,"Час для черепа-павука. Ви знаєте: того, що біпкає."
+loc_training_ground_psyker_a__event_corruptor_objective_start_02,У моїй голові повзають огидні речі. Знищ їх!
+loc_training_ground_psyker_a__event_demolition_first_corruptor_destroyed_b_03,Одного замало. Знайди інших.
+loc_training_ground_psyker_a__event_demolition_last_corruptor_06,Залишився один. Лише один. Сефоні вважає його найпотворнішим.
+loc_training_ground_psyker_a__horde_claim_prize_a_02,Ти заслужив Смертельну Реліквію.
+loc_training_ground_psyker_a__horde_defend_area_a_04,"На думку Сефоні, вам слід утримувати цю позицію."
+loc_training_ground_psyker_a__horde_safe_zone_a_02,"А тепер запам’ятайте… не слухайте жодних голосів, поки ви тут. Вони не для вас."
+loc_training_ground_psyker_a__horde_safe_zone_a_12,"Сефоні хотіла б сказати, що у Смертельних Випробуваннях ви не можете загинути, але Сефоні не впевнена."
+loc_training_ground_psyker_a__horde_wave_interstitial_voices_a_04,"Цитьте, маленькі голоски. Ви мої."
+loc_training_ground_psyker_a__horde_wave_start_01_a_08,З чого ж почнемо? Так багато варіантів… [Сміх]
+loc_training_ground_psyker_a__horde_wave_start_03_a_02,І все ж… ви тут? Тоді Сефоні продовжить.
+loc_training_ground_psyker_a__horde_wave_upgrade_prompt_a_08,"Ось. Оберіть Велику Індульгенцію. Сефоні вважає, що ви на неї заслужили."
+loc_training_ground_psyker_a__hub_horde_briefing_a_04,Ти бажаєш стати справжнім Оперативником Смерті? Сефоні може з цим допомогти.
+loc_training_ground_psyker_a__hub_horde_briefing_b_04,Успішне проходження цього випробування стане ще одним кроком у довгій і небезпечній дорозі.
+loc_training_ground_psyker_a__hub_horde_briefing_c_04,Бийся гідно. Заволодій реліквією. І найважливіше: будь чемним із Сефоні.
+loc_training_ground_psyker_a__wave_start_hounds_a_01,Хороші песики! Шукати! Знайти!
+loc_training_ground_psyker_a__wave_start_hounds_a_02,Час полювання. Стережіться зубів!
+loc_hordes_buff_coherency_damage_taken_close_to_electrocuted_enemy_description,"Вся команда отримує на {damage_reduce:%s} менше шкоди від ворогів, якщо принаймні один ворог усе ще електризований."
+loc_hordes_buff_coherency_damage_taken_close_to_electrocuted_enemy_title,Нівелююча іскра
+loc_hordes_buff_damage_per_full_stamina_bar_description,Отримати {stamina:%s} витривалості. Збільшити шкоду на {damage:%s} за кожну повну смугу витривалості.
+loc_hordes_buff_damage_per_full_stamina_bar_title,Спокій і зібраність
+loc_hordes_buff_damage_taken_close_to_electrocuted_enemy_description,"Отримувати на {damage_reduce:%s} менше шкоди від ворогів, якщо принаймні одна ціль усе ще електризована."
+loc_hordes_buff_damage_taken_close_to_electrocuted_enemy_title,Електрошокова стійкість
+loc_hordes_buff_explosion_on_toughness_broken_description,"Спричиняється вибух, коли щити зламано. Перезарядка {time:%s} секунд."
+loc_hordes_buff_explosion_on_toughness_broken_title,Вибуховий норов
+loc_hordes_buff_instakill_melee_hit_on_electrocuted_enemy_description,{kill_chance:%s} шанс миттєво вбити електризованого ворога при ударі у ближньому бою.
+loc_hordes_buff_instakill_melee_hit_on_electrocuted_enemy_title,Вольтова помста
+loc_hordes_buff_ogryn_fire_trail_on_lunge_description,Використання «Нездоланний» залишає за собою слід вогню.
+loc_hordes_buff_ogryn_fire_trail_on_lunge_title,Палаючий натиск
+loc_hordes_buff_ogryn_omega_lucky_rock_description,Камінь Оґрина має {chance:%s} шанс миттєво вбити уражену ціль.
+loc_hordes_buff_ogryn_omega_lucky_rock_title,Влучно кинутий камінь
+loc_hordes_buff_suppression_immunity_description,Отримати імунітет до пригнічення.
+loc_hordes_buff_suppression_immunity_title,Холоднокровність під вогнем
+loc_npc_short_name_past_enginseer_a,Каекс-8
+loc_past_alpha_a__story_echo_brahms_30_b_01,Він не може. Він близький до відкриття.
+loc_past_alpha_a__story_echo_brahms_30_d_01,"ТВІЙ корабель? Я врятував Скорботну Зорю. І досі її рятую, з кожною пройденою годиною."
+loc_past_alpha_a__story_echo_brahms_30_f_01,Гаразд. Заради дому Брамс.
+loc_past_enginseer_a__story_echo_brahms_28_b_01,"Перепрошую, о Леді Зірок. Енергетичні потреби Магоса Харіба стають дедалі… сміливішими."
+loc_past_enginseer_a__story_echo_brahms_28_c_01,"Якщо їх скоротити, відновлення було б можливим."
+loc_past_enginseer_a__story_echo_brahms_29_a_01,"Із жалем повідомляю, що системи Скорботної Зорі продовжують… занепадати."
+loc_past_enginseer_a__story_echo_brahms_29_c_01,"На жаль, ні, о Леді Зірок."
+loc_past_explicator_a__story_echo_zola_25_d_01,Я піду негайно.
+loc_past_explicator_a__story_echo_zola_26_b_01,Ти ж завжди нарікаєш на нестачу людей. До того ж Ґрендил все погодив.
+loc_past_explicator_a__story_echo_zola_26_d_01,Усе владнається.
+loc_past_explicator_a__story_echo_zola_27_e_01,Ні. Ти не можеш!
+loc_past_explicator_a__story_echo_zola_28_d_01,Рада це чути.
+loc_past_interrogator_a__story_echo_zola_25_a_01,Каральний загін Адептус Арбітес тримає капітана Бірона Вольфера під замком на борту Бастіону Танкред.
+loc_past_interrogator_a__story_echo_zola_25_b_01,"Не може бути збігом, що він з'явися саме тепер."
+loc_past_interrogator_a__story_echo_zola_25_c_01,"Я дуже хотів би з ним поговорити. Будь ласка, подбай про це, Орґустіне."
+loc_past_interrogator_a__story_echo_zola_25_e_01,Чудово.
+loc_past_interrogator_a__story_echo_zola_26_a_01,"Орґустіне… не можу не зауважити, що ти накидала у мою делікатну операцію сотні засуджених злочинців."
+loc_past_interrogator_a__story_echo_zola_26_c_01,"Іноді судження Ґрендила не таке бездоганне, як могло б бути."
+loc_past_interrogator_a__story_echo_zola_26_e_01,Краще б так і було.
+loc_past_interrogator_a__story_echo_zola_27_a_01,"А, Орґустіне. Це Маго Біологіс Харіб. Найсвіжіше поповнення нашої веселої компанії."
+loc_past_interrogator_a__story_echo_zola_27_c_01,"Він підтвердив, що Тертіумська Зараза не є природним явищем."
+loc_past_interrogator_a__story_echo_zola_28_a_01,"Заспокойся, Орґустіне. Харіб просто надто… завзятий."
+loc_past_interrogator_a__story_echo_zola_28_c_01,Ми НЕ збираємося знищувати Атому—
+loc_past_interrogator_a__story_echo_zola_28_e_01,Ґрендил вклав у це надто багато часу і зусиль. Але Зараза ускладнює справу.
+loc_past_magos_biologis_a__story_echo_zola_27_b_01,Пре-сервітор: підтверджено. Вітання: надано.
+loc_past_magos_biologis_a__story_echo_zola_27_d_01,Варп-осквернення: підтверджено. Рекомендація: екстермінатус.
+loc_past_magos_biologis_a__story_echo_zola_28_b_01,Негативно. Рекомендовані заходи є правильними.
+loc_past_mourningstar_officer_a__story_echo_brahms_15_a_01,"ЩЕ одна пляшка кальтанського бренді? Вас щось непокоїть, леді?"
+loc_past_mourningstar_officer_a__story_echo_brahms_15_e_01,"Авжеж, леді. Зрештою, ви ж із дому Брамсів."
+loc_past_shipmistress_a__story_echo_brahms_15_b_01,"Моя мати сміється з мене, хіба ви не чуєте?"
+loc_past_shipmistress_a__story_echo_brahms_15_c_01,Цей корабель не просто проклятий. Він приречений.
+loc_past_shipmistress_a__story_echo_brahms_15_d_01,"Вона думає, що це мене зламає. Але ні. Не зламає."
+loc_past_shipmistress_a__story_echo_brahms_15_f_01,Пощастило ж мені.
+loc_past_shipmistress_a__story_echo_brahms_28_a_01,"Каекс, від моєї уваги не вислизнуло те, що Скорботна Зоря працює не так, як повинна."
+loc_past_shipmistress_a__story_echo_brahms_28_d_01,"Сумніваюся, що в нас є такий вибір. Зроби все, що можеш."
+loc_past_shipmistress_a__story_echo_brahms_29_b_01,І це неможливо зупинити без згортання експериментів Магоса Харіба?
+loc_past_shipmistress_a__story_echo_brahms_29_d_01,Тоді в нас закінчується час. Ні слова нашим «гостям».
+loc_past_shipmistress_a__story_echo_brahms_30_a_01,Експерименти Харіба мають бути припинені!
+loc_past_shipmistress_a__story_echo_brahms_30_c_01,Ти знищуєш мій корабель!
+loc_past_shipmistress_a__story_echo_brahms_30_e_01,Тоді доведи це. Накажи Харібу хоча б УПОВІЛЬНИТИ свої експерименти.
+loc_training_ground_psyker_a__event_corruptor_objective_start_04,З вам там є дещо огидне. Точніше — щось ЩЕ огидніше.
+loc_training_ground_psyker_a__event_demolition_first_corruptor_destroyed_b_04,"Їх більше. Ви ж ЗНАЄТЕ, що їх більше."
+loc_training_ground_psyker_a__event_demolition_last_corruptor_05,Ще один лишився. Ви рахувати не вмієте?
+loc_training_ground_psyker_a__horde_break_ice_a_01,"Ламайте лід, о так! І швидко!"
+loc_training_ground_psyker_a__horde_break_ice_a_02,Сефоні наказує проламати лід!
+loc_training_ground_psyker_a__horde_restore_power_a_03,Набої можуть стати твоїми. Але спершу відновіть живлення.
+loc_training_ground_psyker_a__horde_restore_power_a_04,Відновіть живлення — і отримаєте більше набоїв. Хіба Сефоні не золотце?
+loc_training_ground_psyker_a__horde_safe_zone_a_14,Це Смертельні випробування. Спробуйте справити враження на мого повелителя. Якщо зможете.
+loc_training_ground_psyker_a__horde_safe_zone_a_16,"Нехай Смертельні випробування почнуться! … Ну, скоро … Дуже скоро."
+loc_training_ground_psyker_a__horde_safe_zone_b_07,Без допомоги ви тут довго не протримаєтесь. Оберайте дар — і обирайте мудро.
+loc_training_ground_psyker_a__horde_wave_interstitial_voices_a_09,"Що б вам не здалося, що ви почули — ви цього не чули."
+loc_training_ground_psyker_a__horde_wave_start_01_a_02,"Дозвольте мені наслати відповідних ворогів, яких ви маєте здолати."
+loc_training_ground_psyker_a__horde_wave_start_02_a_05,Сефоні має для вас дещо особливе…
+loc_hordes_buff_damage_increase_on_toughness_broken_description,"Коли щити зламано, завдається на {damage:%s} більше шкоди протягом 10 с."
+loc_hordes_buff_damage_increase_on_toughness_broken_title,Загнаний у кут
+loc_hordes_buff_health_regen_description,Відновлювати {hp_regen:%s} ОЗ кожні {time} секунд. Це не зцілює погань.
+loc_hordes_buff_health_regen_title,Швидкий метаболізм
+loc_hordes_buff_increase_super_armor_impact_on_crit_description,Критичні влучання по ворогах у панцерній броні отримують {impact:%s} імпульсу.
+loc_hordes_buff_increase_super_armor_impact_on_crit_title,Броньований удар
+loc_hordes_buff_melee_damage_on_melee_critical_hit_description,Після критичної атаки у ближньому бою наступний удар у ближньому бою отримує бонус до шкоди {damage:%s}.
+loc_hordes_buff_melee_damage_on_melee_critical_hit_title,Критичне продовження
+loc_hordes_buff_psyker_brain_burst_burns_and_bleeds_on_hit_description,Вибух Мозку при влучанні накладає {stack} стаків горіння і кровотечі.
+loc_hordes_buff_psyker_brain_burst_burns_and_bleeds_on_hit_title,Без втечі
+loc_hordes_buff_psyker_brain_burst_hits_nearby_enemies_description,Використання Вибуху Мозку розриває голови {ennemies} ворогам навколо цілі.
+loc_hordes_buff_psyker_brain_burst_hits_nearby_enemies_title,Заразний головний біль
+loc_hordes_buff_reduce_damage_taken_on_disabled_allies_description,{damage:%s} зменшення шкоди за кожного поваленого або схопленого союзника в радіусі {range} м.
+loc_hordes_buff_reduce_damage_taken_on_disabled_allies_title,Стояти гордо
+loc_hordes_buff_stacking_crit_damage_on_critical_hit_description,Після критичного удару отримати {crit_damage:%s} шкоди критичного удару. До {max_crit_damage:%s}. Втрачається при смерті.
+loc_hordes_buff_stacking_crit_damage_on_critical_hit_title,Нарощування агресії
+loc_interactable_lever_mortis_relic,Створити смертельну реліквію 
+loc_npc_short_name_past_ragged_king_a,Обідраний Король
+loc_past_commissar_a__story_echo_morrow_43_b_01,Справді. Можете стояти вільно.
+loc_past_commissar_a__story_echo_morrow_43_d_01,Як забажаєте… Я вивчив нещодавні результати ваших вігнанців.
+loc_past_commissar_a__story_echo_morrow_43_e_01,"Схоже, що тренувальний режим 53-го розбудив їхній потенціал. Ви згодні?"
+loc_past_commissar_a__story_echo_morrow_44_a_01,"Будь ласка, нехай ці особи [брязкіт планшету по картографічному столу] негайно з’являться до мене."
+loc_past_commissar_a__story_echo_morrow_44_c_01,"Лише найкращі. Побачимо, наскільки ж добрі насправді твої вигнанці."
+loc_past_commissar_a__story_echo_morrow_44_e_01,А це має значення?
+loc_past_commissar_a__story_echo_morrow_44_g_01,"На цьому все, сержанте-майоре."
+loc_past_comms_operator_c__story_echo_morrow_45_a_01,"Я чув, ви хотіли мене бачити, сер?"
+loc_past_comms_operator_c__story_echo_morrow_45_d_01,"Ти мав рацію. Слідча Зола вже з десяток разів спускалася на планету відтоді, як сталася та справа в соборі."
+loc_past_comms_operator_c__story_echo_morrow_45_e_01,"У журналах — нічого. Жодних наказів, підписаних Дюкейною чи Ранніком… принаймні я таких не бачив."
+loc_past_comms_operator_c__story_echo_morrow_46_a_01,"То Дюкейн СПРАВДІ командує, сер?"
+loc_past_comms_operator_c__story_echo_morrow_46_c_01,А слідча?
+loc_past_comms_operator_c__story_echo_morrow_46_e_01,"Я буду обачним. Ти цього навчишся, ведучи записи для сера Мелка."
+loc_past_explicator_a__story_echo_zola_05_c_01,"Звісно, ваша величносте. Хіба я колись не сплачувала свою частку?"
+loc_past_ragged_king_a__story_echo_zola_05_a_01,"Ти здобула собі гучне ім’я при моєму дворі, Золо."
+loc_past_ragged_king_a__story_echo_zola_05_b_01,Я бачу світле майбутнє… якщо ти збережеш вірність.
+loc_past_ragged_king_a__story_echo_zola_05_d_01,[Сміх] І надзвичайно щедро. Та здібності й амбіції багатьох зводять зі шляху.
+loc_past_sergeant_a__story_echo_morrow_43_a_01,"Ви хотіли мене бачити, мем?"
+loc_past_sergeant_a__story_echo_morrow_43_c_01,"Я не дуже вмію «вільно», мем."
+loc_past_sergeant_a__story_echo_morrow_43_f_01,"Вони завжди билися понад свої можливості, мем."
+loc_past_sergeant_a__story_echo_morrow_43_g_01,"Вони гарні бійці. Можливо, один чи два колись стануть солдатами."
+loc_past_sergeant_a__story_echo_morrow_44_b_01,"Завдання Божевілля, еге ж? Небагато хто виходить із них живим."
+loc_past_sergeant_a__story_echo_morrow_44_d_01,Дознавач про це знає?
+loc_past_sergeant_a__story_echo_morrow_44_f_01,"Ні… мабуть, ні."
+loc_past_sergeant_a__story_echo_morrow_45_b_01,Так. Усередині.
+loc_past_sergeant_a__story_echo_morrow_45_c_01,У тебе для мене є звіт?
+loc_past_sergeant_a__story_echo_morrow_45_f_01,"[Зітхання] Вона колупається з Вольфером, мов з прищем, яким він і є. У що, вона думає грається?"
+loc_past_sergeant_a__story_echo_morrow_45_g_01,"Раннік дав їй довгий повідець, але Дюкейн — ні."
+loc_past_sergeant_a__story_echo_morrow_46_b_01,"Вона так думає. І це єдине, що має значення."
+loc_past_sergeant_a__story_echo_morrow_46_d_01,А поки що просто повідомляй мені про всі її переміщення. Не дай їй спіймати тебе на нишпоренні.
+loc_past_sergeant_a__story_echo_morrow_46_f_01,"Я не хочу знати, але… гарна робота… І ані слова комісару, чуєш?"
+loc_training_ground_psyker_a__event_demolition_first_corruptor_destroyed_b_02,"Сефоні вважає, що вам слід убити більше."
+loc_training_ground_psyker_a__horde_defend_area_a_03,"Сефоні думає, що ви маєте тут битися. Тож бийтесь."
+loc_training_ground_psyker_a__horde_defend_area_a_07,"Гадаю, настав час вам стояти і битися. Заради Сефоні."
+loc_training_ground_psyker_a__horde_new_wave_start_post_upgrade_a_02,Тепер вони не стануть для тебе суперниками. Або ж стануть. [Сміх]
+loc_training_ground_psyker_a__horde_resupply_a_05,Це не справжні набої. Але тут вони цілком реальні.
+loc_training_ground_psyker_a__horde_wave_start_01_a_09,Не бійся. Сефоні буде ніжною… принаймні спочатку…
+loc_training_ground_psyker_a__horde_wave_start_03_a_07,"Чому? … Чому я мушу знову і знову це робити, мій повелителю?"
+loc_hordes_buff_broker_health_regen_during_punk_rage_description,Під час Лютівні вбивства ворогів відновлюють {hp_regen:%s} ОЗ. Це також зцілює погань.
+loc_hordes_buff_broker_health_regen_during_punk_rage_title,Екстремальна Лютівня
+loc_npc_short_name_past_enemy_nemesis_wolfer_a,Лейтенант Байрон Вольфер
+loc_past_auspex_operator_a__story_echo_morrow_25_a_01,"Входимо на орбіту Занатроса… зараз. Ти впевнений, що це гарна ідея? Ми навіть не знаємо, чи Морроу надійний."
+loc_past_auspex_operator_a__story_echo_morrow_25_c_01,"Зрозуміло, слідча."
+loc_past_enemy_nemesis_wolfer_a__story_echo_morrow_28_a_01,Ей ти! Назви себе.
+loc_past_enemy_nemesis_wolfer_a__story_echo_morrow_28_c_01,[Хрип] Нам потрібні набої. Важкі танки. А не бюрократи і планшети.
+loc_past_interrogator_a__story_echo_morrow_25_b_01,"Ґрендил повністю йому довіряє. А це означає, що й ми також… подобається нам це чи ні."
+loc_past_interrogator_a__story_echo_morrow_25_d_01,До того ж у нього є Брант для компанії. Що може піти не так?
+loc_past_interrogator_a__story_echo_morrow_26_b_01,"Так. Скажи-но, як там твоя пам’ять тримається?"
+loc_past_interrogator_a__story_echo_morrow_26_d_01,"Чудово. Прекрасне ставлення для нашого щасливого фаху. Гадаю, я розумію, що Ґрендил у тобі побачив."
+loc_past_interrogator_a__story_echo_morrow_27_b_01,"Погоджуюся, хоча це ніколи не зупиняло Імперіум піти на війну."
+loc_past_interrogator_a__story_echo_morrow_27_d_01,"Нісенітниця! Ти солдат із солдатів, і підкріплення прибувають постійно."
+loc_past_interrogator_a__story_echo_morrow_27_e_01,Просто будь собою — і ти ідеально впишешся.
+loc_past_sergeant_a__story_echo_morrow_26_a_01,"Ви… е-е… хотіли мене бачити, сер?"
+loc_past_sergeant_a__story_echo_morrow_26_c_01,"Я… знаю рівно стільки, скільки мені потрібно знати."
+loc_past_sergeant_a__story_echo_morrow_27_a_01,"Нокс Альфа, еге ж?… Такий собі світ."
+loc_past_sergeant_a__story_echo_morrow_27_c_01,Я не впевнений у цьому. Шпигунство — не мій коник.
+loc_past_sergeant_a__story_echo_morrow_28_b_01,"Сержанте-майоре Морроу, сер. Це Брант. Інспекційне призначення від секторного командування. Ось мої повноваження."
+loc_past_sergeant_a__story_echo_morrow_28_d_01,"Я триматимусь осторонь. І хто знає, мій звіт ще може забезпечити тобі ту зброю."
+loc_training_ground_psyker_a__horde_safe_zone_a_10,"Ґрендил сказав, що Сефоні має тебе тренувати, тож Сефоні так і зробить… якщо хтось із нас не загине в процесі."
+loc_training_ground_psyker_a__horde_safe_zone_b_04,Поклоняйся славетній Сефоні — і вона дарує тобі дар.
+loc_ability_psyker_blitz_throwing_knives,Психічний штурм
+loc_hordes_buff_critical_chance_on_dodge_description,Успішне ухилення підвищує шанс критичного удару на {crit_chance:%s} протягом {time:%s} с.
+loc_hordes_buff_critical_chance_on_dodge_title,Контрудар
+loc_hordes_buff_increase_ranged_crit_chance_on_melee_critical_kill_description,Після вбивства ворога критичною атакою у ближньому бою отримується {crit_chance:%s} шансу критичного удару в дальньому бою на {time:%s} секунд.
+loc_hordes_buff_increase_ranged_crit_chance_on_melee_critical_kill_title,Дальнобійне продовження
+loc_hordes_buff_psyker_recover_knife_on_knife_kill_description,"Відновлюється один уламок за кожного ворога, вбитого влучаннями уламків."
+loc_hordes_buff_psyker_recover_knife_on_knife_kill_title,Злобна перезарядка
+loc_hordes_buff_weakspot_damage_increase_description,Підвищує шкоду по вразливих місцях на {damage:%s}.
+loc_hordes_buff_weakspot_damage_increase_title,Ювелірна точність
+loc_npc_short_name_fx,Нечіткі шуми
+loc_fx__story_echo_zola_06_a_01,[Двері зачиняються]
+loc_past_explicator_a__story_echo_zola_06_b_01,[Зітхання полегшення] Ледь не влипли.
+loc_past_explicator_a__story_echo_zola_06_d_01,Ніхто не знає про це місце. Як ти—
+loc_past_explicator_a__story_echo_zola_06_f_01,Чого ти хочеш?
+loc_past_explicator_a__story_echo_zola_07_b_01,І звідки ти це знаєш?
+loc_past_explicator_a__story_echo_zola_07_d_01,Мені це нецікаво.
+loc_past_interrogator_a__story_echo_zola_06_c_01,Ти — Орґустіна Зола?
+loc_past_interrogator_a__story_echo_zola_06_e_01,"Тоді, можливо, я — ніхто. Ти думаєш, що лише ти одна вмієш вправлятися з криптоключами?"
+loc_past_interrogator_a__story_echo_zola_06_g_01,Щоб зробити тобі пропозицію.
+loc_past_interrogator_a__story_echo_zola_07_a_01,"Ти вважаєш, що маєш прихильність Обідраного Короля, але навіть зараз він плете змову, щоб усунути тебе."
+loc_past_interrogator_a__story_echo_zola_07_c_01,"Організація, яку я представляю, має доступ до надзвичайно великої кількості джерел інформації. Я сподіваюся, що ти станеш одним із них."
+loc_past_interrogator_a__story_echo_zola_07_e_01,"Нерозумно. Очікувано, але нерозумно."
+loc_training_ground_psyker_a__cmd_hacking_place_device_01,Розмістіть збирачі даних. Не зволікайте.
+loc_training_ground_psyker_a__horde_wave_start_03_a_01,Продовжуй… Продовжуй… Сефоні витримає…
+loc_hordes_buff_toughness_damage_taken_above_threshold_description,"Зменшення шкоди по шитах на {damage_reduce:%s}, поки маєте понад {toughness:%s} щитів."
+loc_hordes_buff_toughness_damage_taken_above_threshold_title,Зразок здоров’я
+loc_hordes_buff_zealot_regen_toughness_inside_fire_grenade_description,"Відновлення {thoughness:%s} щитів кожні {time} секунд, перебуваючи у вогні запальної гранати."
+loc_hordes_buff_zealot_regen_toughness_inside_fire_grenade_title,Вогнестійкий
+loc_past_enemy_nemesis_wolfer_a__story_echo_morrow_29_b_01,"Мисливець-12. Але хочу, щоб і він, і пілот повернулися цілими. Що там зовні?"
+loc_past_enemy_nemesis_wolfer_a__story_echo_morrow_29_d_01,Справді?
+loc_past_enemy_nemesis_wolfer_a__story_echo_morrow_30_a_01,Морроу.
+loc_past_enemy_nemesis_wolfer_a__story_echo_morrow_30_c_01,"Повернулися з Сектора 5, бачу. Отримали те, що треба?"
+loc_past_enemy_nemesis_wolfer_a__story_echo_morrow_30_e_01,Ми вистояли. І це головне. Хай що там каже комісар Маґсен.
+loc_past_sergeant_a__story_echo_morrow_29_a_01,"Лейтенанте Вольфер, мені потрібно дістатися до Сектора 5. Є робоча «Валькірія»?"
+loc_past_sergeant_a__story_echo_morrow_29_c_01,"Не знаю, але накази ведуть мене туди — отже, туди й вирушаю. Імператор Захищає."
+loc_past_sergeant_a__story_echo_morrow_30_b_01,Вольфер.
+loc_past_sergeant_a__story_echo_morrow_30_d_01,"Не можу сказати. Схоже, я пропустив тут усе найцікавіше."
+loc_past_sergeant_a__story_echo_morrow_30_f_01,Так. Я ніколи особливо не ладнав із комісарами.
+loc_hordes_buff_broker_missile_launcher_special_kill_restores_grenade_description,Вбиства спеціалістів з Ракетниці ввідновлює один заряд.
+loc_hordes_buff_broker_missile_launcher_special_kill_restores_grenade_title,Березарядка Ракетниці
+loc_hordes_buff_shock_on_grenade_impact_description,Всі гранати накладають в зоні ураження шок.
+loc_hordes_buff_shock_on_grenade_impact_title,Покращенний Збій
+loc_npc_short_name_past_cartel_tough_c,Геллік
+loc_npc_short_name_past_tertium_enforcer_a,Сержант Строкка
+loc_npc_short_name_past_tertium_enforcer_b,Правоохоронець Малка
+loc_past_armourer_a__story_echo_morrow_33_f_01,"Так, сер. [Глухий удар тіла, що падає]."
+loc_past_armourer_a__story_echo_morrow_34_b_01,"Так, сер."
+loc_past_armourer_a__story_echo_morrow_35_a_01,"[Гуркіт з пушки ""Різник""] Маємо компанію!"
+loc_past_cartel_tough_a__story_echo_morrow_33_a_01,"[Черга з автогана] Здавайся, Золо! Звідси живою не вийдеш!"
+loc_past_cartel_tough_a__story_echo_morrow_33_c_01,Нехай буде по твоєму— [Хрускіт вибитих дверей] [Здушений зойк]
+loc_past_cartel_tough_c__story_echo_zola_10_c_01,Золо! Браск і Тоґґер мертві. Ми МУСИМО йти.
+loc_past_cartel_tough_c__story_echo_zola_10_f_01,Золо! Швидше!
+loc_past_cartel_tough_c__story_echo_zola_11_a_01,[Стрілянина] [Крик]
+loc_past_explicator_a__story_echo_morrow_33_b_01,"Тоді я принаймні змушу тебе попітніти, Макко! [Черга з лазпістолету]"
+loc_past_explicator_a__story_echo_morrow_33_d_01,"Хто ти, в біса, такий?"
+loc_past_explicator_a__story_echo_morrow_34_d_01,"Ні — доки не скажеш, хто ти."
+loc_past_explicator_a__story_echo_morrow_34_f_01,"Я не був певен, що мій вокс-сигнал проходить."
+loc_past_explicator_a__story_echo_morrow_35_c_01,Ти не жартуєш. Обідраний Король уміє тримати образу.
+loc_past_explicator_a__story_echo_morrow_35_e_01,Повір мені. Ще й як. Який план?
+loc_past_explicator_a__story_echo_morrow_35_g_01,Смішний чоловічок.
+loc_past_explicator_a__story_echo_zola_10_d_01,"Цього не може бути! Звідки вони знали, що ми збираємося обчистити це місце?"
+loc_past_explicator_a__story_echo_zola_10_e_01,[Пошепки] Обідраний Король нас продав... Ніхто інший не знав...
+loc_past_explicator_a__story_echo_zola_11_e_01,[Пошепки] Ось вам і недоторканність закону.
+loc_past_sergeant_a__story_echo_morrow_33_e_01,"Ми твоє кляте підкріплення, Вирмвуде... Поклади цього гівнюка, Бранте."
+loc_past_sergeant_a__story_echo_morrow_34_a_01,Бранте? Стеж за вулицею.
+loc_past_sergeant_a__story_echo_morrow_34_c_01,А ти: направляй ту штуку кудись в інше місце.
+loc_past_sergeant_a__story_echo_morrow_34_e_01,"Вже. Ми тут, щоб витягти тебе... Він казав, що в тебе гострий язик. Його слова."
+loc_past_sergeant_a__story_echo_morrow_34_g_01,"Тоді це твій щасливий день, еге ж?"
+loc_past_sergeant_a__story_echo_morrow_35_b_01,Це наш знак відходити.
+loc_past_sergeant_a__story_echo_morrow_35_d_01,Звучить як сама чарівність.
+loc_past_sergeant_a__story_echo_morrow_35_f_01,Нас чекає валькірія. Хіба що ти волієш дочекатися правоохоронців?
+loc_past_tertium_enforcer_a__story_echo_zola_10_b_01,[Гучномовець] Порушники закону! Ви оточені! Здавайтесь на Милість Імператора!
+loc_past_tertium_enforcer_a__story_echo_zola_10_g_01,"[Гучномовець] Групи захоплення, висунутися!"
+loc_past_tertium_enforcer_a__story_echo_zola_11_b_01,"[Спотворений вокс] Ціль ліквідовано. Ознак основної винагороди немає, сер."
+loc_past_tertium_enforcer_b__story_echo_zola_11_c_01,[Спотворений вокс] Обідраний Король платить лише за тіло. Продовжити прочісування.
+loc_training_ground_psyker_a__event_scan_skull_waiting_03,Підійти до сервочерепа. Негайно.
+loc_training_ground_psyker_a__horde_safe_zone_a_11,"Ласкаво просимо до Смертельного випробування. Сефоні сподівається, що ви виживете."
+loc_training_ground_psyker_a__horde_wave_start_03_a_10,Ви мубуть... зламані... подавлені. Як маленькі... повзучі... жучки...
+loc_training_ground_psyker_a__info_servo_skull_deployed_01,Сервочереп розгорнуто.
+loc_training_ground_psyker_a__info_servo_skull_deployed_03,Такий гарненький сервочереп. Він нагадує Сефоні про вас.
+loc_fx__story_echo_zola_10_a_01,[Черга зі зброї]
+loc_fx__story_echo_zola_11_d_01,[Кроки віддаляються]
+loc_past_interrogator_a__story_echo_morrow_36_a_01,"Яка твоя оцінка об’єктів, що надала Леді Брамс?"
+loc_past_interrogator_a__story_echo_morrow_36_c_01,"Не знаю. Мені воно навіть подобалося. Але, гадаю, це практичніше. Звісно, я захочу, щоб ти і керував."
+loc_past_interrogator_a__story_echo_morrow_36_e_01,"Та, але тут ти для мене корисніший."
+loc_past_sergeant_a__story_echo_morrow_36_b_01,"Згодиться, сер. Краще, ніж працювати на тому кораблі."
+loc_past_sergeant_a__story_echo_morrow_36_d_01,"Я, сер? Мені більше до вподоби передова."
+loc_training_ground_psyker_a__horde_mission_complete_a_07,Ви перемогли. Сефоні зазнала поразки. Сефоні замислить підступну помсту.
+loc_training_ground_psyker_a__horde_open_gate_a_04,Сефоні наказує відчинити браму. Виконуйте!
+loc_hordes_buff_zealot_channel_heals_corruption_description,Хор духовної міці Бузувіра очищує Погань до {health:%s} від максимального значення здоров’я.
+loc_hordes_buff_zealot_channel_heals_corruption_title,Очищувальні молитви
+loc_hordes_buff_reduce_swap_time_title,Спритні руки
+loc_hordes_buff_reduce_swap_time_description,Зменшення часу зміни зброї на {swap_time:%s}.
+loc_hordes_buff_zealot_knives_bleed_and_restore_thoughness_on_kill_title,Виснажливий укус
+loc_hordes_buff_zealot_knives_bleed_and_restore_thoughness_on_kill_description,"Кидкові ножі накладають кровотечу. Якщо ціль помирає під час кровотечі, відновлюється {thoughness:%s} щитів за кожен залишковий стак кровотечі."
+loc_past_explicator_a__story_echo_zola_08_a_01,Забирайся з мого дому. Негайно.
+loc_past_explicator_a__story_echo_zola_08_d_01,Коли я помру — помру багатою.
+loc_past_interrogator_a__story_echo_zola_08_b_01,"Із задоволенням. Але пам’ятай: якщо я тебе знайшов, інші теж зможуть."
+loc_past_interrogator_a__story_echo_zola_08_c_01,Твій брат обрав служити Імперіуму. Невже ти справді хочеш померти без мети?
+loc_past_interrogator_a__story_echo_zola_08_e_01,Погляньте навколо. Ви справді в це вірите?
+loc_training_ground_psyker_a__event_demolition_first_corruptor_destroyed_b_01,Одного ви вбили. Цього замало.
+loc_training_ground_psyker_a__event_demolition_last_corruptor_03,Залишився лише один!
+loc_training_ground_psyker_a__horde_claim_prize_a_10,"Сефоні ніколи не любила Смертільні Реліквії, тож Сефоні залюбки їх віддає."
+loc_training_ground_psyker_a__horde_mission_complete_a_06,"Ви перемогли! Реальний світ кличе. Але ви можете повернутися, коли забажаєте."
+loc_training_ground_psyker_a__horde_wave_start_03_a_04,"Так, Володарю. Сефоні… тиснутиме на них сильніше."
+loc_past_adamant_officer_a__story_echo_marshal_01_b_01,Відійти. Атома тепер під юрисдикцією Адептус Арбітес.
+loc_past_adamant_officer_a__story_echo_marshal_01_c_01,Ваш збрід уже мав свій шанс.
+loc_past_adamant_officer_a__story_echo_marshal_02_a_01,Ви дозволяєте своїм людям так розмовляти?
+loc_past_adamant_officer_a__story_echo_marshal_02_c_01,"Ви вважаєте себе кмітливою людиною, чи не так, Дознавачу?"
+loc_past_adamant_officer_a__story_echo_marshal_02_e_01,Або зі старшим Арбітром.
+loc_past_adamant_officer_a__story_echo_marshal_03_b_01,"Авжеж, зробімо так. Ви підвели Атому. Я це виправлю."
+loc_past_adamant_officer_a__story_echo_marshal_03_c_01,Порядок Лекс Імперіаліс знову запанує.
+loc_past_adamant_officer_a__story_echo_marshal_03_d_01,"Ваші ""зусилля"" більше не потрібні."
+loc_past_adamant_officer_a__story_echo_marshal_03_f_01,"Краще так, ніж терпіти некомпетентність."
+loc_past_adamant_officer_a__story_echo_marshal_04_b_01,Справді.
+loc_past_adamant_officer_a__story_echo_marshal_04_f_01,[Гарчання]
+loc_past_alpha_a__story_echo_brahms_10_a_01,Маґалі ... Дякую за вашу службу.
+loc_past_alpha_a__story_echo_brahms_10_d_01,Я все одно дякую вам. Нехай зорі принесуть вам утіху.
+loc_past_alpha_a__story_echo_brahms_25_b_01,"Це необхідно, Еморо."
+loc_past_alpha_a__story_echo_brahms_25_d_01,Тримаймо курс — і ми всі будемо вільні.
+loc_past_alpha_a__story_echo_brahms_30a_a_01,Емора справжня запальничка. Маґалі ніколи б не говорила зі мною так.
+loc_past_alpha_a__story_echo_brahms_30a_c_01,Так. Саме це робить наші маленькі розмови такими ... цікавими.
+loc_past_alpha_a__story_echo_brahms_30a_d_01,"Може статися, що одному з нас недовго залишилося в цьому світі."
+loc_past_alpha_a__story_echo_brahms_30a_f_01,Вшанувати її прохання. Принаймні поки що.
+loc_past_armourer_a__story_echo_brahms_19_d_01,"Так точно, сер."
+loc_past_armourer_a__story_echo_brahms_19_f_01,"Так точно, сер."
+loc_past_armourer_a__story_echo_morrow_18_b_01,"Голову відірвав, а тоді ще й розчавив. Йому кінець."
+loc_past_armourer_a__story_echo_morrow_18_d_01,"[Сміх] Ні, сер. Корабель мертвий."
+loc_past_armourer_a__story_echo_morrow_18_f_01,Хе. Є. Я.
+loc_past_armourer_a__story_echo_morrow_20_b_01,"Є живий, сер."
+loc_past_armourer_a__story_echo_morrow_20_d_01,"Не впевнений, сер. Замерз намертво. Стазис-труба."
+loc_past_armourer_a__story_echo_morrow_20_f_01,"Так точно, сер."
+loc_past_armourer_a__story_echo_morrow_31_a_01,Сер.
+loc_past_armourer_a__story_echo_morrow_31_c_01,Упав. Мозок зламався.
+loc_past_armourer_a__story_echo_morrow_31_e_01,"Саме так, сер."
+loc_past_armourer_a__story_echo_zola_19_a_01,То ... Куди ми прямуємо?
+loc_past_armourer_a__story_echo_zola_19_c_01,Справді? У мене немає друзів.
+loc_past_armourer_a__story_echo_zola_19_f_01,Нема проблем.
+loc_past_armourer_a__story_echo_zola_20_c_01,Так.
+loc_past_armourer_a__story_echo_zola_20_f_01,Те?
+loc_past_armourer_a__story_echo_zola_21_d_01,Так.
+loc_past_armourer_a__story_echo_zola_22_f_01,Так.
+loc_past_auric_female_a__story_echo_zola_37_a_01,"Це нікуди не годиться, мем! Вони надто добре окопалися!"
+loc_past_auric_female_a__story_echo_zola_38_a_01,Це ... ?
+loc_past_auric_male_a__story_echo_zola_37_c_01,Рух! Є рух біля воріт!
+loc_past_auric_male_a__story_echo_zola_38_d_01,Мем! Нам треба йти!
+loc_past_auspex_operator_a__story_echo_morrow_17_b_01,"Сильно пошкоджений, Слідча. Схоже, його добре побили ще до входу у Варп."
+loc_past_auspex_operator_a__story_echo_morrow_17_d_01,Без сумніву ... Зачекайте ... Є сигнал ідентифікатора. ZX48/Альфа. «Непокірний».
+loc_past_auspex_operator_a__story_echo_morrow_19_b_01,Зрештою. Я все ще перебираю дані.
+loc_past_auspex_operator_a__story_echo_morrow_19_d_01,"Це транспорт Інквізиції, як ви гадаєте?"
+loc_past_brother_a__story_echo_zola_01_b_01,Імператор кличе мене на війну.
+loc_past_brother_a__story_echo_zola_01_d_01,"Я мушу це зробити, Стіно. Це моє покликання."
+loc_past_captain_twin_female_a__story_echo_zola_37_d_01,"[Звіддалік] Що таке? Закінчилися зеки, яких можна послати на смерть? У казані ще є місце, якщо вам самотньо!"
+loc_past_captain_twin_female_a__story_echo_zola_38_c_01,"Я знаю, що ти десь там, Золо! Вульфер казав, що в тебе є відвага. Хочу побачити її зблизька!"
+loc_past_cartel_tough_a__story_echo_zola_02_a_01,[З натугою хапає мішок] Ага ... Це гарно покриє твій борг.
+loc_past_cartel_tough_a__story_echo_zola_02_c_01,"І тепер це моє. Не так уже й легко без брата, що за тобою приглядав, еге ж?"
+loc_past_cartel_tough_a__story_echo_zola_02_e_01,Так. Схоже на те.
+loc_past_cartel_tough_a__story_echo_zola_03_b_01,[Прокидається стривожено] А? Що? ... Як ти сюди потрапила? Чого ти хочеш?
+loc_past_cartel_tough_a__story_echo_zola_03_d_01,Ні ... Стій—! [Постріл із лазпістолета]
+loc_past_cartel_tough_c__story_echo_zola_04_b_01,"Ти жартуєш, правда? Нам ще ніколи не жилося так добре."
+loc_past_cartel_tough_c__story_echo_zola_04_d_01,"Після частки Обідраного Короля, маєш на увазі."
+loc_past_explicator_a__story_echo_zola_12_a_01,Обідраний Король. Правоохоронці. Усі вони хочуть твоєї смерті.
+loc_past_explicator_a__story_echo_zola_12_b_01,Ти сам ... Хіба що ...
+loc_past_explicator_a__story_echo_zola_12_c_01,Де ж та клятий планшет?
+loc_past_explicator_a__story_echo_zola_12_d_01,"БУДЬ ЛАСКА, нехай це спрацює."
+loc_past_explicator_a__story_echo_zola_12_e_01,[Клік вокс-каналу] Чи хтось мене чує? Це «Вирмвуд». Повторюю: це «Вирмвуд»...
+loc_past_explicator_a__story_echo_zola_17_a_01,У тебе є родина?
+loc_past_explicator_a__story_echo_zola_17_c_01,"Колись була. Мого брата забрали податком Я не маю поняття, що з ним сталося."
+loc_past_explicator_a__story_echo_zola_18_b_01,"Це що ... Атому видно там унизу? Ти ж казав, що мені більше ніколи не доведеться бачити цю планету."
+loc_past_explicator_a__story_echo_zola_18_d_01,Чудово.
+loc_past_explicator_a__story_echo_zola_19_b_01,Побачити старого друга.
+loc_past_explicator_a__story_echo_zola_19_d_01,Уявляєш моє здивування. Не хвилюйся. Цей теж не справжній друг.
+loc_past_explicator_a__story_echo_zola_19_e_01,"Підозрюю, тобі доведеться зробити йому боляче. Дуже боляче."
+loc_past_explicator_a__story_echo_zola_20_b_01,"Це прозвучало як погроза. Тобі це здалося погрозою, Бранте?"
+loc_past_explicator_a__story_echo_zola_20_d_01,А що ми робимо з погрозами?
+loc_past_explicator_a__story_echo_zola_20_g_01,Непоганий початок.
+loc_past_explicator_a__story_echo_zola_21_a_01,"Вимагання. Контрабанда. Підкуп правоохоронців. Не знадобиться багато, щоб Арбітри зацікавилися."
+loc_past_explicator_a__story_echo_zola_21_c_01,"Ні. Це ВІН переламав тобі кляту руку. Чи не так, Бранте?"
+loc_past_explicator_a__story_echo_zola_21_e_01,"Якщо не хочеш, щоб він зламав щось іще — слухатимеш."
+loc_past_explicator_a__story_echo_zola_22_b_01,З цієї миті ти працюєш на мене.
+loc_past_explicator_a__story_echo_zola_22_c_01,"Кожен шепіт. Кожну брудну оборудку. Я хочу знати, де вона починається і де закінчується."
+loc_past_explicator_a__story_echo_zola_22_e_01,"Гадаю, це ризик, на який Брант готовий піти."
+loc_past_explicator_a__story_echo_zola_23_c_01,У зведенні старих рахунків. Це було суто по справі. Це відкрило нову нитку розслідування.
+loc_past_explicator_a__story_echo_zola_24_a_01,Мушу визнати ... це вражає.
+loc_past_explicator_a__story_echo_zola_24_c_01,"І від тебе вона не отримає жодної допомоги, так?"
+loc_past_explicator_a__story_echo_zola_24_e_01,Ви підвищуєте мене?
+loc_past_explicator_a__story_echo_zola_31_b_01,Це Вульфер. Дозвольте мені притягти його сюди за п’яти.
+loc_past_explicator_a__story_echo_zola_31_d_01,Хоча б поговоріть про це з Ґрендилом.
+loc_past_explicator_a__story_echo_zola_32_a_01,Розвідгрупа Дванадцять уже вийшла на зв'язок? Я чекаю звісток про останній хід Вульфера.
+loc_past_explicator_a__story_echo_zola_32_c_01,Що сталося?
+loc_past_explicator_a__story_echo_zola_32_e_01,Ти зробив що?
+loc_past_explicator_a__story_echo_zola_33_b_01,"Відколи вони для тебе стали «солдатами»? Я думала, вони Вигнанці."
+loc_past_explicator_a__story_echo_zola_33_d_01,"Вірність окопів, так?"
+loc_past_explicator_a__story_echo_zola_34_b_01,"Але ти можеш, так?"
+loc_past_explicator_a__story_echo_zola_34_f_01,"Гадаю, що можу ... Дякую."
+loc_past_explicator_a__story_echo_zola_37_b_01,"Клятий Мелк. Ти ж казав, що це найкращі з тих, що в тебе є..."
+loc_past_explicator_a__story_echo_zola_38_b_01,Рінда Карнак. М'ясниця Браґни.
+loc_past_explicator_a__story_echo_zola_38_e_01,"[Роздратоване гарчання] Гаразд! ... Масозі, це Зола. Ми відходимо до точки Евакуації Дельта Нексос. Заходимо гаряче."
+loc_past_explicator_b__story_echo_morrow_04_b_01,Так стверджує звіт. Під проводом такого собі сержанта Морроу.
+loc_past_explicator_b__story_echo_morrow_04_d_01,"Так, моя пані Дознавачко."
+loc_past_interrogator_a__story_echo_brahms_16_b_01,ДОЗНАВАЧ Раннік.
+loc_past_interrogator_a__story_echo_brahms_16_d_01,"Чи сильно щось змінилося б, якби це було не так?"
+loc_past_interrogator_a__story_echo_brahms_16_f_01,"Чудово. Бачу, ми з вами прекрасно порозуміємося."
+loc_past_interrogator_a__story_echo_brahms_17_b_01,Дознавач.
+loc_past_interrogator_a__story_echo_brahms_17_d_01,"Заспокойтеся, пані. Сержант-майор Морроу повністю контролює ситуацію на Ксанатросі."
+loc_past_interrogator_a__story_echo_brahms_17_f_01,Я завжди спокійний.
+loc_past_interrogator_a__story_echo_brahms_18_a_01,"Я справді думав, що Інквізитор Ґрендил уже з'явився б."
+loc_past_interrogator_a__story_echo_brahms_18_c_01,"Це ж випробування, чи не так?"
+loc_past_interrogator_a__story_echo_brahms_18_e_01,"Тоді ... ні. Ми не знайомі особисто. Гадаю, це ще станеться."
+loc_past_interrogator_a__story_echo_brahms_19_b_01,"Я прекрасно усвідомлюю, якої шкоди може завдати навіть один генокрад."
+loc_past_interrogator_a__story_echo_brahms_19_c_01,"Саме тому я залишив цю справу Бранту. Чи не так, Бранте?"
+loc_past_interrogator_a__story_echo_brahms_23a_a_01,"Ви хотіли мене бачити, пані?"
+loc_past_interrogator_a__story_echo_brahms_23a_c_01,Справді? Вони часом бувають маленькими дияволами.
+loc_past_interrogator_a__story_echo_brahms_24_a_01,"І досі жодного сліду Ґрендила. Є «таємничість», а є «жахлива непунктуальність»."
+loc_past_interrogator_a__story_echo_brahms_24_c_01,"Зрештою, ви двоє давні друзі."
+loc_past_interrogator_a__story_echo_brahms_24_e_01,"Дуже добре, зберігайте свої таємниці. Я впевнений, він з’явиться ... зрештою."
+loc_past_interrogator_a__story_echo_brahms_27_d_01,"Дознавач ... бо боюся, я ні."
+loc_past_interrogator_a__story_echo_brahms_27_f_01,У мене є свої обмеження. Химерність ксеносів трохи виходить за межі моїх повноважень.
+loc_past_interrogator_a__story_echo_brahms_27b_b_01,"Справді? Розкажіть, сержанте-майоре."
+loc_past_interrogator_a__story_echo_brahms_27b_d_01,"Я б сподівався, що Ельдари з усіх інших, поводилися б витонченіше."
+loc_past_interrogator_a__story_echo_brahms_27b_f_01,"Чудово. Ніщо так не прикрашає день, як відчайдушні ксеноси."
+loc_past_interrogator_a__story_echo_brahms_36_b_01,"Я постійно кажу собі те саме. Але Ґрендил знає, що робить."
+loc_past_interrogator_a__story_echo_brahms_36_d_01,Небагато хто наважився б сказати це вголос.
+loc_past_interrogator_a__story_echo_marshal_01_e_01,"Сержанте-майоре ... Можливо, ви були б такі люб'язні забрати свій надмірний запас тактовності кудись іще?"
+loc_past_interrogator_a__story_echo_marshal_02_b_01,"Я очікую, що вони висловлюватимуть свої думки вільно ... ті, хто взагалі здатен думати."
+loc_past_interrogator_a__story_echo_marshal_02_d_01,Лише дурень сперечається з переважаючою думкою.
+loc_past_interrogator_a__story_echo_marshal_02_f_01,Саме так.
+loc_past_interrogator_a__story_echo_marshal_03_a_01,Говорімо відверто.
+loc_past_interrogator_a__story_echo_marshal_03_e_01,Ви так легко відмовитеся від союзника?
+loc_past_interrogator_a__story_echo_marshal_03_g_01,Чарівно.
+loc_past_interrogator_a__story_echo_marshal_04_a_01,"Є одна річ, яка може змінити вашу думку."
+loc_past_interrogator_a__story_echo_marshal_04_c_01,"Маленька, непримітна річ; доволі проста, з єдиним мотивом."
+loc_past_interrogator_a__story_echo_marshal_04_d_01,"Печатка Інквізиції, власне. Печатка Ґрендила."
+loc_past_interrogator_a__story_echo_marshal_04_e_01,Вона ставить мене поза межами вашої влади ... якщо тільки у вас немає чогось подібного?
+loc_past_interrogator_a__story_echo_marshal_04_g_01,"Чудово. Отже, союзники."
+loc_past_interrogator_a__story_echo_morrow_17_a_01,Ви вже встановили ідентифікацію того корабля?
+loc_past_interrogator_a__story_echo_morrow_17_c_01,"І ви певні, що це гімн лиха Ордо Маллеус?"
+loc_past_interrogator_a__story_echo_morrow_17_e_01,"Цікаво. Нам краще відправити туди групу. Розбудіть Бранта, будь ласка."
+loc_past_interrogator_a__story_echo_morrow_18_a_01,"Бранте, ти вже закінчив?"
+loc_past_interrogator_a__story_echo_morrow_18_c_01,Є якийсь опір?
+loc_past_interrogator_a__story_echo_morrow_18_e_01,Що ж ... жодних ризиків. «Непокірний» зник багато століть тому. На борту може бути щось неприємне.
+loc_past_interrogator_a__story_echo_morrow_19_a_01,Брант уже підключив тебе до дата-ядра «Непокірного»?
+loc_past_interrogator_a__story_echo_morrow_19_c_01,Є якийсь звіт?
+loc_past_interrogator_a__story_echo_morrow_19_e_01,"Кожен — критик. Гадаю, нам краще дозволити Бранту завершити пошук."
+loc_past_interrogator_a__story_echo_morrow_20_a_01,"Так, Бранте. Що там?"
+loc_past_interrogator_a__story_echo_morrow_20_c_01,Як чудово. Воно ... дружнє?
+loc_past_interrogator_a__story_echo_morrow_20_e_01,"Таємниця лише поглиблюється. Заберіть його на борт, будь ласка ... і постарайтеся не впустити."
+loc_past_interrogator_a__story_echo_morrow_31_b_01,"Ах, Бранте ... Я вагаюся питати, але чи справді вам варто так носити Морроу?"
+loc_past_interrogator_a__story_echo_morrow_31_d_01,"Ой лишенько, знову. Ну ж бо, не стійте. Віднесіть його до Сефоні. Вона знову складе його докупи."
+loc_past_interrogator_a__story_echo_morrow_32_a_01,"Сподіваюся, сьогодні у вас у голові менше безладу, сержанте-майоре?"
+loc_past_interrogator_a__story_echo_morrow_32_c_01,Ви готові до трохи цілеспрямованого насильства?
+loc_past_interrogator_a__story_echo_morrow_32_e_01,Чудово. Один із наших агентів Вирмвуда надто глибоко загруз.
+loc_past_interrogator_a__story_echo_zola_18_a_01,"Ах, Орґустіне. Я якраз збирався послати по вас."
+loc_past_interrogator_a__story_echo_zola_18_c_01,Обставини змінюються. Ви це знаєте.
+loc_past_interrogator_a__story_echo_zola_18_e_01,"О, не сумуйте. І якщо скористаєтеся цим шансом, щоб звести старі рахунки — зробіть це, будь ласка, непомітно."
+loc_past_interrogator_a__story_echo_zola_23_a_01,"Я чув, унизу в Потоці була якась метушня."
+loc_past_interrogator_a__story_echo_zola_23_b_01,Я ж ПРОСИВ бути непомітними.
+loc_past_interrogator_a__story_echo_zola_23_d_01,"Ах. Це інша справа. Але наступного разу, будь ласка, спитайте, перш ніж позичати Бранта. Мені подобається знати, де він."
+loc_past_interrogator_a__story_echo_zola_24_b_01,Вам варто сказати це леді Брамс. Вона обожнює підлабузництво.
+loc_past_interrogator_a__story_echo_zola_24_d_01,Саме так. Хтось із нас має бути з нею в добрих стосунках ... СЛІДЧА Золо.
+loc_past_interrogator_a__story_echo_zola_24_f_01,Ґрендил — так. Я ж за вами спостерігаю.
+loc_past_interrogator_b__story_echo_morrow_04_a_01,"Так ... попри бойові пошкодження і сліди варп-корозії, це безперечно один із Гончих Анґрона. Ви кажете, що розвідувальний взвод його здолав?"
+loc_past_interrogator_b__story_echo_morrow_04_c_01,"Знову це ім’я. Можливо, за ним варто придивитися."
+loc_past_legion_captain_a__story_echo_morrow_05_b_01,Зрадницькі Астартес атакують Ріку Стікс. Комісар Намарк наказав нам порушити їхні лінії постачання.
+loc_past_legion_captain_a__story_echo_morrow_05_d_01,Хіба це має значення?
+loc_past_legion_captain_a__story_echo_morrow_06_b_01,Ті демони розірвали 5-ту роту на шматки! У нас немає жодного шансу!
+loc_past_legion_captain_a__story_echo_morrow_06_d_01,[Пауза] Ні. Ми не можемо— [Постріл із болт-пістолета]
+loc_past_legion_commissar_a__story_echo_morrow_06_a_01,"Відправляйте наступну хвилю, капітане Вандерак."
+loc_past_legion_commissar_a__story_echo_morrow_06_c_01,У вас є обов’язок перед Богом-Імператором. Ви його виконаєте?
+loc_past_legion_commissar_a__story_echo_morrow_06_e_01,"Ви чули наказ, сержанте Морроу?"
+loc_past_legion_commissar_a__story_echo_morrow_09_b_01,"Прикривальний вогонь! Зараз! ... Зроблено, сержанте?"
+loc_past_legion_commissar_a__story_echo_morrow_09_d_01,Ви зробили честь Богові-Імператору.
+loc_past_legion_commissar_a__story_echo_morrow_09_f_01,Відступити? Ми тут НЕ закінчили ще. Кров має литися. Кров має литися...
+loc_past_legion_commissar_a__story_echo_morrow_11_a_01,Люди готові вирушати?
+loc_past_legion_commissar_a__story_echo_morrow_11_c_01,Перепрошую?
+loc_past_legion_commissar_a__story_echo_morrow_11_e_01,Померти на службі Бога-Імператора — найвищий обов’язок. Кров має литися...
+loc_past_legion_trooper_a__story_echo_morrow_07_c_01,Капітанко Вандерак!
+loc_past_legion_trooper_a__story_echo_morrow_08_c_01,Більшість роти вже загинула. Намарк і решту нас погубить.
+loc_past_legion_trooper_a__story_echo_morrow_10_a_01,Загін Кліґа не повернувся. Вони навіть близько до цілі не дісталися.
+loc_past_legion_trooper_a__story_echo_morrow_10_c_01,Намарк з глузду з’їхав. Постійно бурмоче про кров. Чому він досі командує?
+loc_past_legion_trooper_a__story_echo_morrow_10_e_01,Ми ВСІ закінчимо однаково. Побачиш.
+loc_past_legion_trooper_a__story_echo_morrow_12_b_01,Намарк передумав? Як тобі це вдалося?
+loc_past_legion_trooper_a__story_echo_morrow_12_d_01,"Троне... Він мертвий, так? Це ти—?"
+loc_past_legion_trooper_b__story_echo_morrow_07_a_01,"[Брязкіт пляшок] За капітанку Вандерак. Вона була паскудою, але вона була однією з нас."
+loc_past_legion_trooper_b__story_echo_morrow_07_e_01,"Дивно, що ти й досі тиняєшся з нами, сержанте-майоре."
+loc_past_legion_trooper_b__story_echo_morrow_08_a_01,"Скажи мені, що ми повертаємося додому, сержанте."
+loc_past_legion_trooper_b__story_echo_morrow_09_a_01,[Вибух снаряда] [Крик]
+loc_past_legion_trooper_c__story_echo_morrow_07_d_01,Капітанко Вандерак!
+loc_past_legion_trooper_c__story_echo_morrow_07_f_01,"Ага. Великий клятий герой, як ти."
+loc_past_magos_biologis_a__story_echo_brahms_07_a_01,"Вітаю вас, пані."
+loc_past_magos_biologis_a__story_echo_brahms_07_e_01,Доступ: дозволено.
+loc_past_magos_biologis_a__story_echo_brahms_30a_b_01,Припущення: вона може не обмежитися різкими словами.
+loc_past_magos_biologis_a__story_echo_brahms_30a_e_01,Які будуть ваші накази?
+loc_past_matriarch_a__story_echo_brahms_04_b_01,"Авжеж, Еморо. Час обговорити твою спадщину."
+loc_past_matriarch_a__story_echo_brahms_04_d_01,"О, позбав мене цього наївного погляду. Можеш дурити своїх кузенів, але не мене."
+loc_past_matriarch_a__story_echo_brahms_04_e_01,"Тих кузенів, що ще залишилися з нами, між іншим."
+loc_past_matriarch_a__story_echo_brahms_04_f_01,"Хоча, звісно, нічого так і не було доведено."
+loc_past_matriarch_a__story_echo_brahms_04a_b_01,"Без ігор, будь ласка. Не зараз. Це час для правди."
+loc_past_matriarch_a__story_echo_brahms_04a_c_01,Щодо твоєї спадщини? Ти вже на борту. «Скорботна Зоря» тепер твоя.
+loc_past_matriarch_a__story_echo_brahms_04a_e_01,"Саме цього ти й хотіла, чи не так? Стати главою Дому Брамс?"
+loc_past_matriarch_a__story_echo_brahms_04a_f_01,«Скорботна Зоря» не може належати нікому іншому.
+loc_past_matriarch_a__story_echo_brahms_05_b_01,"Невже ти справді думаєш, що твої бажання мають якесь значення?"
+loc_past_matriarch_a__story_echo_brahms_05_c_01,"«Скорботна Зоря» — серце Дому Брамс. Твій обов’язок — оберігати її і все, що в ній є."
+loc_past_matriarch_a__story_echo_brahms_05_d_01,"Якщо, звісно, ти не волієш зректися своєї родини."
+loc_past_matriarch_a__story_echo_brahms_05_f_01,"Звісно ні, люба. Ти просто зречешся самої себе."
+loc_past_matriarch_a__story_echo_brahms_06_a_01,"Послухай мене, Еморо. Мене не цікавлять твої кузени."
+loc_past_matriarch_a__story_echo_brahms_06_b_01,"Мене не цікавить, що ти намагалася мене отруїти ... Так, я про це знаю ..."
+loc_past_matriarch_a__story_echo_brahms_06_c_01,"Ти заслужила цей корабель і все, що з ним пов’язано."
+loc_past_matriarch_a__story_echo_brahms_06_e_01,Ось так. Тримайся за цей гнів. У ньому сила. Тобі вона знадобиться.
+loc_past_matriarch_a__story_echo_brahms_07_b_01,"О, просто відійди від мене."
+loc_past_matriarch_a__story_echo_brahms_07_c_01,"Одна з небагатьох втіх від того, що я покидаю це судно, — більше не терпіти твою присутність, Харібе."
+loc_past_matriarch_a__story_echo_brahms_07_d_01,Я хочу поговорити з ним.
+loc_past_matriarch_a__story_echo_brahms_07_f_01,"Так, звісно. Забирайся геть, техножерче. Від мене ти доброго слова не почуєш."
+loc_past_matriarch_a__story_echo_brahms_08_a_01,"А, ось ти де. Прокинуласья, як я бачу?"
+loc_past_matriarch_a__story_echo_brahms_08_b_01,Безглузде питання. Як інакше ти могла би постійно спостерігати?
+loc_past_matriarch_a__story_echo_brahms_08_c_01,"Ти хочеш, щоб ми повірили, що ти герой. Що твоя жертва врятувала мільярди."
+loc_past_matriarch_a__story_echo_brahms_08_d_01,Я в це не вірю. Великодушність ніколи не була рисою нашої родини.
+loc_past_matriarch_a__story_echo_brahms_08_e_01,Ми егоїстичні до кісток. Жадібність у нас у крові.
+loc_past_matriarch_a__story_echo_brahms_09_a_01,Це ... прощання. Я більше не буду твоєю жертвою.
+loc_past_matriarch_a__story_echo_brahms_09_b_01,"Я віддаю свою доньку замість себе. І вона, і я це заслужили."
+loc_past_matriarch_a__story_echo_brahms_09_c_01,"Як і ти, діду."
+loc_past_matriarch_a__story_echo_brahms_09_d_01,"Вона сильніша, ніж я коли-небудь була."
+loc_past_matriarch_a__story_echo_brahms_09_e_01,"Можливо, саме вона тебе вб’є і позбавить нас від твого прокляття."
+loc_past_matriarch_a__story_echo_brahms_10_b_01,"Наче слова могли б скасувати руйнування, яке ти нам приніс."
+loc_past_matriarch_a__story_echo_brahms_10_c_01,Чому ти просто не мав би пристойності померти?
+loc_past_matriarch_a__story_echo_brahms_10_e_01,"Вони мені нічого не запропонують. Я — Брамс. Беру те, чого бажаю."
+loc_past_mourningstar_officer_a__story_echo_brahms_26_b_01,"Ельдари нападають на судна, пані. На межі досяжності ауспекса."
+loc_past_mourningstar_officer_a__story_echo_brahms_26_d_01,"Вони завжди так роблять: якщо не в один момент, то в наступний."
+loc_past_mourningstar_officer_a__story_echo_brahms_26_f_01,"Вони постійно змінюють курс, щоб йти паралельно нашому. Думаю, вони стежать за нами."
+loc_past_mourningstar_officer_a__story_echo_brahms_26_h_01,"Зараз же, пані."
+loc_past_mourningstar_officer_a__story_echo_brahms_27_b_01,"Авжеж, пані. Вони лишень примарні ауспекси, але, судячи з усього, це ті самі кораблі, що й раніше."
+loc_past_ragged_king_a__story_echo_zola_20_a_01,"Я тебе вб’ю за це, Золо!"
+loc_past_ragged_king_a__story_echo_zola_20_e_01,[Хрускіт перелому кістки] [Крик]
+loc_past_ragged_king_a__story_echo_zola_21_b_01,[Важке дихання] Ти ... переламала мені бісову руку!
+loc_past_ragged_king_a__story_echo_zola_22_a_01,[Важке дихання] Чого ... ти хочеш?
+loc_past_ragged_king_a__story_echo_zola_22_d_01,[Важке дихання] Я не можу. Мене вб’ють.
+loc_past_sergeant_a__story_echo_brahms_27a_a_01,"Скажіть прямо: якщо Ельдари спробують нас атакувати, які у нас шанси?"
+loc_past_sergeant_a__story_echo_brahms_27a_c_01,Не зовсім. Але я все одно питаю.
+loc_past_sergeant_a__story_echo_brahms_27b_a_01,Це вже дванадцятий випадок появи Ельдарів і це мене насторожує.
+loc_past_sergeant_a__story_echo_brahms_27b_c_01,"А що як вони не шукають бою, а намагаються встановити контакт?"
+loc_past_sergeant_a__story_echo_brahms_27b_e_01,"Може, у них немає вибору, сер."
+loc_past_sergeant_a__story_echo_marshal_01_a_01,Що це все означає?
+loc_past_sergeant_a__story_echo_marshal_01_d_01,"Справді? Ну, сер ... Я підзвітний Ґрендилу. І лише Ґрендилу."
+loc_past_sergeant_a__story_echo_morrow_05_a_01,"Ви хотіли мене бачити, пані?"
+loc_past_sergeant_a__story_echo_morrow_05_c_01,"Комісар Намарк, пані? Це самогубна місія?"
+loc_past_sergeant_a__story_echo_morrow_05_e_01,"Ні, пані."
+loc_past_sergeant_a__story_echo_morrow_06_f_01,"Так, сер. [Гучніше] До роботи, ви вилупки! Рухайтеся!"
+loc_past_sergeant_a__story_echo_morrow_07_b_01,Капітанко Вандерак!
+loc_past_sergeant_a__story_echo_morrow_07_g_01,"Ніде більше не хочу бути. Ви вилупки, але ви мої вилупки."
+loc_past_sergeant_a__story_echo_morrow_08_b_01,Місія не завершена. Комісар наказує залишатися.
+loc_past_sergeant_a__story_echo_morrow_08_d_01,"Так, ну таке вже життя, чи не так? Готуйте зброю ... і ваше поведінку. Зрозуміли?"
+loc_past_sergeant_a__story_echo_morrow_09_c_01,"Так, сер. Ось-ось піднімуться-- [Вибух]"
+loc_past_sergeant_a__story_echo_morrow_09_e_01,"Так, сер. Я віддам наказ на відступ, сер."
+loc_past_sergeant_a__story_echo_morrow_10_b_01,Так воно і буває.
+loc_past_sergeant_a__story_echo_morrow_10_d_01,Бо всі інші ставили під сумнів його накази. Хочете закінчити так само?
+loc_past_sergeant_a__story_echo_morrow_10_f_01,Може. Може ні.
+loc_past_sergeant_a__story_echo_morrow_11_b_01,"Ні, сер."
+loc_past_sergeant_a__story_echo_morrow_11_d_01,Вони більше нічого не можуть дати. Відправте їх ще раз — і вони загинуть за хвилини.
+loc_past_sergeant_a__story_echo_morrow_11_f_01,Так ... щодо цього. [Постріл лазпістолета]
+loc_past_sergeant_a__story_echo_morrow_12_a_01,Ми прямуємо додому. Повідомте інших.
+loc_past_sergeant_a__story_echo_morrow_12_c_01,"Краще, щоб ви не знали."
+loc_past_sergeant_a__story_echo_morrow_12_e_01,"[Стиснуті зуби] Повідомте всьому клятому світу, чому б і ні? [Гучніше] Комісар Намарк загинув героєм. МИ повертаємося до полку і назад до справжньої війни. Зрозуміли?"
+loc_past_sergeant_a__story_echo_morrow_32_b_01,"Так, сер. Дякую, сер. Не знаю, що на мене найшло."
+loc_past_sergeant_a__story_echo_morrow_32_d_01,"Спробуйте зупинити мене, сер."
+loc_past_sergeant_a__story_echo_zola_17_b_01,"Я ... не знаю. Між нами, у мене голова трохи в безладі. А у вас?"
+loc_past_sergeant_a__story_echo_zola_17_d_01,"Так. Так воно і буває. Якби ж у вас був доступ до ресурсів могутнього Інквізитора, еге ж?"
+loc_past_sergeant_a__story_echo_zola_32_b_01,Розвідгрупа Дванадцять ніколи не залишала «Скорботну Зорю».
+loc_past_sergeant_a__story_echo_zola_32_d_01,"Їхнє завдання не з’явилося в розкладі, тому я його витягнув."
+loc_past_sergeant_a__story_echo_zola_32_f_01,"Ви чули, і вам зараза пощастило, що я це зробив."
+loc_past_sergeant_a__story_echo_zola_32_g_01,Раннік останнім часом стежить за пересуваннями як кібер-ворон — особливо за Вульфером.
+loc_past_sergeant_a__story_echo_zola_33_a_01,"Хочеш жити в «собачій будці», це твоя справа, але не тягни туди моїх солдатів."
+loc_past_sergeant_a__story_echo_zola_33_c_01,"Вони лише Вигнанці, коли можуть мене чути."
+loc_past_sergeant_a__story_echo_zola_33_e_01,"Щось на кшталт того. Не очікую, що ти зрозумієш."
+loc_past_sergeant_a__story_echo_zola_34_a_01,"Ти навіть не можеш провести місію втиху, щоб не спіймали."
+loc_past_sergeant_a__story_echo_zola_34_c_01,"Не розумію, що ти маєш на увазі."
+loc_past_sergeant_a__story_echo_zola_34_d_01,"Також я нічого не знаю про запуск із Ангару 12-Гамма-Найнер, що відбувається прямо зараз."
+loc_past_sergeant_a__story_echo_zola_34_e_01,"Гадаю, це збій у логах, якщо розумієш про що я?"
+loc_past_sergeant_a__story_echo_zola_34_g_01,"Просто прикрий пельку, зрозумів? І нічого дурного не роби."
+loc_past_shipmistress_a__story_echo_brahms_04_a_01,"Ти завала мене, мати?"
+loc_past_shipmistress_a__story_echo_brahms_04_c_01,Моя спадщина?
+loc_past_shipmistress_a__story_echo_brahms_04a_a_01,"Мої кузени, мати? Я не розумію."
+loc_past_shipmistress_a__story_echo_brahms_04a_d_01,Ні. Зачекай ... Я--
+loc_past_shipmistress_a__story_echo_brahms_05_a_01,Цей корабель проклятий. Я його не хочу.
+loc_past_shipmistress_a__story_echo_brahms_05_e_01,"Ти б ... зреклася мене, мати?"
+loc_past_shipmistress_a__story_echo_brahms_06_d_01,ДЯКУЮ.
+loc_past_shipmistress_a__story_echo_brahms_16_a_01,Ви — Слідчий Раннік?
+loc_past_shipmistress_a__story_echo_brahms_16_c_01,"Сподіваюся, що ваші покої вас задовольняють."
+loc_past_shipmistress_a__story_echo_brahms_16_e_01,Ні.
+loc_past_shipmistress_a__story_echo_brahms_17_a_01,"Я вас попереджаю, слідчий--"
+loc_past_shipmistress_a__story_echo_brahms_17_c_01,-- що не потерплю зараження цих ... ШТУК на моєму кораблі.
+loc_past_shipmistress_a__story_echo_brahms_17_e_01,"Краще, щоб ви були праві."
+loc_past_shipmistress_a__story_echo_brahms_17_g_01,"Гадаю, побачимо."
+loc_past_shipmistress_a__story_echo_brahms_18_b_01,Скажіть мені ... ви колись зустрічали Ґрендила?
+loc_past_shipmistress_a__story_echo_brahms_18_d_01,Це питання. Будьте ласкаві відповісти.
+loc_past_shipmistress_a__story_echo_brahms_19_a_01,"Що ж до ваших тверджень, що забруднення Ксанатроса не торкнеться «Скорботної Зорі»."
+loc_past_shipmistress_a__story_echo_brahms_19_e_01,"Це огидна істота. Ви впевнені, що вона мертва?"
+loc_past_shipmistress_a__story_echo_brahms_23a_b_01,"Так. Магос Біологіс Харіб скаржився, що ваші сервочерепи шпигують у його ... лігві."
+loc_past_shipmistress_a__story_echo_brahms_23a_d_01,Не дивуйтеся. І не шпигуйте за Харібом.
+loc_past_shipmistress_a__story_echo_brahms_23a_e_01,Інакше я висаджу вас з корабля і ризикну незадоволення Ґрендила.
+loc_past_shipmistress_a__story_echo_brahms_24_b_01,Перепрошую. Ви зі мною розмовляли?
+loc_past_shipmistress_a__story_echo_brahms_24_d_01,"І як наслідок, ви очікуєте, що я зберігатиму його таємниці."
+loc_past_shipmistress_a__story_echo_brahms_25_a_01,"Сподіваюся, ви задоволені. Я залишила слід порушених контрактів і незавершених переговорів по всьому сегментуму, і заради чого?"
+loc_past_shipmistress_a__story_echo_brahms_25_c_01,"Ви постійно так кажете. Окрім того, що необхідне для вас, не обов’язково для мене."
+loc_past_shipmistress_a__story_echo_brahms_25_e_01,Ви дали мамі таку обіцянку?
+loc_past_shipmistress_a__story_echo_brahms_26_a_01,Що це?
+loc_past_shipmistress_a__story_echo_brahms_26_c_01,Вони ворожі?
+loc_past_shipmistress_a__story_echo_brahms_26_e_01,А в цей момент?
+loc_past_shipmistress_a__story_echo_brahms_26_g_01,Ми не можемо ризикувати боєм. Нехай Кайекс розбудить Варп-привід.
+loc_past_shipmistress_a__story_echo_brahms_27_a_01,Дозвольте здогадатися: знову Ельдари?
+loc_past_shipmistress_a__story_echo_brahms_27_c_01,"Ви маєте уявлення, чого вони хочуть, слідчий?"
+loc_past_shipmistress_a__story_echo_brahms_27_e_01,Що ж до прозорливості Інквізиції.
+loc_past_shipmistress_a__story_echo_brahms_36_a_01,"Цей ваш світ краще, щоб був вартий проблем."
+loc_past_shipmistress_a__story_echo_brahms_36_c_01,Віра в Імператора — це одне. Віра в Ґрендила — зовсім інше.
+loc_past_shipmistress_a__story_echo_brahms_36_e_01,"Інших таких, як Я, немає, золотце. Май це на увазі."
+loc_past_tech_priest_a__story_echo_brahms_27a_b_01,Ви справді хочете отримати відповідь на це питання?
+loc_past_tech_priest_a__story_echo_brahms_27a_d_01,Скажімо так ...
+loc_past_tech_priest_a__story_echo_brahms_27a_e_01,"Незважаючи на деталі ксенос-сили, я б радила вам особливо ревно молитися Імператору."
+loc_past_tech_priest_a__story_echo_zola_31_a_01,Ми сліпі в Потоці.
+loc_past_tech_priest_a__story_echo_zola_31_c_01,Ймовірності не підтримують такого висновку. Це скаже Дознавач Раннік.
+loc_past_tech_priest_a__story_echo_zola_31_e_01,"Ґрендил говоритиме, коли захоче."
+loc_past_young_explicator_a__story_echo_zola_01_a_01,"Я не розумію, чому ти мусиш йти."
+loc_past_young_explicator_a__story_echo_zola_01_c_01,Ні. ДЕСЯТИННИК забирає мого брата від мене.
+loc_past_young_explicator_a__story_echo_zola_01_e_01,Добре. Будьте героєм Імператора. Ви завжди були моїм.
+loc_past_young_explicator_a__story_echo_zola_02_b_01,"[Боротьба з захоплювачами] Віддай це, Макко! Це моє!"
+loc_past_young_explicator_a__story_echo_zola_02_d_01,Я можу про себе подбати.
+loc_past_young_explicator_a__story_echo_zola_03_a_01,Макко ... прокинься ...
+loc_past_young_explicator_a__story_echo_zola_03_c_01,"Я можу проникнути КУДИ ЗАХОЧУ. І я тут, щоб інші члени екіпажу залишили мене в спокої в майбутньому."
+loc_past_young_explicator_a__story_echo_zola_04_a_01,"Непоганий здобуток, якщо я можу так сказати. Ти все ще хочеш, щоб Макко керував усім?"
+loc_past_young_explicator_a__story_echo_zola_04_c_01,"Запам’ятай це. І пам’ятай, що я отримую двадцять відсотків, одразу з верхівки."
+loc_past_young_explicator_a__story_echo_zola_04_e_01,Звісно.
+loc_training_ground_psyker_a__eavesdropping_training_ground_psyker_01,"Ви ж пам’ятаєте, що я можу читати ваші думки?"
+loc_training_ground_psyker_a__eavesdropping_training_ground_psyker_02,Я чую вас. Я завжди чую вас.
+loc_training_ground_psyker_a__eavesdropping_training_ground_psyker_03,Ви про мене говорите? Не брешіть. Я дізнаюся.
+loc_training_ground_psyker_a__eavesdropping_training_ground_psyker_04,Я чую вас. Вам слід пам’ятати про це в майбутньому.
+loc_training_ground_psyker_a__eavesdropping_training_ground_psyker_05,"Я почув, як моє ім’я згадали? Мені слід глибше заглянути у ваші думки?"
+loc_training_ground_psyker_a__event_demolition_first_corruptor_destroyed_b_05,Дуже добре. Зачекайте … а що з рештою?
+loc_training_ground_psyker_a__event_demolition_last_corruptor_02,Ще один! Не змушуйте Сефоні чекати!
+loc_training_ground_psyker_a__event_demolition_more_corruptors_01,"О, подивіться, що Сефоні знайшла!"
+loc_training_ground_psyker_a__event_demolition_more_corruptors_02,"Сефоні знайшла вам ще речей, щоб знищити!"
+loc_training_ground_psyker_a__event_demolition_more_corruptors_03,"[Сміх] Сефоні має ще для вас, що вбивати!"
+loc_training_ground_psyker_a__event_demolition_more_corruptors_04,Ви повинні продовжувати вбивати. Так. ТАК!
+loc_training_ground_psyker_a__event_demolition_more_corruptors_05,Вам слід мати ще що вбивати. Ви знали про це?
+loc_training_ground_psyker_a__event_demolition_more_corruptors_06,Більше демонічних ... речей ... чекає вашого ніжного дотику.
+loc_training_ground_psyker_a__event_scan_all_targets_scanned_a_01,У вас є всі дані. Передайте їх сервочерепу.
+loc_training_ground_psyker_a__event_scan_all_targets_scanned_a_02,"Передайте ці дані сервочерепу, перш ніж єретики відновлять сили."
+loc_training_ground_psyker_a__event_scan_all_targets_scanned_a_03,"Вам слід завантажувати свої дані. Сефоні цікаво, чому ви цього не робите."
+loc_training_ground_psyker_a__event_scan_all_targets_scanned_a_04,Передайте свої дані сервочерепу. Він дуже нетерплячий. Як і Сефоні.
+loc_training_ground_psyker_a__event_scan_find_targets_first_a_01,Тут вам слід сканувати. Використовуйте свої ауспекси.
+loc_training_ground_psyker_a__event_scan_find_targets_first_a_02,Хіба Сефоні не мила? Вона наснила вам деякі ауспекси.
+loc_training_ground_psyker_a__event_scan_find_targets_first_a_03,"Вам знадобляться ауспекси. Так, знадобляться ..."
+loc_training_ground_psyker_a__event_scan_find_targets_first_a_04,"Сефоні вважає, що саме час для ауспексів."
+loc_training_ground_psyker_a__event_scan_find_targets_more_a_01,"Вам потрібно більше даних. Так, потрібно. Більше сканування. Так."
+loc_training_ground_psyker_a__event_scan_find_targets_more_a_02,Більше даних! Сефоні бажає більше даних!
+loc_training_ground_psyker_a__event_scan_find_targets_more_a_03,Тут десь є ще дані. Знайдіть їх для Сефоні.
+loc_training_ground_psyker_a__event_scan_find_targets_more_a_04,Тут більше нічого не дізнатися. Йдіть кудись ще. Дізнавайтеся більше.
+loc_training_ground_psyker_a__event_scan_skull_waiting_01,Сервочереп чекає на вас.
+loc_training_ground_psyker_a__event_scan_skull_waiting_02,"Сервочереп сумує, бо ви його ігноруєте."
+loc_training_ground_psyker_a__horde_break_ice_a_03,Покоруйте Сефоні: розбийте лід!
+loc_training_ground_psyker_a__horde_claim_prize_a_03,Сефоні охоче віддає Смертельну Реліквію.
+loc_training_ground_psyker_a__horde_claim_prize_a_05,"Мій господар каже, що ви заслужили Смертельну Реліквію."
+loc_training_ground_psyker_a__horde_claim_prize_a_07,Сефоні дозволить вам взяти Смертельну Реліквію. Бо Сефоні вас любить.
+loc_training_ground_psyker_a__horde_claim_prize_a_09,"Добре. Візьміть Смертельну Реліквію. Сефоні вважає, що ви її заслужили."
+loc_training_ground_psyker_a__horde_defend_area_a_02,Тримайтеся. Доведіть свій характер!
+loc_training_ground_psyker_a__horde_defend_area_a_10,Обороняйте цю територію своїми життями. Саме цього Сефоні хоче від вас.
+loc_training_ground_psyker_a__horde_mission_complete_a_04,"Сефоні задоволена, що ви перемогли. Наступного разу може й ні."
+loc_training_ground_psyker_a__horde_mission_complete_a_05,Молодці. Час повертатися у світ живих.
+loc_training_ground_psyker_a__horde_mission_complete_a_08,"Молодці! Сефоні задоволена, що ви не повні невдахи!"
+loc_training_ground_psyker_a__horde_mode_failed_a_01,Сефоні ДУЖЕ розчарована вами.
+loc_training_ground_psyker_a__horde_mode_failed_a_02,"Ви підвели Сефоні. Сподіваюся, вам соромно."
+loc_training_ground_psyker_a__horde_mode_failed_a_03,"Підвели? Це дуже розчаровує. Сподіваюся, вам соромно."
+loc_training_ground_psyker_a__horde_mode_failed_a_04,Ви мали б поводитися краще! Сефоні дуже-дуже незадоволена.
+loc_training_ground_psyker_a__horde_mode_failed_a_05,"Сефоні думала, що ви краще впораєтеся. Сефоні явно була дуже дурною."
+loc_training_ground_psyker_a__horde_new_wave_start_post_upgrade_a_01,Час застосувати вашу нову іграшку!
+loc_training_ground_psyker_a__horde_new_wave_start_post_upgrade_a_03,"Сефоні цікаво, що трапиться тепер."
+loc_training_ground_psyker_a__horde_new_wave_start_post_upgrade_a_05,Йдіть! Використайте поблажки Сефоні на користь!
+loc_training_ground_psyker_a__horde_objective_a_01,У вас нова мета. Бачите?
+loc_training_ground_psyker_a__horde_objective_a_02,"Хіба у вас немає чогось, чим слід зайнятися?"
+loc_training_ground_psyker_a__horde_objective_a_03,"Є завдання, що чекає на вашу увагу."
+loc_training_ground_psyker_a__horde_objective_a_04,"Сефоні вважає, що вам краще цим зайнятися."
+loc_training_ground_psyker_a__horde_objective_a_06,Ви виглядаєте нудьгуючими. Ось вам завдання. [Сміх]
+loc_training_ground_psyker_a__horde_objective_a_07,Подивіться на це: ціль! Як вона тут опинилася?
+loc_training_ground_psyker_a__horde_objective_a_08,"Завдання! Сефоні не знає, як воно тут з’явилося. [Сміх] Сефоні така брехуха."
+loc_training_ground_psyker_a__horde_objective_a_09,"Сефоні не хотіла б, щоб вам було нудно."
+loc_training_ground_psyker_a__horde_objective_a_10,Сефоні має для вас щось зробити. Сефоні — любов.
+loc_training_ground_psyker_a__horde_open_gate_a_01,Ви повинні зараз відкрити ворота. Сефоні наказує!
+loc_training_ground_psyker_a__horde_open_gate_a_03,Ці ворота не можуть залишатися зачиненими. Не можуть. Відкрийте їх для Сефоні.
+loc_training_ground_psyker_a__horde_open_gate_a_05,Ворота не можуть залишатися зачиненими! Відкрийте. Так.
+loc_training_ground_psyker_a__horde_safe_zone_a_01,"Ах ... ось ти. Сподіваюся, готові до пригод?"
+loc_training_ground_psyker_a__horde_safe_zone_a_04,"Ви готові? Чесно кажучи, я не можу цього зрозуміти у вас."
+loc_training_ground_psyker_a__horde_safe_zone_a_08,"Тут дивний запах. Ви витерли ноги, перш ніж зайти в мій розум?"
+loc_training_ground_psyker_a__horde_safe_zone_a_09,"Подивіться на себе. Такі чисті і незіпсовані. Подивимося, що з цим зробимо."
+loc_training_ground_psyker_a__horde_safe_zone_a_15,"Мій господар іноді спостерігає за цими Смертельними випробуваннями. Можливо, зараз він спостерігає."
+loc_training_ground_psyker_a__horde_safe_zone_a_18,"Сефоні підготувала чудове Смертельне випробування. Вона сподівається, що ви виживете."
+loc_training_ground_psyker_a__horde_safe_zone_b_09,"Виберіть архетип поблажки, і він стане вашим. Сефоні — щедра богиня. [Сміх]"
+loc_training_ground_psyker_a__horde_wave_interstitial_strain_a_01,Сефоні не … дуже добре себе почуває …
+loc_training_ground_psyker_a__horde_wave_interstitial_strain_a_02,Не можу … зосередитися …
+loc_training_ground_psyker_a__horde_wave_interstitial_strain_a_03,Бідна Сефоні ... голова пульсує …
+loc_training_ground_psyker_a__horde_wave_interstitial_strain_a_04,Ні ... Це неправильно …
+loc_training_ground_psyker_a__horde_wave_interstitial_strain_a_05,Чому … ? Що це було … ?
+loc_training_ground_psyker_a__horde_wave_interstitial_strain_a_06,Все … розмивається …
+loc_training_ground_psyker_a__horde_wave_interstitial_strain_a_07,"Це ... не так, як має бути …"
+loc_training_ground_psyker_a__horde_wave_interstitial_strain_a_08,Чому все … розмито?
+loc_training_ground_psyker_a__horde_wave_interstitial_strain_a_09,"Такі гарні кольори … Гарні, гарні кольори …"
+loc_training_ground_psyker_a__horde_wave_interstitial_strain_a_10,Болить … БОЛИТЬ … Допоможіть … мені …
+loc_training_ground_psyker_a__horde_wave_start_01_a_04,[Сміх] Хай гра почнеться. Сефоні має гарне передчуття щодо цього.
+loc_training_ground_psyker_a__horde_wave_start_03_a_06,У мене ще темніші думки ... Проте вони не підведуть.
+loc_training_ground_psyker_a__horde_wave_start_03_a_09,Сефоні ... не здасться ... вона зламає вас ... усіх ...
+loc_training_ground_psyker_a__hub_horde_greeting_agnostic_a_01,"Хочете перевірити свій розум проти Сефоні? Ви знаєте, де вона."
+loc_training_ground_psyker_a__hub_horde_greeting_agnostic_a_02,Сефоні хотіла б побачити вас для додаткового тренування. Якщо ви не надто зайняті.
+loc_training_ground_psyker_a__hub_horde_greeting_agnostic_a_03,"Чому ви уникаєте Сефоні, коли у неї стільки чудових речей для вас?"
+loc_training_ground_psyker_a__hub_horde_greeting_agnostic_a_04,Сефоні чекає … Не змушуйте її чекати занадто довго.
+loc_training_ground_psyker_a__hub_horde_greeting_agnostic_a_05,"Йдіть до Сефоні. Вона має багато насолод і чудес, щоб показати вам. [Сміх]"
+loc_training_ground_psyker_a__info_event_demolition_corruptors_almost_done_01,Майже там! Лишилося трохи!
+loc_training_ground_psyker_a__info_event_demolition_corruptors_almost_done_02,Ви робите ДУЖЕ добрий прогрес.
+loc_training_ground_psyker_a__info_event_demolition_corruptors_almost_done_03,"Сефоні думала, що ви вб’єте їх швидше."
+loc_training_ground_psyker_a__info_event_demolition_corruptors_almost_done_04,"Сефоні досі вважає, що це можна зробити швидше."
+loc_training_ground_psyker_a__info_event_demolition_corruptors_almost_done_05,Залишилося небагато. Це добре.
+loc_training_ground_psyker_a__info_event_demolition_corruptors_almost_done_06,Ви майже закінчили. Майже.
+loc_training_ground_psyker_a__wave_start_armored_infected_a_01,"Ой лишенько. Мабуть, хтось використовував трохи «забруднені» стимулятори …"
+loc_training_ground_psyker_a__wave_start_armored_infected_a_02,"О, дивіться! Броньовані Чумоходи! Це буде цікаво!"
+loc_training_ground_psyker_a__wave_start_armored_infected_a_03,Я думаю ... Броньовані Чумоходи! Так!
+loc_training_ground_psyker_a__wave_start_armored_infected_a_04,"Сефоні хоче зробити цікаво. Броньовані Чумоходи цікаві, так?"
+loc_training_ground_psyker_a__wave_start_chaos_ogryn_a_01,"Огріни для всіх ... Тобто для вас, за словами Сефоні!"
+loc_training_ground_psyker_a__wave_start_chaos_ogryn_a_02,"Огріни завжди веселі, правда? Сефоні так вважає."
+loc_training_ground_psyker_a__wave_start_chaos_ogryn_a_03,Хто хоче Огрінів? ... Сефоні лише жартує. Вибору немає.
+loc_training_ground_psyker_a__wave_start_chaos_ogryn_a_04,"Гадаю, час для Огрінів, так? Усі ЛЮБЛЯТЬ час Огрінів."
+loc_training_ground_psyker_a__wave_start_daemonhost_a_01,"О, дивіться! Демононосій. Сефоні не ставила його сюди ... чи не так?"
+loc_training_ground_psyker_a__wave_start_daemonhost_a_02,"Той звук ... Це Демононосій? ... Це він ... Ох, лишенько."
+loc_training_ground_psyker_a__wave_start_daemonhost_a_03,"Що ти робиш в Смертельному випробуванні Сефоні, Демононосію?"
+loc_training_ground_psyker_a__wave_start_daemonhost_a_04,Звідки взявся цей Демононосій. Вбий його! Вбий його!
+loc_training_ground_psyker_a__wave_start_flamers_a_01,"Хтось мерзне? Так не можна, правда?"
+loc_training_ground_psyker_a__wave_start_flamers_a_02,"Сефоні вважає, що час підвищити температуру."
+loc_training_ground_psyker_a__wave_start_monsters_a_01,"Щось велике наближається ... Ні! Їх більше, ніж один!"
+loc_training_ground_psyker_a__wave_start_monsters_a_02,"Одна потворна істота нудна, так? Сефоні так вважає."
+loc_training_ground_psyker_a__wave_start_monsters_a_03,Монстри! Усі люблять монстрів! ... Сефоні все одно любить монстрів.
+loc_training_ground_psyker_a__wave_start_monsters_a_04,Монстри! Потвори! Великі й лютий. Дуже незадоволені! ЦЕ весело.
+loc_training_ground_psyker_a__wave_start_mutants_a_01,Що за звук? Чуєте? Щось гучне й сердите ...
+loc_training_ground_psyker_a__wave_start_mutants_a_04,"Сефоні сподівається, що вам сподобаються мутанти. Вони люблять вас."
+loc_training_ground_psyker_a__wave_start_netgunner_a_01,Пасткарі йдуть. Краще бути легкими на ногах!
+loc_training_ground_psyker_a__wave_start_netgunner_a_02,"Гадаю, час для Пасткарів!"
+loc_training_ground_psyker_a__wave_start_netgunner_a_03,"Час Пасткарів! Ви ж ЛЮБИТЕ Пасткарів, правда?"
+loc_training_ground_psyker_a__wave_start_netgunner_a_04,Вам слід тримати очі відкритими. Багато Пасткарів ідуть до вас ...
+loc_training_ground_psyker_a__wave_start_poxbursters_a_02,Сефоні привела вам кілька дуже нестабільних друзів.
+loc_training_ground_psyker_a__wave_start_poxbursters_a_03,"Пульсуючі, тремтячі, розбризкувані Чумовибухачі. [Сміх]"
+loc_training_ground_psyker_a__wave_start_poxbursters_a_04,"Сефоні не любить Чумовибухачів, тож сміливо вбивайте їх усіх."
+loc_training_ground_psyker_a__wave_start_snipers_a_01,"Сподіваюся, вам подобаються снайпери! Багато-багато снайперів!"
+loc_training_ground_psyker_a__wave_start_snipers_a_02,"Сефоні вважає, що буде веселіше, якщо ви загинете здалеку."
+loc_training_ground_psyker_a__wave_start_snipers_a_03,"Снайпери завжди роблять все весело, так?"
+loc_training_ground_psyker_a__wave_start_snipers_a_04,Сефоні любить снайперів. Так загадково. Так смертельно.
+loc_training_ground_psyker_a__wave_start_twins_a_01,"Ви пам’ятаєте близнюків Карнак, правда?"
+loc_training_ground_psyker_a__wave_start_twins_a_02,"Сефоні вважає, що вам слід зараз битися з близнюками Карнак."
+loc_training_ground_psyker_a__wave_start_twins_a_03,Сефоні хоче представити нових ігрових партнерів: Родіна і Рінду Карнак!
+loc_training_ground_psyker_a__wave_start_twins_a_04,Родін? Рінда? ... Сефоні потребує вас зараз!
+loc_hordes_buff_coherency_corruption_healing_description,Лікування {heal:%s} погані з поточної Рани для всіх у Єдності.
+loc_hordes_buff_two_extra_wounds_description,Отримати {wounds} додаткових Рани.
+loc_hordes_buff_coherency_corruption_healing_title,Заспокійливе Благословення
+loc_hordes_buff_two_extra_wounds_title,Невтомний

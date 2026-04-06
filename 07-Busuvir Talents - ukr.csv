@@ -1,0 +1,171 @@
+﻿key,value
+loc_ability_zealot_stealth,Покров тіней
+loc_ability_zealot_stealth_rending_description,"Вхід у невидимість на {duration:%s}с. Під час невидимості надається {movement_speed:%s} швидкість руху, {backstab_damage:%s} шкода від ударів у спину, {finesse_damage:%s} вправність атаки, {crit_chance:%s} шанс критичного удару та {rending:%s} пробиття у ближньому бою. атака знімає ефект невидимості.
+
+Базове Перезарядка: {cooldown:%s}с."
+loc_talent_maniac_attack_speed_after_dash,Лють віруючих
+loc_talent_maniac_cooldown_on_melee_crits,Заклик смерті
+loc_talent_maniac_cooldown_on_melee_crits_buff_desc,{cooldown_regen:%s} відновлення перезарядження здібностей протягом {duration:%s}с після критичних ударів у ближньому бою.
+loc_talent_reduced_damage_after_dodge,Гарна рівновага
+loc_talent_reduced_damage_after_dodge_description,Успішне ухилення надає {damage:%s} зменшення отриманої шкоди на {duration:%s}с.
+loc_talent_zealot_3_passive_2,Очищення нечистих
+loc_talent_zealot_3_passive_2_description,{damage:%s} до шкоди проти заражених і непохитних ворогів.
+loc_talent_zealot_3_tier_1_ability_3,Міць віри
+loc_talent_zealot_3_tier_1_ability_3_description,{health_segment:%s} рани.
+loc_talent_zealot_3_tier_2_ability_1,Зневага
+loc_talent_zealot_3_tier_2_ability_1_description,{damage:%s} до шкоди до наступної атаки у ближньому бою за кожного влученого ворога. Накопичується до {max_stacks:%s} разів.
+loc_talent_zealot_3_tier_3_ability_1,Відплата владики
+loc_talent_zealot_3_tier_3_ability_1_description,Відкидує атакуючого ворога при отриманні удару у ближньому бою. Перезарядка: {cooldown:%s}с.
+loc_talent_zealot_3_tier_3_ability_2,Кров за імператора
+loc_talent_zealot_3_tier_3_ability_2_description,"Шкода, яка мала б перевести здоров’я у наступну рану, зменшується на {damage_reduction:%s}."
+loc_talent_zealot_3_tier_4_ability_3,Щит презирства
+loc_talent_zealot_3_tier_4_ability_3_description,"Коли гравець або союзник у єдності отримує пошкодження, вони отримують {damage_reduction:%s} зменшення шкоди на {duration:%s}с. Спрацьовує кожні {cooldown:%s}с."
+loc_talent_zealot_attack_speed,Шал віри
+loc_talent_zealot_attack_speed_after_dash_new_desc,"Ривок уперед, відновлює {toughness:%s} щитів танадає  {attack_speed:%s} швидкості атаки на {time:%s}с. Наступний удар у ближньому бою завдає {damage:%s} шкоди, має {rending:%s} пробиття і гарантує критичний удар.
+
+Базова перезарядка: {cooldown:%s}с
+
+Це посилена версія здібності {talent_name:%s}."
+loc_talent_zealot_attack_speed_desc,{attack_speed:%s} швидкості атаки у ближньому бою.
+loc_talent_zealot_attack_speed_per_martyrdom,Божевільний
+loc_talent_zealot_attack_speed_per_martyrdom_upd_desc,{talent_name:%s} надає {attack_speed:%s} швидкості атаки за кожен стак.
+loc_talent_zealot_aura_efficiency,Благословення
+loc_talent_zealot_backstab_flanking_damage_all_desc,{damage:%s} до шкоди при ударах у спину та з флангу.
+loc_talent_zealot_backstab_kills_restore_cd,Благочестива головорізка
+loc_talent_zealot_backstab_periodic_damage,Час вбивати
+loc_talent_zealot_backstab_periodic_damage_desc,{damage:%s} до шкоди при ударі у спину в ближньому бою. Перезарядка: {cooldown:%s}с.
+loc_talent_zealot_bled_enemies_take_more_damage,Засліплений кров’ю
+loc_talent_zealot_bled_enemies_take_more_damage_desc,Кровоточиві вороги отримують на {damage_taken:%s} більше шкоди протягом {duration:%s}с.
+loc_talent_zealot_bleed_melee_crit_chance,Бич
+loc_talent_zealot_bleed_melee_crit_chance_desc,"Критичні удари у ближньому бою накладають кровотечу, що завдає шкоди з часом.
+
+Удари у ближньому бою по кровоточивих ворогах надають {crit_chance:%s} шансу критичного удару на {duration:%s}с. Накопичується до {max_stacks:%s} разів."
+loc_talent_zealot_block_dodging,Непробивний
+loc_talent_zealot_block_dodging_desc,Отримати {block_cost:%s} зменшення витрат блоку під час ухилення і протягом {linger_time:%s}с після нього. Ідеальний блок удару відновлює {dodges:%s} ухилення. Внутрішня перезарядка: {cooldown:%s}с.
+loc_talent_zealot_bolstering_prayer,Хор духовної міці
+loc_talent_zealot_bolstering_prayer_combined_description,"Використання священної реліквії, що випромінює імпульси енергії кожні {interval:%s}с. Під час використання союзники в єдності отримують імунітет до оглушення та невразливість.
+
+Кожен імпульс відновлює {toughness:%s} щитів союзникам у єдності. Якщо союзник має повні щити, він натомість отримує {flat_toughness:%s} до макс. щитів (до {max_toughness}).
+
+Кожен імпульс також збиває з рівноваги та пригнічує ворогів. Дальність збільшується з кожним імпульсом.
+
+Базове Перезарядка: {cooldown:%s}с."
+loc_talent_zealot_cooldown_on_backstab_weakspot_desc,{cooldown:%s} відновлення перезарядження здібності протягом {duration:%s}с після удару у спину або по слабкому місцю у ближньому бою.
+loc_talent_zealot_corruption_healing_coherency_improved,Маяк чистоти
+loc_talent_zealot_corruption_healing_coherency_improved_desc,Зцілює {corruption:%s} погані з поточної рани для гравця та союзників у єдності кожні {interval:%s}с.
+loc_talent_zealot_corruption_resistance_stacking,На межі
+loc_talent_zealot_corruption_resistance_stacking_desc,{talent_name:%s} надає {corruption_resistance:%s} опору погані за кожен стак.
+loc_talent_zealot_damage_after_heavy_attack,Кара нечестивців
+loc_talent_zealot_damage_based_on_stamina_desc,До {damage:%s} збільшення шкоди у ближньому бою залежно від втраченої витривалості.
+loc_talent_zealot_damage_taken_restores_cd,Мета мученика
+loc_talent_zealot_damage_taken_restores_cd_new_description,До {cooldown_regen:%s} відновлення перезарядження здібностей залежно від втраченої кількості здоров’я. Максимум досягається при {current_health:%s} поточного здоров’я.
+loc_talent_zealot_damage_vs_elites,Знищення богохульників
+loc_talent_zealot_damage_vs_elites_desc,{damage:%s} до шкоди проти елітних ворогів.
+loc_talent_zealot_damage_vs_nonthreat,Невидимий клинок
+loc_talent_zealot_damage_vs_nonthreat_desc,"{damage:%s} до шкоди проти ворогів, які не націлені на гравця."
+loc_talent_zealot_dash_has_more_charges,Подвоєна ревність
+loc_talent_zealot_dash_has_more_charges_desc,{talent_name:%s} тепер має {charges:%s} заряди.
+loc_talent_zealot_dash_increased_duration,Невпинна лють
+loc_talent_zealot_dodge_improvements,Невгасима ревність
+loc_talent_zealot_duelist_new_desc,{damage:%s} до шкоди від вправності протягом {duration:%s}с після успішного ухилення.
+loc_talent_zealot_elite_kills_empowers,Першочергова ціль
+loc_talent_zealot_elite_kills_empowers_desc,{damage:%s} до шкоди та {toughness:%s} відновлення щитів протягом {duration:%s}с після вбивства елітного ворога.
+loc_talent_zealot_fanatic_rage,Палаюча побожність
+loc_talent_zealot_fanatic_rage_crit_desc,"{crit_chance:%s} до шансу критичного удару протягом {duration:%s}с у стані люті. Лють активується, коли {max_stacks:%s} ворогів загинуло в радіусі {radius:%s}м. Критичні удари також зараховуються до активації люті."
+loc_talent_zealot_fanatic_rage_improved,Праведний воїн
+loc_talent_zealot_fanatic_rage_improved_desc,{crit_chance:%s} шансу критичного удару від {talent_name:%s}.
+loc_talent_zealot_fanatic_rage_toughness,Незламний
+loc_talent_zealot_fanatic_rage_toughness_replenish_desc,"Активація люті відновлює {toughness:%s} щитів. Крім того, поки лють активна, гравець має {toughness_damage_reduction:%s} зменшення шкоди по щитах і відновлює {toughness_small:%s} щитів щосекунди."
+loc_talent_zealot_fotf_refund_cooldown_desc,Вбивство елітного або спеціального ворога протягом {duration:%s}с після використання {talent_name:%s} відновлює {cooldown:%s} перезарядження здібності. Спрацьовує один раз за активацію.
+loc_talent_zealot_heal_damage_taken,Відновлення віри
+loc_talent_zealot_heal_damage_taken_desc,При отриманні шкоди зцілює {damage_reduction:%s} від завданої шкоди. Триває {time:%s}с.
+loc_talent_zealot_heal_during_resist_death,Святий ревенант
+loc_talent_zealot_heal_during_resist_death_clamped_desc,"Коли дія {talent_name:%s} завершується, гравець відновлює здоров’я залежно від завданої під час {talent_name:%s} шкоди — до {max_health:%s} макс. здоров’я. Шкода у ближньому бою зцілює, відновлюючи {melee_multiplier:%s} від нанесеної шкоди."
+loc_talent_zealot_improved_spread_post_dodge,Танець смерті
+loc_talent_zealot_improved_spread_post_dodge_desc,{spread:%s} розкиду та {recoil:%s} віддачі протягом {duration:%s}с після успішного ухилення.
+loc_talent_zealot_increased_backstab_damage,Удар у спину
+loc_talent_zealot_increased_damage_on_low_stamina,Відчай
+loc_talent_zealot_increased_damage_stacks_on_hit,Затяжний штурм
+loc_talent_zealot_increased_damage_stacks_on_hit_desc,{damage:%s} до шкоди у ближньому бою протягом {time:%s}с після влучення по ворогу в ближньому бою. Накопичується до {amount:%s} разів.
+loc_talent_zealot_increased_finesse_post_dodge,Дуелянт
+loc_talent_zealot_increased_stagger_on_weakspot_melee,Тяжкі рани
+loc_talent_zealot_increased_stagger_on_weakspot_melee_description,{impact_modifier:%s} збивання з рівноваги при влучанні у слабке місце у ближньому бою.
+loc_talent_zealot_increased_stealth_duration,Досконалий покров тіней
+loc_talent_zealot_leaving_stealth_restores_toughness,Оживляюче одкровення
+loc_talent_zealot_martyrdom,Мучеництво
+loc_talent_zealot_martyrdom_desc,"{damage:%s} до шкоди у ближньому бою за кожну відсутню рану, до максимуму у {max_wounds:%s} відсутніх ран."
+loc_talent_zealot_martyrdom_grants_toughness,Я не впаду
+loc_talent_zealot_martyrdom_grants_toughness_upd_desc,{talent_name:%s} надає {toughness_damage_reduction:%s} зменшення шкоди по щитах за кожен стак.
+loc_talent_zealot_martyrdom_toughness_modifier,Відновлювальні вірші
+loc_talent_zealot_martyrdom_toughness_modifier_upd_desc,{talent_name:%s} надає {toughness_modifier:%s} відновлення щитів за кожен стак.
+loc_talent_zealot_melee_crits_restore_stamina,Без перепочинку
+loc_talent_zealot_melee_crits_restore_stamina_desc,Відновлює {stamina:%s} витривалості при критичному ударі у ближньому бою. Перезарядка: {cooldown:%s}с.
+loc_talent_zealot_momentum_toughness_replenish_desc,Відновлює {toughness:%s} щитів щосекунди за кожен витрачений стак Запалу під час його дії.
+loc_talent_zealot_movement_speed_on_damaged,Нехай твій гнів буде стрімким
+loc_talent_zealot_movement_speed_on_damaged_desc,Ворожі удари у ближньому бою не можуть оглушити гравця. При отриманні шкоди надає {movement_speed:%s} швидкість руху на {time:%s}с.
+loc_talent_zealot_multi_hits_increase_impact,Покарання
+loc_talent_zealot_multi_hits_increase_impact_desc,"Атаки у ближньому бою, що влучають щонайменше по {min_hits:%s} ворогах, надають {impact_modifier:%s} силу збивання з рівноваги на {time:%s}с. Накопичується до {max_stacks:%s} разів. на максимумі стаків надає неперервність."
+loc_talent_zealot_offensive_vs_many,Всупереч усьому
+loc_talent_zealot_offensive_vs_many_desc,За кожні {num_enemies:%s} ворогів у радіусі {range:%s}м отримується {damage:%s} до шкоди та {cleave:%s} розсічення. Накопичується до {stacks:%s} разів.
+loc_talent_zealot_push_attacks_attack_speed_desc,Атаки після відштовхування надають {attack_speed:%s} швидкість атаки у ближньому бою на {duration:%s}с.
+loc_talent_zealot_quickness,Невідворотний суд
+loc_talent_zealot_quickness_desc,"Рух надає Запал (накопичується до {max_stacks:%s} разів).
+
+Коли гравець влучає у ворога, увесь Запал витрачається, надаючи {melee_attack_speed:%s} швидкість атаки у ближньому бою, {ranged_attack_speed:%s} швидкість атаки на відстані та {damage_modifier:%s} шкоду за кожен стак. Триває {duration:%s}с."
+loc_talent_zealot_quickness_dodge_stacks,Розхитана гідність
+loc_talent_zealot_quickness_dodge_stacks_desc,Отримати {stacks:%s} стаків Запалу після успішного ухилення.
+loc_talent_zealot_quickness_increased_duration,Вічний
+loc_talent_zealot_quickness_toughness_per_stack,Стійка відплати
+loc_talent_zealot_ranged_damage_increased_to_close,Помазання у крові
+loc_talent_zealot_ranged_damage_increased_to_close_desc,"До {damage:%s} збільшення базової шкоди на відстані, що зменшується зі збільшенням відстані до цілі."
+loc_talent_zealot_reload_from_backstab,Без запасу
+loc_talent_zealot_reload_from_backstab_desc,Вбивства у спину у ближньому бою відновлюють {ammo:%s} відсутніх набоїв із резерву під час перемикання на дистанційну зброю. Накопичується до {stacks:%s} разів.
+loc_talent_zealot_resist_death,До самої смерті
+loc_talent_zealot_resist_death_desc,"Смертельний удар не вбиває, а натомість надає невразливість на {active_duration:%s}с. Спрацьовує кожні {cooldown_duration:%s}с."
+loc_talent_zealot_revive_speed,Провидіння
+loc_talent_zealot_revive_speed_desc,"{revive_speed:%s} швидкості відродження союзника. Додатково, союзники, яких гравець відроджує/піднімає, отримують {movement_speed:%s} швидкості руху та {tdr:%s} зменшення шкоди по щитам на {duration:%s}с."
+loc_talent_zealot_shared_fanatic_rage,Заражена ревність
+loc_talent_zealot_shared_fanatic_rage_new_desc,"Союзники в єдності мають {crit_chance:%s} шансу критичного удару, доки {talent_name:%s} активна."
+loc_talent_zealot_sprint_improvements_alt_desc,{sprint_speed:%s} швидкості бігу та {sprint_cost:%s} витрат витривалості на біг. Біг протягом {duration:%s}с надає імунітет до сповільнення.
+loc_talent_zealot_stacking_melee_damage_after_dodge,Відплата
+loc_talent_zealot_stacking_melee_damage_after_dodge_desc,{damage:%s} до шкоди у ближньому бою після успішного ухилення. Накопичується до {stacks:%s} разів. Триває {duration:%s}с.
+loc_talent_zealot_stamina_cost_multiplier_aura,Ревний
+loc_talent_zealot_stamina_cost_multiplier_aura_description,{stamina_cost_multiplier:%s} витрати витривалості для гравця та союзників у єдності.
+loc_talent_zealot_stamina_on_block_break,Відсіч у зихисті
+loc_talent_zealot_stamina_on_block_break_alt_desc,"Після пробиття блоку гравець більше не оглушується, а натомість відновлює {stamina:%s} витривалості. Перезарядка: {cooldown:%s}с."
+loc_talent_zealot_stealth_cooldown_regeneration_desc,"Відновлює перезарядження здібності при вбивстві з невидимості. Потвори  відновлюють {monster:%s}, оґрини — {ogryn:%s}, інші — {other:%s}."
+loc_talent_zealot_stealth_duration_threat_damage_desc,Тривалість {talent_name:%s} збільшена на {duration:%s}с. Після виходу з невидимості гравець отримує {threat:%s} рівня загрози та {damage:%s} до шкоди від ударів у спину протягом {buff_duration:%s}с.
+loc_talent_zealot_stealth_increased_damage,Перфекціоніст
+loc_talent_zealot_stealth_toughness_dr_desc,{talent_name:%s} відновлює {toughness:%s} щитів. Після виходу з невидимості гравець отримує {dr:%s} опір шкоді на {duration:%s}с.
+loc_talent_zealot_suppress_on_backstab_kill,У тилу ворога
+loc_talent_zealot_suppress_on_backstab_kill_desc,Важкі убивства у спину у ближньому бою пригнічують ворогів у радіусі {range:%s}м. Перезарядка: {cooldown:%s}с.
+loc_talent_zealot_toughness_aura_efficiency_desc,"{damage_reduction:%s} зменшення шкоди по щитах для гравця та союзників у єдності.
+
+Це посилена версія базової аури — Воля Імператора."
+loc_talent_zealot_toughness_melee_effectiveness,Непохитна віра
+loc_talent_zealot_toughness_melee_effectiveness_desc,{toughness_damage_reduction:%s} зменшення шкоди по щитах після критичного удару на {time:%s}с.
+loc_talent_zealot_toughness_near_enemies_desc,"Відновлює {toughness:%s} щитів щосекунди, перебуваючи в радіусі {range:%s}м від ворога, із бонусом {more_toughness:%s} за кожного додаткового ворога. Потвори рахуються як {monster_count:%s}. Максимум: {max:%s}."
+loc_talent_zealot_toughness_on_dodge,Друге дихання
+loc_talent_zealot_toughness_on_dodge_desc,Відновлення {toughness:%s} щитів після успішного ухилення.
+loc_talent_zealot_toughness_on_heavy_kills,Жорстока жертва
+loc_talent_zealot_toughness_on_heavy_kills_desc,Відновлення {toughness:%s} щитів після вбивства важкою атакою.
+loc_talent_zealot_toughness_on_melee_kill,Кровна спокута
+loc_talent_zealot_toughness_on_melee_kill_desc,{toughness:%s} відновлення щитів після вбивства у ближньому бою.
+loc_talent_zealot_toughness_on_ranged_kill,Голос Терри
+loc_talent_zealot_toughness_on_ranged_kill_desc,Відновлення {toughness:%s} щитів після вбивства на відстані.
+loc_talent_zealot_toughness_regen_in_melee,"Вороги всередині, вороги зовні"
+loc_talent_zealot_uninterruptible_no_slow_heavies,Незворушний
+loc_talent_zealot_uninterruptible_no_slow_heavies_desc,Стати неперервним під час заряджання атак у ближньому бою. Зменшення штрафів до швидкості руху під час важких атак у ближньому бою на {reduction:%s}.
+loc_talent_zealot_weakspot_damage_reduction,Гординя
+loc_talent_zealot_weakspot_damage_reduction_desc,{damage_resistance:%s} опору шкоді після вбивства у слабке місце. Триває {duration:%s}с.
+loc_talent_zealot_zealot_channel_grants_defensive_buff,Свята мета
+loc_talent_zealot_zealot_channel_grants_defensive_buff_desc,Спрямування {stacks:%s} імпульсів надає {toughness:%s} зменшення шкоди по щитах гравцеві та союзникам у єдності. Триває {duration:%s}с.
+loc_talent_zealot_zealot_channel_grants_offensive_buff,Поклик еклезіарха
+loc_talent_zealot_zealot_channel_grants_offensive_buff_desc,Спрямування {stacks:%s} імпульсів надає {damage:%s} до шкоди гравцю та союзникам у єдності. Триває {duration:%s}с.
+loc_talent_zealot_quickness_increased_duration_desc,Збільшити тривалість таланту {talent_name:%s} до {duration:%s} с.
+loc_talent_zealot_bolstering_prayer_variant_two_description,"Тримати святу реліквію, що вивільняє імпульси енергії кожні {interval:%s} с. Під час пульсації союзники в Єдності мають імунітет до оглушення та невразливість.
+
+Кожен імпульс поповнює союзникам у Єдності {toughness:%s} щитів. Якщо союзник має повні щити, натомість він отримує {flat_toughness:%s} макс. щитів аж до загального значення {max_toughness}.
+
+{cooldown:%s} с базової перезарядки."
+loc_talent_zealot_stamina_cost_multiplier_delay_aura_description,{stamina_cost_multiplier:%s} витрати витривалості та зменшення затримки її відновлення на {stamina_delay:%s}с для вас і союзників у Єдності.

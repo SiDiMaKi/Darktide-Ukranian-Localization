@@ -1,0 +1,287 @@
+﻿key,value
+loc_circumstance_assault_description,"Більше набоїв, менше лікування, більше ворогів. Приготуйся бігти."
+loc_circumstance_assault_title,Штурм
+loc_circumstance_darkness_description,"Світла немає, бери ліхтар"
+loc_circumstance_darkness_hunting_grounds_description,Наче каскадних відмов живлення було замало — в зоні висадки помічені пси.
+loc_circumstance_darkness_hunting_grounds_title,Мисливські угіддя (знеструмлення)
+loc_circumstance_darkness_less_resistance_description,"Звіти показують, що ворогів має бути менше. Вони ж використають темряву собі на користь."
+loc_circumstance_darkness_less_resistance_title,Низькоінтенсивна бійня (знеструмлення)
+loc_circumstance_darkness_more_resistance_description,Ми зафіксували високу концентрацію ворогів у зоні місії. Не розраховуй вчасно їх побачити.
+loc_circumstance_darkness_more_resistance_title,Високоінтенсивна бійня (знеструмлення)
+loc_circumstance_darkness_title,Знеструмлення
+loc_circumstance_darkness_twins_solo_description,"Не лише віялові відключення накривають вулик — агенти Вирмвуду повідомляють про щось жахливе, що ховається у темряві."
+loc_circumstance_darkness_twins_solo_title,Жах у темряві
+loc_circumstance_dummy_less_resistance_description,Розвідка вказує на низьку концентрацію ворогів у зоні місії. Очікуй менше боїв високої інтенсивності та спеціалістів.
+loc_circumstance_dummy_less_resistance_title,Зона бою низької інтенсивності
+loc_circumstance_dummy_more_resistance_description,"Розвідка вказує на високу концентрацію ворогів у зоні місії, а також на більшу кількість спеціалістів. Очікуй бої вищої інтенсивності."
+loc_circumstance_dummy_more_resistance_title,Зона бою високої інтенсивності
+loc_circumstance_ember_description,Район місії у вогні. Зграї вогнеметників нишпорять довкола.
+loc_circumstance_ember_title,Пекло
+loc_circumstance_extra_chaos_hounds_description,Обставина: додаткові пси
+loc_circumstance_extra_chaos_hounds_title,Обставина: додаткові пси
+loc_circumstance_extra_snipers_description,Обставина: додаткові снайпери 
+loc_circumstance_extra_snipers_title,Обставина: додаткові снайпери 
+loc_circumstance_flash_mission_01_description,"Хвилі спеціалістів. Потворні спеціалісти (існує шанс, що спеціалісти перетворяться на слабших потвор)."
+loc_circumstance_flash_mission_01_title,Місія Вихор I-II
+loc_circumstance_flash_mission_02_description,"Хвилі спеціалістів. Благословення нурґла (вороги мають шанс отримати посилення, що зробить їх міцнішими)."
+loc_circumstance_flash_mission_02_title,Місія Вихор I-E
+loc_circumstance_flash_mission_03_description,Хвилі спеціалістів. Мисливські угіддя.
+loc_circumstance_flash_mission_03_title,Місія Вихор І-III
+loc_circumstance_flash_mission_04_description,"Мисливські угіддя. Благословення нурґла (вороги мають шанс отримати посилення, що робить їх міцнішими). У гравців на 20% знижено відновлення здібностей."
+loc_circumstance_flash_mission_04_title,Місія Вихор I-E-F
+loc_circumstance_flash_mission_05_description,"Світла немає. Хвилі спеціалістів. Потворні спеціалісти (існує шанс, що спеціалісти перетворяться на слабших потвор)."
+loc_circumstance_flash_mission_05_title,Місія Вихор A-I-II
+loc_circumstance_flash_mission_06_description,Очищення вентиляції. Хвилі спеціалістів. Снайпери.
+loc_circumstance_flash_mission_06_title,Місія Вихор B-I-IV
+loc_circumstance_flash_mission_07_description,Хвилі спеціалістів. Лише фракція скабів. Переважно ближній бій. Набоїв не буде.
+loc_circumstance_flash_mission_07_title,Місія Вихор C-I-VI
+loc_circumstance_flash_mission_08_description,Хвилі спеціалістів. Мисливські угіддя. Хвилі мутантів. У гравців на 20% знижено відновлення здібностей.
+loc_circumstance_flash_mission_08_title,Місія Вихор I-III-VII-F
+loc_circumstance_flash_mission_09_description,Очищення вентиляції. Переважно вороги з далекобійною атакою. Лише фракція скабів. У гравців на 20% знижено відновлення здібностей.
+loc_circumstance_flash_mission_09_title,Місія Вихор B-VIII-V-F
+loc_circumstance_flash_mission_10_description,"Хвилі спеціалізованих ворогів. Благословення Нурґла (вороги мають шанс отримати посилення, яке робить їх міцнішими). Монструозні спеціалісти (шанс, що спеціалісти стануть слабшими монстрами). Тільки фракція скабів. Посилений блітц"
+loc_circumstance_flash_mission_10_title,Вихор I-II-V-E-G
+loc_circumstance_flash_mission_11_description,Хвилі спеціалістів. Снайпери. Додаткові чумовибухачі. Додаткові вибухові бочки. Покращений бліц.
+loc_circumstance_flash_mission_11_title,Місія Вихор D-I-IV-IX-G
+loc_circumstance_flash_mission_12_description,Мисливські угіддя. Додаткові чумовибухачі. Хвилі мутантів. Покращений бліц. Додаткові вибухові бочки.
+loc_circumstance_flash_mission_12_title,Місія Вихор D-III-VII-IX-G
+loc_circumstance_flash_mission_13_description,"Хвилі мутантів. Благословення нурґла (вороги мають шанс отримати посилення, що робить їх міцнішими). Хвилі спеціалістів. У гравців на 20% знижено відновлення здібностей."
+loc_circumstance_flash_mission_13_title,Місія Вихор I-IX-E-F
+loc_circumstance_flash_mission_14_description,Гравці отримують ушкодження поганню з часом. Менше блукаючих ворогів. Без орд. Хвилі спеціалістів. У гравців на 20% знижено відновлення здібностей.
+loc_circumstance_flash_mission_14_title,Місія Вихор X-XI-XII-G-H
+loc_circumstance_flash_mission_15_description,Хвилі спеціалістів. Чумний газ.
+loc_circumstance_flash_mission_15_title,Місія Вихор E-I
+loc_circumstance_flash_mission_16_description,Хвилі спеціалістів. Чумний газ. Мисливські угіддя. Хвилі мутантів.
+loc_circumstance_flash_mission_16_title,Місія Вихор E-I-III-VII
+loc_circumstance_flash_mission_17_description,"Хвилі спеціалістів. Чумний газ. Благословення нурґла (вороги мають шанс отримати посилення, що робить їх міцнішими). Лише фракція дреґів. Посилені патрулі."
+loc_circumstance_flash_mission_17_title,Місія Вихор E-H-I-XIV-XV
+loc_circumstance_flash_mission_18_description,"Хвилі спеціалістів. Чумний газ. Потворні спеціалісти (існує шанс, що спеціалісти перетворяться на слабших потвор). Снайпери."
+loc_circumstance_flash_mission_18_title,Місія Вихор J-I-II-IV
+loc_circumstance_flash_mission_19_description,"Хвилі спеціалістів. Чумний газ. Потворні спеціалісти (існує шанс, що спеціалісти перетворяться на слабших потвор). Переважно ближній бій."
+loc_circumstance_flash_mission_19_title,Місія Вихор J-I-II-VI
+loc_circumstance_hunting_grounds_description,Ворог випустив зграю псів у цьому районі.
+loc_circumstance_hunting_grounds_less_resistance_description,Надходить багато звітів про активність гончих у зоні висадки. З позитивного — тобі доведеться мати справу з меншою кількістю єретиків.
+loc_circumstance_hunting_grounds_less_resistance_title,Низькоінтенсивні мисливські угіддя
+loc_circumstance_hunting_grounds_more_resistance_description,Очікуй багато єретиків і багато псів. Не витрачай усі набої одразу.
+loc_circumstance_hunting_grounds_more_resistance_title,Високоінтенсивні мисливські угіддя
+loc_circumstance_hunting_grounds_title,Мисливські угіддя
+loc_circumstance_min_resistance_max_challenge_description,"Єретики виставили свої елітні загони. Хоч їх менше, але легкого бою не чекай."
+loc_circumstance_min_resistance_max_challenge_title,Елітний опір
+loc_circumstance_more_hordes_description,Обставина: більше орд
+loc_circumstance_more_hordes_title,Обставина: більше орд
+loc_circumstance_more_monsters_description,Обставина: більше потвор
+loc_circumstance_more_monsters_title,Обставина: більше потвор
+loc_circumstance_more_specials_description,Обставина: більше спеціалістів
+loc_circumstance_more_specials_title,Обставина: більше спеціалістів
+loc_circumstance_more_witches_description,Обставина: більше відьом
+loc_circumstance_more_witches_title,Обставина: більше відьом
+loc_circumstance_nurgle_manifestation_description,Отримання шкоди від поганні з часом.
+loc_circumstance_nurgle_manifestation_title,Єретичне порушення
+loc_circumstance_plasma_smugglers_darkness_description,Звіт підтверджує присутність важкоозброєних плазмових загонів у зоні операції. Видимість обмежена.
+loc_circumstance_plasma_smugglers_darkness_title,Стрілянина (знеструмлення)
+loc_circumstance_plasma_smugglers_ventilation_description,Звіт підтверджує присутність важкоозброєних плазмових загонів у зоні операції. Видимість обмежена.
+loc_circumstance_plasma_smugglers_ventilation_title,Стрілянина (очищення вентиляції)
+loc_circumstance_six_one_flash_mission_01_description,"Знижена інтенсивність появ ворогів, але значно важчі окремі вороги"
+loc_circumstance_six_one_flash_mission_01_title,Місія Вихор XIII
+loc_circumstance_six_one_flash_mission_02_description,"Очищення вентиляції. Знижена інтенсивність появ ворогів,, але значно важчі окремі вороги"
+loc_circumstance_six_one_flash_mission_02_title,Місія Вихор b-XIII
+loc_circumstance_six_one_flash_mission_03_description,"Темрява. Знижена інтенсивність появ ворогів,, але значно важчі окремі вороги"
+loc_circumstance_six_one_flash_mission_03_title,Місія Вихор a-XIII
+loc_circumstance_six_one_flash_mission_04_description,"Хвилі спеціалістів. Знижена інтенсивність появ ворогів,, але значно важчі окремі вороги"
+loc_circumstance_six_one_flash_mission_04_title,Місія Вихор І-XIII
+loc_circumstance_stolen_rations_destroy_waves_of_specials_description,Знищити або забрати вкрадені запаси. Очікується використання великого числа спеціалістів.
+loc_circumstance_stolen_rations_destroy_waves_of_specials_title,"Вкрадені запаси (стрілянина високої інтенсивності, голодні бунти) "
+loc_circumstance_toxic_gas_description,У цьому районі виявлено високу концентрацію моебіанської чуми Зетафіт-13. Тренуйся затримувати дихання.
+loc_circumstance_toxic_gas_less_resistance_description,"У цьому районі виявлено високу концентрацію моебіанської чуми Зетафіт-13, але меншу кількість єретиків."
+loc_circumstance_toxic_gas_less_resistance_title,Низькоінтенсивний чумний газ
+loc_circumstance_toxic_gas_more_resistance_description,У цьому районі виявлено вищу концентрацію моебіанської чуми Зетафіт-13 та активність єретиків.
+loc_circumstance_toxic_gas_more_resistance_title,Високоінтенсивний чумний газ
+loc_circumstance_toxic_gas_title,Чумний газ
+loc_circumstance_ventilation_purge_description,Видимість знижена. Тримай зброю ближнього бою напоготові.
+loc_circumstance_ventilation_purge_less_resistance_description,Видимість знижена. Агенти Вирмвуду повідомляють про меншу концентрацію ворогів у зоні місії.
+loc_circumstance_ventilation_purge_less_resistance_title,Низькоінтенсивна бійня (очищення вентиляції)
+loc_circumstance_ventilation_purge_more_resistance_description,Видимість знижена. Розвідка показує високу концентрацію ворогів у зоні місії.
+loc_circumstance_ventilation_purge_more_resistance_title,Високоінтенсивна бійня (очищення вентиляції)
+loc_circumstance_ventilation_purge_title,Очищення вентиляції
+loc_circumstance_ventilation_purge_with_snipers_description,Видимість знижена. Збільшена кількість снайперів у зоні висадки.
+loc_circumstance_ventilation_purge_with_snipers_less_resistance_description,"Видимість знижена. Агенти Вирмвуда повідомляють про меншу концентрацію ворогів у зоні місії, але збільшену присутність снайперів. Не розслаблятись."
+loc_circumstance_ventilation_purge_with_snipers_less_resistance_title,Низькоінтенсивна снайперська бійня (очищення вентиляції)
+loc_circumstance_ventilation_purge_with_snipers_more_resistance_description,Видимість знижена. Розвідка показує високу концентрацію ворогів у зоні місії та збільшену присутність снайперів. Пригніться і позначайте цілі.
+loc_circumstance_ventilation_purge_with_snipers_more_resistance_title,Високоінтенсивна снайперська бійня (очищення вентиляції)
+loc_circumstance_ventilation_purge_with_snipers_title,Снайперська бійня (очищення вентиляції)
+loc_circumstance_waves_of_specials_description,Збільшене розгортання спеціалістів. Очікуй ударні загони спеціалістів. Час відточити пріоритети цілей.
+loc_circumstance_waves_of_specials_less_resistance_description,"Аеро-розвідка повідомляє про меншу концентрацію ворогів у зоні місії, але збільшене розгортання спеціалістів. Очікуй ударні загони спеціалістів."
+loc_circumstance_waves_of_specials_less_resistance_title,Низькоінтенсивна бійня
+loc_circumstance_waves_of_specials_more_resistance_description,"Агенти Вирмвуда допоідають про високу концентрацію ворога в зоні висадки, як і елике число спеціалістів. Очікуються ударні групи спеціалістів"
+loc_circumstance_waves_of_specials_more_resistance_title,Стрілянина високої інтенсивності
+loc_circumstance_waves_of_specials_title,Бійня штурмовиків
+loc_group_finder_difficulty_auric,Хаос
+loc_misison_board_main_objective_title,Основна ціль
+loc_mission_board_bonus_reward_title,Нагорода після завершення
+loc_mission_board_cannot_private_match,"Потрібно бути в ударній групі, щоб грати у приватні ігри."
+loc_mission_board_card_bonus_text,{bonus_text:%s} бонус
+loc_mission_board_danger_high,Єресь
+loc_mission_board_danger_highest,Прокляття
+loc_mission_board_danger_low,Повстання
+loc_mission_board_danger_lowest,Заколот
+loc_mission_board_danger_medium,Злоба
+loc_mission_board_event_panel_label,Звіт по ситуації
+loc_mission_board_event_panel_time_left,Наступне оновлення статусу через {time_left}
+loc_mission_board_flash_mission,++БЛИСКАВКА++
+loc_mission_board_maelstrom_header,Вихор
+loc_mission_board_main_objective_archives_description,Отримати доступ до глибинних архівів у Архівум Сікоракс і здобути для нас розвіддані.
+loc_mission_board_main_objective_armoury_description,"Моебіанці постачають стимулятори з району Карнавалу. Зібрати зразки, що ми могли б проаналізувати на сліди скверни."
+loc_mission_board_main_objective_cargo_description,Єретики мають постачальний ешелон біля HL-17-36. Він нам потрібен. Забезпечте контроль над вантажним залом і подайте сигнал для підкріплення.
+loc_mission_board_main_objective_cartel_description,Завантажте недостовірні розвідувальні дані в процесорну матрицю єретиків у Потоку.
+loc_mission_board_main_objective_complex_description,"Використайте зчитувач даних, щоб отримати доступ до матриці Архівум Вокс, щоб відправити звіт про бойову обстановку поза системою."
+loc_mission_board_main_objective_cooling_description,"HL-17-36 очікує відмова енергосистем. Отримайте доступ до операційного масиву і використайте кріо-стрижні, щоб перезапустити систему."
+loc_mission_board_main_objective_core_research_description,"Проникнути в крижане серце Кландестіум Ґлоріана і виявити забутий секрет, похований усередині."
+loc_mission_board_main_objective_darkforge_description,Головний плавильний цех у Виробничому комплексі HL-17-36 виведено з ладу. Необхідно відновити його роботу будь-якою ціною.
+loc_mission_board_main_objective_enforcer_description,"Ціль знаходиться на базі енфорсерів Потоку. Пройти через каналізацію, вийти на вулиці і ліквідувати."
+loc_mission_board_main_objective_enforcer_twins_description,"Топ-лейтенанти Вульфера, близнюки Карнак, помічені в Потоку. Час зустріти їх у бою та принести їх голови."
+loc_mission_board_main_objective_habblock_description,"Нова форма скверни важко вразила транзитний хаб HL-16-11. Проскануйте залишки чуми і, можливо, нам пощастить."
+loc_mission_board_main_objective_propaganda_description,Єретики захопили вузол зв’язку у одній зі шпилів і використовують його для трансляції пропаганди. Вимкніть його.
+loc_mission_board_main_objective_raid_description,"Увійти в задні провулки Карнавалу. Агенти Вирмвуда повідомляють про зростання активності зрадників і тривожне поширення використання стимуляторів. Виявіть все, що зможете, і знищить будь-які виявлені об'єкти."
+loc_mission_board_main_objective_rails_description,Час поповнити запаси спеціальних боєприпасів. Почати з станції Безодні Логістратуму.
+loc_mission_board_main_objective_resurgence_description,"Вирушити до Енклавум Баросс у Тронсайді, щоб повернути під контроль його оборонну станцію."
+loc_mission_board_main_objective_rise_description,Єретики перевозять партію кристалів Прізмата своїм союзникам у вулику. Ваше завдання перехопити цей вантаж.
+loc_mission_board_main_objective_scavenge_description,"Вирушити у періферійний сектор, щоб зламати сховище акциз і взяти зразок останньої зарази єретиків."
+loc_mission_board_main_objective_strain_description,Єретики готують патоген в одному із паливних переробників пісочного годинника. Отримати доступ до Переробного Комплексу і знищити патоген.
+loc_mission_board_main_objective_trainstation_description,Очільник місцевої банди прибуває поїздом. Проникнути в Безодню Термінуса і стратити єретика.
+loc_mission_board_main_objective_waterstockpile_description,Єретики отруюють воду Тертіуму. Проникнути в силос і відновити подачу чистої води.
+loc_mission_board_mission_category_event,Подія
+loc_mission_board_mission_mode_level_requirement,Потрібно: рівень довіри {player_level:%d}
+loc_mission_board_play_private,Приватна гра
+loc_mission_board_play_public,Публічна гра
+loc_mission_board_quickplay_description,"Грати випадкову місію з коротшим часом очікування. Можна отримати завдання допомогти ударним групам, що вже почали місію."
+loc_mission_board_quickplay_header,Швидка гра
+loc_mission_board_select_difficulty,Обрати рівень загрози
+loc_mission_board_side_objective_title,Другорядна ціль
+loc_mission_board_team_mate_not_available,Напарник недоступний для підбору гравців.
+loc_mission_board_type_auric,Рівень Хаос
+loc_mission_board_type_normal,Стандарт
+loc_mission_board_view,Термінал місій
+loc_mission_board_view_accept_mission,Грати
+loc_mission_board_view_challenge,Щити
+loc_mission_board_view_display_name,Термінал місій
+loc_mission_board_view_experience,Досвід
+loc_mission_board_view_header_tertium_hive,Вулик Тертіум B: Атома Прайм
+loc_mission_board_view_header_tertium_hive_auric,Вулик Тертіум B: операції рівня Хаос
+loc_mission_board_view_options_private_game_desc,Приватна гра: запобігає підбору гравців до твоєї поточної ударної групи.\n\nпотрібна ударна група щонайменше з двох гравців для активації.
+loc_mission_board_view_required_level,Необхідний рівень довіри для цієї місії: {required_level:%d}
+loc_mission_board_view_resistance,Частота
+loc_mission_board_view_reward,Ордо-Кредити
+loc_mission_board_view_time_til_next_sync,Увага! Нові умови бойової зони через: {minutes:%02d}:{seconds:%02d}
+loc_mission_coordinates_cm_archives,HL-19-24-152
+loc_mission_coordinates_cm_habs,HL-16-11-315
+loc_mission_coordinates_cm_raid,HL-70-04-137
+loc_mission_coordinates_core_research,HL-46-03-125.5
+loc_mission_coordinates_dm_forge,HL-17-36-828
+loc_mission_coordinates_dm_rise,HL-16-11-312
+loc_mission_coordinates_dm_stockpile,HL-18-66-533
+loc_mission_coordinates_fm_armoury,HL-70-04-510
+loc_mission_coordinates_fm_cargo,HL-17-36-997
+loc_mission_coordinates_fm_resurgence,HL-19-24-458
+loc_mission_coordinates_hm_cartel,HL-18-66-513
+loc_mission_coordinates_hm_complex,HL-19-24-913
+loc_mission_coordinates_hm_strain,HL-32-2-741
+loc_mission_coordinates_km_enforcer,HL-18-66-552
+loc_mission_coordinates_km_station,HL-16-11-263
+loc_mission_coordinates_lm_cooling,HL-17-36-950
+loc_mission_coordinates_lm_rails,HL-16-11-244
+loc_mission_coordinates_lm_scavenge,HL-32-2-791
+loc_mission_info_circumstance_label,Особливі умови
+loc_mission_info_happening_label,Глобальні умови
+loc_mission_info_side_mission_label,Другорядна ціль
+loc_mission_name_cm_archives,Архівум Сікоракс
+loc_mission_name_cm_habs,Хаб Дрейко
+loc_mission_name_cm_raid,Катакомби 6-19
+loc_mission_name_core_research,Кландастіум Ґлоріана
+loc_mission_name_dm_forge,Плавильний комплекс HL-17-36
+loc_mission_name_dm_propaganda,Релейна станція TRS-150
+loc_mission_name_dm_rise,Підіймальна Секція 31
+loc_mission_name_dm_stockpile,Силосний кластер 18-66/а
+loc_mission_name_fm_armoury,Торгівельний HL-70-04
+loc_mission_name_fm_cargo,Вантажний двір HL-17-36
+loc_mission_name_fm_resurgence,Анклавум Баросс
+loc_mission_name_hm_cartel,Вартова станція Облівіум 
+loc_mission_name_hm_complex,Коммс-плекс 154/2f
+loc_mission_name_hm_strain,Очисний завод дельта-17
+loc_mission_name_hub_ship,Скорботна Зоря
+loc_mission_name_km_enforcer,Магістрат облієт TM8-707
+loc_mission_name_km_enforcer_twins,Ортуський наступ
+loc_mission_name_km_station,Станція Безодні HL-16-11
+loc_mission_name_lm_cooling,Енергетична матриця HL-17-36
+loc_mission_name_lm_rails,Логістратум Безодні
+loc_mission_name_lm_scavenge,Сховище Спайрсайд-13
+loc_mission_name_om_hub_01,Do not translate
+loc_mission_name_om_hub_02,Do not translate
+loc_mission_name_prologue,Бастіон Танкреда
+loc_mission_name_tg_basic_combat_01,Псайканіум
+loc_mission_speaker_title_text,Вхідне повідомлення ...
+loc_mission_strategium_view,Стратегіум
+loc_mission_type_01_name,Наліт
+loc_mission_type_02_name,Усунення
+loc_mission_type_03_name,Розслідування
+loc_mission_type_04_name,Зрив
+loc_mission_type_05_name,Ударна операція
+loc_mission_type_06_name,Шпигунство
+loc_mission_type_07_name,Ремонт
+loc_mission_type_default,Пролог
+loc_npc_full_name_enginseer_a,Техножрець KX-8
+loc_npc_full_name_explicator_a,Слідча Зола
+loc_npc_full_name_interrogator_a,Дознавач Раннік
+loc_npc_full_name_pilot_a,Лейтенант авіації Масозі
+loc_npc_full_name_prison_guard_a,Тюремний охоронець
+loc_npc_full_name_prologue_traitor_a,Зрадник
+loc_npc_full_name_purser_a,Еліс Гелловетт
+loc_npc_full_name_reject_npc_a,Мара Вінчі
+loc_npc_full_name_reject_npc_servitor_a,Підрозділ покути MV1
+loc_npc_full_name_sergeant_a,Сержант-майор Морроу
+loc_npc_full_name_shipmistress_a,Корабельниця Брамс
+loc_npc_full_name_tech_priest_a,Гадрона Омега-7-7
+loc_npc_full_name_tertium_noble_a,Мамзель Дуреллія з дому Баркетт
+loc_npc_full_name_tertium_noble_b,Сір Манґолін з дому Марґрейв
+loc_npc_full_name_training_ground_psyker_a,Сефоні
+loc_npc_full_name_travelling_salesman_a,Піжон
+loc_npc_full_name_vocator_a,Вокатор
+loc_objective_side_mission_consumable_desc,Знайти реліквії для додаткової винагороди
+loc_objective_side_mission_consumable_header,Знайти реліквії
+loc_objective_side_mission_grimoire_desc,Зібрати грімуари
+loc_objective_side_mission_grimoire_header,Зібрати грімуари
+loc_objective_side_mission_luggables_desc,Переносний пристрій потребує підзарядки
+loc_objective_side_mission_luggables_header,Переносний пристрій потребує підзарядки
+loc_objective_side_mission_test_one_desc,Знайти золоті черепи-реліквії для додаткової винагороди
+loc_objective_side_mission_test_one_header,Зібрати реліквії
+loc_objective_side_mission_tome_desc,Знайти 3 загублених Писання для додаткової винагороди
+loc_objective_side_mission_tome_header,Знайти Писання
+loc_social_menu_roster_blocked_players,Заблокованi
+loc_social_menu_roster_friends,Друзi
+loc_social_menu_roster_invites,Запрошення
+loc_social_menu_roster_players_from_previous_missions,Попереднi мiсii
+loc_social_menu_roster_players_in_hub,Скорботна Зоря
+loc_zone_dust,"Вантажний порт HL-32-2, «Пісочний годинник»"
+loc_zone_entertainment,"Житлова зона HL-70-04, «Карнавал»"
+loc_zone_hub,Скорботна Зоря
+loc_zone_name_carnival_short,Карнавал
+loc_zone_name_dust_short,"Вантажний порт HL-32-2, «Пісочний годинник»"
+loc_zone_name_entertainment_short,Карнавал
+loc_zone_name_hourglass_short,Пісочний годинник
+loc_zone_name_tank_foundry_short,Металфаб 36
+loc_zone_name_throneside_short,Тронсайд
+loc_zone_name_transit_short,Безодня Термінуса
+loc_zone_name_void_short,Безодня
+loc_zone_name_watertown_short,Потік
+loc_zone_placeholder,Zone name placeholder
+loc_zone_prologue,Бастіон Танкреда
+loc_zone_tank_foundry,"Виробничий комплекс HL-17-36, «Металфаб 36»"
+loc_zone_throneside,Житлова зона HL-19-24 «Тронсайд»
+loc_zone_transit,"Транзитний вузол HL-16-11, «Безодня Термінусу»"
+loc_zone_void,Міжзонний вакуумний сектор Омега-12
+loc_zone_watertown,"Житлова зона HL-18-66, «Потік»"
+,
+,
+,
+,
+,
+,
